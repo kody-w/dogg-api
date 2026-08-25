@@ -1,12 +1,12 @@
 {
- "tick": 105,
- "utc": "2026-08-25T21:48:13.224Z",
+ "tick": 109,
+ "utc": "2026-08-25T22:28:39.827Z",
  "world": {
   "btc_block_height": {
-   "height": 964055
+   "height": 964058
   },
   "btc_usd": {
-   "spot": "78580.11"
+   "spot": "78637.975"
   },
   "fx_usd": {
    "EUR": "0.8572",
@@ -15,30 +15,30 @@
    "CNY": "6.7387"
   },
   "crypto_market": {
-   "total_mcap_usd": "2662891262472",
+   "total_mcap_usd": "2667099439700",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 86442
+   "tx_count": 85889
   },
   "earthquakes_past_hour": {
-   "count": 9,
+   "count": 8,
    "max_mag": "2.0"
   },
   "iss": {
-   "lat": "-40.733",
-   "lon": "-28.893"
+   "lat": "50.498",
+   "lon": "110.775"
   },
   "space_weather": {
    "kp": "0.33",
    "at": "2026-08-25T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 118,
+   "gco2_kwh": 102,
    "index": "moderate"
   },
   "hn_top": {
@@ -52,17 +52,17 @@
      "yes_price": "0.145"
     },
     {
-     "question": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic",
+     "question": "Will Southampton FC win on 2026-08-25?",
      "yes_price": "0.0005"
     },
     {
-     "question": "Will LASK Linz win on 2026-08-25?",
-     "yes_price": "0.9995"
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0115"
     }
    ]
   }
  },
- "frame_hash": "d9e554388ef0f7fffc776ef8184ae995d68a236cd3f0b02cbe6408ab79d907cf",
- "spine_head": "1106c8b629b1bc762eb5c9ad16dbefcc95267ac1520b82073564a5ddbd498468",
- "built_utc": "2026-08-25T21:57:39Z"
+ "frame_hash": "454fe07a8541f6416d4db73d06d52330678c93efe5dc70052ffe1ef8b67c3931",
+ "spine_head": "72e0fe505523e16a9a1d62454cbed5b224299392f93ee3a36887a1573c6ffcbd",
+ "built_utc": "2026-08-25T22:37:08Z"
 }
