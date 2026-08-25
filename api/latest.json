@@ -1,12 +1,12 @@
 {
- "tick": 100,
- "utc": "2026-08-25T20:47:37.703Z",
+ "tick": 103,
+ "utc": "2026-08-25T21:27:59.800Z",
  "world": {
   "btc_block_height": {
-   "height": 964050
+   "height": 964054
   },
   "btc_usd": {
-   "spot": "78278.765"
+   "spot": "78384.785"
   },
   "fx_usd": {
    "EUR": "0.8572",
@@ -15,30 +15,30 @@
    "CNY": "6.7387"
   },
   "crypto_market": {
-   "total_mcap_usd": "2656167040586",
-   "btc_dominance_pct": "59.1"
+   "total_mcap_usd": "2651795580058",
+   "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 4,
-   "hour_sat_vb": 3
+   "fastest_sat_vb": 3,
+   "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 89365
+   "tx_count": 86350
   },
   "earthquakes_past_hour": {
-   "count": 10,
-   "max_mag": "3.4"
+   "count": 7,
+   "max_mag": "1.6"
   },
   "iss": {
-   "lat": "47.280",
-   "lon": "87.672"
+   "lat": "-34.375",
+   "lon": "-128.490"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-08-25T15:00:00"
+   "kp": "0.33",
+   "at": "2026-08-25T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 125,
+   "gco2_kwh": 122,
    "index": "moderate"
   },
   "hn_top": {
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Valencia CF win on 2026-08-25?",
-     "yes_price": "0.03"
-    },
-    {
      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
      "yes_price": "0.145"
     },
     {
-     "question": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
+     "question": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic",
      "yes_price": "0.0005"
+    },
+    {
+     "question": "Will LASK Linz win on 2026-08-25?",
+     "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "15f96a8659c7051021aa4a82e12d1246bbe0ee3a42c8dbef18fc5a76255423ca",
- "spine_head": "11a73d59900b5be8151243f4a33ca75854590a4c7cf034b7bbdde16852572bab",
- "built_utc": "2026-08-25T20:58:25Z"
+ "frame_hash": "24e06f73a6803cfe33a2b7f685ff08fb4d1d6f16e148bfbd6276e69f9ea0f9ab",
+ "spine_head": "fdcdfcd5ec841508918b247b5df2d7083c909455a0d5c8b1924f6d1698e38f00",
+ "built_utc": "2026-08-25T21:37:02Z"
 }
