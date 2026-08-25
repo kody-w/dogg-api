@@ -14,3 +14,4 @@ Raw base: `https://raw.githubusercontent.com/kody-w/dogg-api/main/`
 Every row carries the frame hash it came from — any value can be audited back to the
 append-only chain that recorded it. That's the difference between this and a mirror of
 an API: the history is verifiable, not asserted.
+\nNote: series endpoints serve a rolling recent window (row counts stated in each\nfile); the append-only chains at kody-w/dogg are the complete, verifiable history.\n

@@ -37,9 +37,14 @@ def main():
     if API.exists():
         shutil.rmtree(API)
     (API / "series").mkdir(parents=True)
+    WINDOW = 1440   # rolling recent window (~10 days at 10-min ticks); the CHAINS are
+                    # the forever-history — the API is a convenience view, so it must
+                    # never grow without bound inside git history
     for src, rows in series.items():
         (API / "series" / f"{src}.json").write_text(json.dumps(
-            {"source": src, "rows": rows, "built_utc": utc(),
+            {"source": src, "rows": rows[-WINDOW:], "window": WINDOW,
+             "total_recorded": len(rows), "built_utc": utc(),
+             "full_history": "walk the world/ chain at github.com/kody-w/dogg (epochs + tail)",
              "backing_chain": "world:@kody-w/dogg (kody-w/dogg /world)"},
             ensure_ascii=False) + "\n")
     latest = world[-1]["payload"]
