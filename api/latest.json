@@ -1,12 +1,12 @@
 {
- "tick": 109,
- "utc": "2026-08-25T22:28:39.827Z",
+ "tick": 115,
+ "utc": "2026-08-25T23:29:18.712Z",
  "world": {
   "btc_block_height": {
-   "height": 964058
+   "height": 964061
   },
   "btc_usd": {
-   "spot": "78637.975"
+   "spot": "78701.035"
   },
   "fx_usd": {
    "EUR": "0.8572",
@@ -15,7 +15,7 @@
    "CNY": "6.7387"
   },
   "crypto_market": {
-   "total_mcap_usd": "2667099439700",
+   "total_mcap_usd": "2660231940475",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
@@ -23,22 +23,22 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 85889
+   "tx_count": 86021
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "2.0"
+   "count": 10,
+   "max_mag": "1.9"
   },
   "iss": {
-   "lat": "50.498",
-   "lon": "110.775"
+   "lat": "-18.836",
+   "lon": "-27.482"
   },
   "space_weather": {
    "kp": "0.33",
    "at": "2026-08-25T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 102,
+   "gco2_kwh": 92,
    "index": "moderate"
   },
   "hn_top": {
@@ -52,17 +52,17 @@
      "yes_price": "0.145"
     },
     {
-     "question": "Will Southampton FC win on 2026-08-25?",
-     "yes_price": "0.0005"
+     "question": "Winston-Salem Open: Mees Rottgering vs Tomas Machac",
+     "yes_price": "0.68"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0115"
+     "question": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata",
+     "yes_price": "0.14"
     }
    ]
   }
  },
- "frame_hash": "454fe07a8541f6416d4db73d06d52330678c93efe5dc70052ffe1ef8b67c3931",
- "spine_head": "72e0fe505523e16a9a1d62454cbed5b224299392f93ee3a36887a1573c6ffcbd",
- "built_utc": "2026-08-25T22:37:08Z"
+ "frame_hash": "a14f5fb632cf704cf01f057242fa78b0282a9674e874b9d5857594cd2c25b3a3",
+ "spine_head": "3c08423305e2be85e4a6a89602ca485d673c0b895ab7fa43f0bc5453e3ec3ffb",
+ "built_utc": "2026-08-25T23:32:38Z"
 }
