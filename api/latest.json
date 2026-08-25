@@ -1,12 +1,12 @@
 {
- "tick": 115,
- "utc": "2026-08-25T23:29:18.712Z",
+ "tick": 117,
+ "utc": "2026-08-25T23:49:32.764Z",
  "world": {
   "btc_block_height": {
-   "height": 964061
+   "height": 964065
   },
   "btc_usd": {
-   "spot": "78701.035"
+   "spot": "78447.125"
   },
   "fx_usd": {
    "EUR": "0.8572",
@@ -15,7 +15,7 @@
    "CNY": "6.7387"
   },
   "crypto_market": {
-   "total_mcap_usd": "2660231940475",
+   "total_mcap_usd": "2657578672042",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
@@ -23,22 +23,22 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 86021
+   "tx_count": 83055
   },
   "earthquakes_past_hour": {
-   "count": 10,
-   "max_mag": "1.9"
+   "count": 6,
+   "max_mag": "1.7"
   },
   "iss": {
-   "lat": "-18.836",
-   "lon": "-27.482"
+   "lat": "39.696",
+   "lon": "23.764"
   },
   "space_weather": {
    "kp": "0.33",
    "at": "2026-08-25T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 92,
+   "gco2_kwh": 93,
    "index": "moderate"
   },
   "hn_top": {
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
+     "question": "Winston-Salem Open: Mees Rottgering vs Tomas Machac",
+     "yes_price": "0.685"
+    },
+    {
      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
      "yes_price": "0.145"
     },
     {
-     "question": "Winston-Salem Open: Mees Rottgering vs Tomas Machac",
-     "yes_price": "0.68"
-    },
-    {
      "question": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata",
-     "yes_price": "0.14"
+     "yes_price": "0.72"
     }
    ]
   }
  },
- "frame_hash": "a14f5fb632cf704cf01f057242fa78b0282a9674e874b9d5857594cd2c25b3a3",
- "spine_head": "3c08423305e2be85e4a6a89602ca485d673c0b895ab7fa43f0bc5453e3ec3ffb",
- "built_utc": "2026-08-25T23:32:38Z"
+ "frame_hash": "47907cf2ec864e2a30dcb2d639957f1759692289a28925efcffc5cd4839de3c1",
+ "spine_head": "079beb58e7fbb109b73c279cbdda4fa1bbb47ba57f4d7af09357e2b07851a319",
+ "built_utc": "2026-08-25T23:53:21Z"
 }
