@@ -1,0 +1,23 @@
+{
+ "schema": "dogg/0-static-api",
+ "built_utc": "2026-08-25T20:57:53Z",
+ "endpoints": {
+  "latest": "api/latest.json",
+  "series": {
+   "btc_block_height": "api/series/btc_block_height.json",
+   "btc_fees": "api/series/btc_fees.json",
+   "btc_mempool": "api/series/btc_mempool.json",
+   "btc_usd": "api/series/btc_usd.json",
+   "crypto_market": "api/series/crypto_market.json",
+   "earthquakes_past_hour": "api/series/earthquakes_past_hour.json",
+   "fx_usd": "api/series/fx_usd.json",
+   "grid_carbon_gb": "api/series/grid_carbon_gb.json",
+   "hn_top": "api/series/hn_top.json",
+   "iss": "api/series/iss.json",
+   "prediction_markets": "api/series/prediction_markets.json",
+   "space_weather": "api/series/space_weather.json"
+  }
+ },
+ "verify": "every row carries its source frame hash; chains at github.com/kody-w/dogg",
+ "protocol": "https://github.com/kody-w/dogg/blob/main/PROTOCOL.md"
+}

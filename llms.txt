@@ -1,0 +1,3 @@
+# dogg-api
+
+> Free static JSON over the DOGG global tick network. Latest: https://raw.githubusercontent.com/kody-w/dogg-api/main/api/latest.json · Directory: https://raw.githubusercontent.com/kody-w/dogg-api/main/api/index.json · Every row carries its source frame hash; verify against https://github.com/kody-w/dogg

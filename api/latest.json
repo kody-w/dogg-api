@@ -1,0 +1,68 @@
+{
+ "tick": 100,
+ "utc": "2026-08-25T20:47:37.703Z",
+ "world": {
+  "btc_block_height": {
+   "height": 964050
+  },
+  "btc_usd": {
+   "spot": "78278.765"
+  },
+  "fx_usd": {
+   "EUR": "0.8572",
+   "GBP": "0.7335",
+   "JPY": "159.1254",
+   "CNY": "6.7387"
+  },
+  "crypto_market": {
+   "total_mcap_usd": "2656167040586",
+   "btc_dominance_pct": "59.1"
+  },
+  "btc_fees": {
+   "fastest_sat_vb": 4,
+   "hour_sat_vb": 3
+  },
+  "btc_mempool": {
+   "tx_count": 89365
+  },
+  "earthquakes_past_hour": {
+   "count": 10,
+   "max_mag": "3.4"
+  },
+  "iss": {
+   "lat": "47.280",
+   "lon": "87.672"
+  },
+  "space_weather": {
+   "kp": "1.0",
+   "at": "2026-08-25T15:00:00"
+  },
+  "grid_carbon_gb": {
+   "gco2_kwh": 125,
+   "index": "moderate"
+  },
+  "hn_top": {
+   "id": 49439017,
+   "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels"
+  },
+  "prediction_markets": {
+   "top_by_volume": [
+    {
+     "question": "Will Valencia CF win on 2026-08-25?",
+     "yes_price": "0.03"
+    },
+    {
+     "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+     "yes_price": "0.145"
+    },
+    {
+     "question": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
+     "yes_price": "0.0005"
+    }
+   ]
+  }
+ },
+ "frame_hash": "15f96a8659c7051021aa4a82e12d1246bbe0ee3a42c8dbef18fc5a76255423ca",
+ "spine_head": "11a73d59900b5be8151243f4a33ca75854590a4c7cf034b7bbdde16852572bab",
+ "built_utc": "2026-08-25T20:57:53Z"
+}
