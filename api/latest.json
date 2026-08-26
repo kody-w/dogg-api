@@ -1,12 +1,12 @@
 {
- "tick": 164,
- "utc": "2026-08-26T07:45:25.365Z",
+ "tick": 170,
+ "utc": "2026-08-26T08:46:06.385Z",
  "world": {
   "btc_block_height": {
-   "height": 964108
+   "height": 964113
   },
   "btc_usd": {
-   "spot": "78986.245"
+   "spot": "78976.925"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,7 +15,7 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2668287863855",
+   "total_mcap_usd": "2667349181087",
    "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
@@ -23,22 +23,22 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84256
+   "tx_count": 84308
   },
   "earthquakes_past_hour": {
-   "count": 10,
-   "max_mag": "4.8"
+   "count": 7,
+   "max_mag": "1.9"
   },
   "iss": {
-   "lat": "50.862",
-   "lon": "-33.302"
+   "lat": "-20.008",
+   "lon": "-170.054"
   },
   "space_weather": {
    "kp": "0.67",
    "at": "2026-08-26T03:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 113,
+   "gco2_kwh": 101,
    "index": "moderate"
   },
   "hn_top": {
@@ -53,16 +53,16 @@
     },
     {
      "question": "Strait of Hormuz traffic returns to normal by September 30?",
-     "yes_price": "0.115"
+     "yes_price": "0.105"
     },
     {
-     "question": "Chicago Cubs vs. Arizona Diamondbacks",
-     "yes_price": "0.866"
+     "question": "LoL: KT Rolster vs HANJIN BRION - Game 1 Winner",
+     "yes_price": "0.985"
     }
    ]
   }
  },
- "frame_hash": "eee71fa6552139025ea7a8a1f278f21941cb64047c937216e4854ef7070e89b5",
- "spine_head": "6c6005498821405e2954ada191fb8ab4aa972ef5749da09b000489fa07bbfef7",
- "built_utc": "2026-08-26T07:53:57Z"
+ "frame_hash": "31ef39905b9033cb84826172b8fd3bef6b7e99399499396c45064b3feeeb0681",
+ "spine_head": "d5ecaddee64f1ecd3e037ed8acf56c1e1458e9daba174af08840ee232ce742ad",
+ "built_utc": "2026-08-26T08:55:29Z"
 }
