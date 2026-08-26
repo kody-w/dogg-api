@@ -1,12 +1,12 @@
 {
- "tick": 143,
- "utc": "2026-08-26T04:13:01.301Z",
+ "tick": 148,
+ "utc": "2026-08-26T05:03:36.258Z",
  "world": {
   "btc_block_height": {
-   "height": 964088
+   "height": 964094
   },
   "btc_usd": {
-   "spot": "79088.905"
+   "spot": "78806.415"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,30 +15,30 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2676887127223",
+   "total_mcap_usd": "2662668606491",
    "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 83542
+   "tx_count": 85200
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "2.3"
+   "count": 4,
+   "max_mag": "2.5"
   },
   "iss": {
-   "lat": "-3.459",
-   "lon": "-86.726"
+   "lat": "-9.548",
+   "lon": "90.752"
   },
   "space_weather": {
    "kp": "0.33",
    "at": "2026-08-26T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 98,
+   "gco2_kwh": 104,
    "index": "moderate"
   },
   "hn_top": {
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "31855caf81f8722d8b07c1bc7b3ca08cb72273ae3cd12510bcaa6fb7b7ccc45e",
- "spine_head": "8b6da0c3281b9b68aa921bb9f09ea8c1ac001501a46f54bc6ccd59e56af0bf18",
- "built_utc": "2026-08-26T04:19:06Z"
+ "frame_hash": "f7e17b28b8f8ce08de651be527e900d97bd63d51c9a7d97235d9de33e4bbb40d",
+ "spine_head": "7450d9268aa59d37a7f48f90609c09cddf85096bb69fe80a930c6ff0b8246034",
+ "built_utc": "2026-08-26T05:07:46Z"
 }
