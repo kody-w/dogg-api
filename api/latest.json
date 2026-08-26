@@ -1,12 +1,12 @@
 {
- "tick": 231,
- "utc": "2026-08-26T19:07:12.228Z",
+ "tick": 250,
+ "utc": "2026-08-26T22:20:11.308Z",
  "world": {
   "btc_block_height": {
-   "height": 964185
+   "height": 964207
   },
   "btc_usd": {
-   "spot": "78441.305"
+   "spot": "78884.565"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,54 +15,54 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2652187719663",
-   "btc_dominance_pct": "59.2"
+   "total_mcap_usd": "2665610013675",
+   "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 4,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80001
+   "tx_count": 84936
   },
   "earthquakes_past_hour": {
-   "count": 11,
-   "max_mag": "4.9"
+   "count": 5,
+   "max_mag": "4.5"
   },
   "iss": {
-   "lat": "-31.976",
-   "lon": "-101.785"
+   "lat": "-47.795",
+   "lon": "-120.036"
   },
   "space_weather": {
    "kp": "0.67",
-   "at": "2026-08-26T15:00:00"
+   "at": "2026-08-26T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 152,
+   "gco2_kwh": 114,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49449507,
-   "title": "GLM-5.3-Flash"
+   "id": 49452990,
+   "title": "Tailcat – Like netcat, but over Tailscale’s data plane"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will Real Madrid CF win on 2026-08-26?",
-     "yes_price": "0.825"
+     "yes_price": "0.9995"
     },
     {
-     "question": "Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A",
-     "yes_price": "0.0005"
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0105"
     },
     {
-     "question": "Real Madrid CF vs. Real Sociedad de Fútbol: O/U 3.5",
-     "yes_price": "0.525"
+     "question": "Strait of Hormuz traffic returns to normal by September 30?",
+     "yes_price": "0.085"
     }
    ]
   }
  },
- "frame_hash": "560cb8e8e9a11e752e169ad8893c7ed9fd896f1f0287e2eea53a8a52f65e087a",
- "spine_head": "aa54d9093e4ddd5c2e4d09ea14b2c44c3428dbf0bc24929cd7e6f3e05aa6387a",
- "built_utc": "2026-08-26T19:14:25Z"
+ "frame_hash": "7084b681b1976884572c72a24ed878c39471bbb37aea686446dd10d85ec1272c",
+ "spine_head": "79d631bd3cca04a04e0cd5bde00801b7cff763e4694e7d24473973b1c770479a",
+ "built_utc": "2026-08-26T22:26:54Z"
 }
