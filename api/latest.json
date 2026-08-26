@@ -1,12 +1,12 @@
 {
- "tick": 218,
- "utc": "2026-08-26T16:53:54.531Z",
+ "tick": 231,
+ "utc": "2026-08-26T19:07:12.228Z",
  "world": {
   "btc_block_height": {
-   "height": 964174
+   "height": 964185
   },
   "btc_usd": {
-   "spot": "77993.345"
+   "spot": "78441.305"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,30 +15,30 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2638661073907",
-   "btc_dominance_pct": "59.3"
+   "total_mcap_usd": "2652187719663",
+   "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80645
+   "tx_count": 80001
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "2.7"
+   "count": 11,
+   "max_mag": "4.9"
   },
   "iss": {
-   "lat": "45.586",
-   "lon": "136.118"
+   "lat": "-31.976",
+   "lon": "-101.785"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-08-26T12:00:00"
+   "kp": "0.67",
+   "at": "2026-08-26T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 133,
+   "gco2_kwh": 152,
    "index": "moderate"
   },
   "hn_top": {
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Counter-Strike: Natus Vincere vs M80 - Map 2 Winner",
-     "yes_price": "0.0005"
+     "question": "Will Real Madrid CF win on 2026-08-26?",
+     "yes_price": "0.825"
     },
     {
      "question": "Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A",
-     "yes_price": "0.565"
+     "yes_price": "0.0005"
     },
     {
-     "question": "Strait of Hormuz traffic returns to normal by September 30?",
-     "yes_price": "0.095"
+     "question": "Real Madrid CF vs. Real Sociedad de Fútbol: O/U 3.5",
+     "yes_price": "0.525"
     }
    ]
   }
  },
- "frame_hash": "ebdb8c68c8ffcdd5db9f83bce7be4f3dc4f00c67f12021733a0dda9637d97943",
- "spine_head": "e445e3cce8085dec22ba3222b43fe85df97eeacd0bbf448bbd0f4ff9caca4060",
- "built_utc": "2026-08-26T16:54:47Z"
+ "frame_hash": "560cb8e8e9a11e752e169ad8893c7ed9fd896f1f0287e2eea53a8a52f65e087a",
+ "spine_head": "aa54d9093e4ddd5c2e4d09ea14b2c44c3428dbf0bc24929cd7e6f3e05aa6387a",
+ "built_utc": "2026-08-26T19:14:25Z"
 }
