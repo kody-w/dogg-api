@@ -1,12 +1,12 @@
 {
- "tick": 213,
- "utc": "2026-08-26T16:02:23.526Z",
+ "tick": 218,
+ "utc": "2026-08-26T16:53:54.531Z",
  "world": {
   "btc_block_height": {
-   "height": 964166
+   "height": 964174
   },
   "btc_usd": {
-   "spot": "77998.915"
+   "spot": "77993.345"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,54 +15,54 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2638349053795",
-   "btc_dominance_pct": "59.2"
+   "total_mcap_usd": "2638661073907",
+   "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 85487
+   "tx_count": 80645
   },
   "earthquakes_past_hour": {
-   "count": 4,
-   "max_mag": "1.1"
+   "count": 7,
+   "max_mag": "2.7"
   },
   "iss": {
-   "lat": "-34.304",
-   "lon": "-51.765"
+   "lat": "45.586",
+   "lon": "136.118"
   },
   "space_weather": {
    "kp": "1.0",
    "at": "2026-08-26T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 100,
+   "gco2_kwh": 133,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49448321,
-   "title": "AWS Acquires DuckDB"
+   "id": 49449507,
+   "title": "GLM-5.3-Flash"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Strait of Hormuz traffic returns to normal by September 30?",
-     "yes_price": "0.115"
-    },
-    {
      "question": "Counter-Strike: Natus Vincere vs M80 - Map 2 Winner",
-     "yes_price": "0.05"
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will Real Madrid CF win on 2026-08-26?",
-     "yes_price": "0.795"
+     "question": "Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A",
+     "yes_price": "0.565"
+    },
+    {
+     "question": "Strait of Hormuz traffic returns to normal by September 30?",
+     "yes_price": "0.095"
     }
    ]
   }
  },
- "frame_hash": "0e8d00465f8591905f1562ffbbe09529466f86049bbc2b07d820bfe1e9658e70",
- "spine_head": "46cd441b1fbb1bad89e9a840072129fc2ebc137441bfd7efaf3a8d8c16bc53be",
- "built_utc": "2026-08-26T16:03:12Z"
+ "frame_hash": "ebdb8c68c8ffcdd5db9f83bce7be4f3dc4f00c67f12021733a0dda9637d97943",
+ "spine_head": "e445e3cce8085dec22ba3222b43fe85df97eeacd0bbf448bbd0f4ff9caca4060",
+ "built_utc": "2026-08-26T16:54:47Z"
 }
