@@ -1,12 +1,12 @@
 {
- "tick": 137,
- "utc": "2026-08-26T03:12:21.209Z",
+ "tick": 143,
+ "utc": "2026-08-26T04:13:01.301Z",
  "world": {
   "btc_block_height": {
-   "height": 964084
+   "height": 964088
   },
   "btc_usd": {
-   "spot": "79071.115"
+   "spot": "79088.905"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,30 +15,30 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2670999949564",
+   "total_mcap_usd": "2676887127223",
    "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84061
+   "tx_count": 83542
   },
   "earthquakes_past_hour": {
-   "count": 2,
-   "max_mag": "4.5"
+   "count": 3,
+   "max_mag": "2.3"
   },
   "iss": {
-   "lat": "42.617",
-   "lon": "65.014"
+   "lat": "-3.459",
+   "lon": "-86.726"
   },
   "space_weather": {
    "kp": "0.33",
    "at": "2026-08-26T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 94,
+   "gco2_kwh": 98,
    "index": "moderate"
   },
   "hn_top": {
@@ -52,17 +52,17 @@
      "yes_price": "0.145"
     },
     {
-     "question": "Will Darline Graham Nordone be the new republican nominee for Senate in South Carolina?",
-     "yes_price": "0.9995"
+     "question": "Strait of Hormuz traffic returns to normal by September 30?",
+     "yes_price": "0.115"
     },
     {
-     "question": "Strait of Hormuz traffic returns to normal by September 30?",
-     "yes_price": "0.095"
+     "question": "Chicago Cubs vs. Arizona Diamondbacks",
+     "yes_price": "0.866"
     }
    ]
   }
  },
- "frame_hash": "966aad16b1eeba4819d60d3ff7c718b8bf3fd48a25aa486928b4007333425187",
- "spine_head": "bc763fcf1004a5bf51d734e15c7b64253aac95b27cd5e7441ed74dc10f1a0e61",
- "built_utc": "2026-08-26T03:14:09Z"
+ "frame_hash": "31855caf81f8722d8b07c1bc7b3ca08cb72273ae3cd12510bcaa6fb7b7ccc45e",
+ "spine_head": "8b6da0c3281b9b68aa921bb9f09ea8c1ac001501a46f54bc6ccd59e56af0bf18",
+ "built_utc": "2026-08-26T04:19:06Z"
 }
