@@ -1,12 +1,12 @@
 {
- "tick": 129,
- "utc": "2026-08-26T01:51:04.742Z",
+ "tick": 137,
+ "utc": "2026-08-26T03:12:21.209Z",
  "world": {
   "btc_block_height": {
-   "height": 964077
+   "height": 964084
   },
   "btc_usd": {
-   "spot": "78812.245"
+   "spot": "79071.115"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,35 +15,35 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2666819405515",
-   "btc_dominance_pct": "59.2"
+   "total_mcap_usd": "2670999949564",
+   "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
    "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84466
+   "tx_count": 84061
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "2.3"
+   "count": 2,
+   "max_mag": "4.5"
   },
   "iss": {
-   "lat": "11.188",
-   "lon": "123.113"
+   "lat": "42.617",
+   "lon": "65.014"
   },
   "space_weather": {
    "kp": "0.33",
-   "at": "2026-08-25T21:00:00"
+   "at": "2026-08-26T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 93,
+   "gco2_kwh": 94,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49439017,
-   "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels"
+   "id": 49433292,
+   "title": "Apple introduces M6 and M5 Ultra"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -57,12 +57,12 @@
     },
     {
      "question": "Strait of Hormuz traffic returns to normal by September 30?",
-     "yes_price": "0.115"
+     "yes_price": "0.095"
     }
    ]
   }
  },
- "frame_hash": "b235d7379a0bfcbfd6a67836ab879d5a00af579bb84edf2922ee293a38b9d058",
- "spine_head": "36b99b7dda337895221de49c87dc3b34153dd1e1c5f8fc5c7841bb325f509004",
- "built_utc": "2026-08-26T01:51:44Z"
+ "frame_hash": "966aad16b1eeba4819d60d3ff7c718b8bf3fd48a25aa486928b4007333425187",
+ "spine_head": "bc763fcf1004a5bf51d734e15c7b64253aac95b27cd5e7441ed74dc10f1a0e61",
+ "built_utc": "2026-08-26T03:14:09Z"
 }
