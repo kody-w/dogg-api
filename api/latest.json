@@ -1,12 +1,12 @@
 {
- "tick": 196,
- "utc": "2026-08-26T13:09:11.411Z",
+ "tick": 203,
+ "utc": "2026-08-26T14:20:01.058Z",
  "world": {
   "btc_block_height": {
-   "height": 964136
+   "height": 964150
   },
   "btc_usd": {
-   "spot": "78138.62"
+   "spot": "78529.695"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,30 +15,30 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2654269410205",
-   "btc_dominance_pct": "59.2"
+   "total_mcap_usd": "2654727379935",
+   "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 4,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 87079
+   "tx_count": 79145
   },
   "earthquakes_past_hour": {
-   "count": 1,
-   "max_mag": "1.3"
+   "count": 4,
+   "max_mag": "2.2"
   },
   "iss": {
-   "lat": "-51.583",
-   "lon": "56.690"
+   "lat": "-7.185",
+   "lon": "-52.555"
   },
   "space_weather": {
    "kp": "1.0",
    "at": "2026-08-26T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 72,
+   "gco2_kwh": 74,
    "index": "low"
   },
   "hn_top": {
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
+     "question": "Strait of Hormuz traffic returns to normal by September 30?",
+     "yes_price": "0.105"
+    },
+    {
+     "question": "Counter-Strike: Spirit vs DENDELE CS - Map 2 Winner",
      "yes_price": "0.9995"
     },
     {
-     "question": "LoL: KT Rolster vs HANJIN BRION - Game 4 Winner",
-     "yes_price": "0.9995"
-    },
-    {
-     "question": "LoL: KT Rolster vs HANJIN BRION - Game 3 Winner",
-     "yes_price": "0.0005"
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0125"
     }
    ]
   }
  },
- "frame_hash": "b8d4556311cccc39b7f2348fe2afb4581b1fcb4688e9e9f3aceaf5ae4769fc21",
- "spine_head": "8e4933c41abbe1825c32d810048fbcd0af025a6c6c9ddb8b1dba9ead2e560f89",
- "built_utc": "2026-08-26T13:09:24Z"
+ "frame_hash": "afc8975e440c51ca6ca9209faa56f3d97d2ed6b23d52ca5c8f0c128260fd88dc",
+ "spine_head": "34ef6836651184a97d36ea00ec96bb17619d5b989ac4f7dd96e999f46b46197d",
+ "built_utc": "2026-08-26T14:21:25Z"
 }
