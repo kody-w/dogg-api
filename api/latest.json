@@ -1,21 +1,21 @@
 {
- "tick": 117,
- "utc": "2026-08-25T23:49:32.764Z",
+ "tick": 129,
+ "utc": "2026-08-26T01:51:04.742Z",
  "world": {
   "btc_block_height": {
-   "height": 964065
+   "height": 964077
   },
   "btc_usd": {
-   "spot": "78447.125"
+   "spot": "78812.245"
   },
   "fx_usd": {
-   "EUR": "0.8572",
-   "GBP": "0.7335",
-   "JPY": "159.1254",
-   "CNY": "6.7387"
+   "EUR": "0.8569",
+   "GBP": "0.7331",
+   "JPY": "159.2466",
+   "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2657578672042",
+   "total_mcap_usd": "2666819405515",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
@@ -23,19 +23,19 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 83055
+   "tx_count": 84466
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "1.7"
+   "count": 8,
+   "max_mag": "2.3"
   },
   "iss": {
-   "lat": "39.696",
-   "lon": "23.764"
+   "lat": "11.188",
+   "lon": "123.113"
   },
   "space_weather": {
    "kp": "0.33",
-   "at": "2026-08-25T18:00:00"
+   "at": "2026-08-25T21:00:00"
   },
   "grid_carbon_gb": {
    "gco2_kwh": 93,
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Winston-Salem Open: Mees Rottgering vs Tomas Machac",
-     "yes_price": "0.685"
-    },
-    {
      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
      "yes_price": "0.145"
     },
     {
-     "question": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata",
-     "yes_price": "0.72"
+     "question": "Will Darline Graham Nordone be the new republican nominee for Senate in South Carolina?",
+     "yes_price": "0.9995"
+    },
+    {
+     "question": "Strait of Hormuz traffic returns to normal by September 30?",
+     "yes_price": "0.115"
     }
    ]
   }
  },
- "frame_hash": "47907cf2ec864e2a30dcb2d639957f1759692289a28925efcffc5cd4839de3c1",
- "spine_head": "079beb58e7fbb109b73c279cbdda4fa1bbb47ba57f4d7af09357e2b07851a319",
- "built_utc": "2026-08-25T23:53:21Z"
+ "frame_hash": "b235d7379a0bfcbfd6a67836ab879d5a00af579bb84edf2922ee293a38b9d058",
+ "spine_head": "36b99b7dda337895221de49c87dc3b34153dd1e1c5f8fc5c7841bb325f509004",
+ "built_utc": "2026-08-26T01:51:44Z"
 }
