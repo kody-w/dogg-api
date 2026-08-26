@@ -1,12 +1,12 @@
 {
- "tick": 153,
- "utc": "2026-08-26T05:54:10.250Z",
+ "tick": 159,
+ "utc": "2026-08-26T06:54:50.038Z",
  "world": {
   "btc_block_height": {
-   "height": 964098
+   "height": 964104
   },
   "btc_usd": {
-   "spot": "78955.735"
+   "spot": "78900.085"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,35 +15,35 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2669262287746",
+   "total_mcap_usd": "2663846669103",
    "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82442
+   "tx_count": 85135
   },
   "earthquakes_past_hour": {
-   "count": 9,
-   "max_mag": "3.1"
+   "count": 7,
+   "max_mag": "2.8"
   },
   "iss": {
-   "lat": "21.540",
-   "lon": "-91.600"
+   "lat": "-51.272",
+   "lon": "133.887"
   },
   "space_weather": {
-   "kp": "0.33",
-   "at": "2026-08-26T00:00:00"
+   "kp": "0.67",
+   "at": "2026-08-26T03:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 129,
+   "gco2_kwh": 123,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49433292,
-   "title": "Apple introduces M6 and M5 Ultra"
+   "id": 49444514,
+   "title": "More than half of adults in U.S. say they lack basic statistical understanding"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "64a166f86e244175c957e8addeb6d070afd1b1ed7b940c1f25300e19763a390b",
- "spine_head": "90e83cec2fd253219ca75861694e5c10de0b3adb5b376f7b1a489f66cd6721fa",
- "built_utc": "2026-08-26T06:02:50Z"
+ "frame_hash": "34d39c7fa4a904c4903cf1e5a40dc28004b31b885e02e9bd1b43d01f84976316",
+ "spine_head": "4908cfbfecd482a6fd7471f0b179f24345a954874b28a97409ea9d11efdc1c4d",
+ "built_utc": "2026-08-26T07:03:04Z"
 }
