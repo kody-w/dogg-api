@@ -1,12 +1,12 @@
 {
- "tick": 170,
- "utc": "2026-08-26T08:46:06.385Z",
+ "tick": 176,
+ "utc": "2026-08-26T09:46:45.418Z",
  "world": {
   "btc_block_height": {
-   "height": 964113
+   "height": 964120
   },
   "btc_usd": {
-   "spot": "78976.925"
+   "spot": "78354.98"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,38 +15,42 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2667349181087",
-   "btc_dominance_pct": "59.3"
+   "total_mcap_usd": "2648688422331",
+   "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
    "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84308
+   "tx_count": 84493
   },
   "earthquakes_past_hour": {
-   "count": 7,
+   "count": 5,
    "max_mag": "1.9"
   },
   "iss": {
-   "lat": "-20.008",
-   "lon": "-170.054"
+   "lat": "-23.012",
+   "lon": "30.727"
   },
   "space_weather": {
    "kp": "0.67",
-   "at": "2026-08-26T03:00:00"
+   "at": "2026-08-26T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 101,
-   "index": "moderate"
+   "gco2_kwh": 81,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49433292,
-   "title": "Apple introduces M6 and M5 Ultra"
+   "id": 49445873,
+   "title": "Oldinsurancemaps.net is now a Charter Project"
   },
   "prediction_markets": {
    "top_by_volume": [
+    {
+     "question": "LoL: KT Rolster vs HANJIN BRION - Game 1 Winner",
+     "yes_price": "0.9995"
+    },
     {
      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
      "yes_price": "0.145"
@@ -54,15 +58,11 @@
     {
      "question": "Strait of Hormuz traffic returns to normal by September 30?",
      "yes_price": "0.105"
-    },
-    {
-     "question": "LoL: KT Rolster vs HANJIN BRION - Game 1 Winner",
-     "yes_price": "0.985"
     }
    ]
   }
  },
- "frame_hash": "31ef39905b9033cb84826172b8fd3bef6b7e99399499396c45064b3feeeb0681",
- "spine_head": "d5ecaddee64f1ecd3e037ed8acf56c1e1458e9daba174af08840ee232ce742ad",
- "built_utc": "2026-08-26T08:55:29Z"
+ "frame_hash": "5fd48e98b83e722afa72136d00d832e4d382a8783ab316d26883b1b8a90dedff",
+ "spine_head": "f284503b118d01fd01eb65df3c5cf3797e320d10af2e29acfffb34059d99ee45",
+ "built_utc": "2026-08-26T09:52:20Z"
 }
