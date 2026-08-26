@@ -1,12 +1,12 @@
 {
- "tick": 176,
- "utc": "2026-08-26T09:46:45.418Z",
+ "tick": 181,
+ "utc": "2026-08-26T10:37:19.141Z",
  "world": {
   "btc_block_height": {
-   "height": 964120
+   "height": 964123
   },
   "btc_usd": {
-   "spot": "78354.98"
+   "spot": "78635.535"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,7 +15,7 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2648688422331",
+   "total_mcap_usd": "2657852153724",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
@@ -23,22 +23,22 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84493
+   "tx_count": 83921
   },
   "earthquakes_past_hour": {
    "count": 5,
-   "max_mag": "1.9"
+   "max_mag": "2.6"
   },
   "iss": {
-   "lat": "-23.012",
-   "lon": "30.727"
+   "lat": "34.150",
+   "lon": "-149.381"
   },
   "space_weather": {
    "kp": "0.67",
    "at": "2026-08-26T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 81,
+   "gco2_kwh": 78,
    "index": "low"
   },
   "hn_top": {
@@ -52,17 +52,17 @@
      "yes_price": "0.9995"
     },
     {
-     "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-     "yes_price": "0.145"
+     "question": "LoL: KT Rolster vs HANJIN BRION - Game 2 Winner",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Strait of Hormuz traffic returns to normal by September 30?",
-     "yes_price": "0.105"
+     "question": "Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A",
+     "yes_price": "0.315"
     }
    ]
   }
  },
- "frame_hash": "5fd48e98b83e722afa72136d00d832e4d382a8783ab316d26883b1b8a90dedff",
- "spine_head": "f284503b118d01fd01eb65df3c5cf3797e320d10af2e29acfffb34059d99ee45",
- "built_utc": "2026-08-26T09:52:20Z"
+ "frame_hash": "74e19043efd9d1cd40030215890da89cd5aa53f1212fc11acda6341b196275c6",
+ "spine_head": "ee0c8fe75db2019315071fc6aabb29a8248b0243a8d2b3f2832905abfb67c6d6",
+ "built_utc": "2026-08-26T10:45:28Z"
 }
