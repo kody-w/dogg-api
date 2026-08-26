@@ -1,12 +1,12 @@
 {
- "tick": 181,
- "utc": "2026-08-26T10:37:19.141Z",
+ "tick": 186,
+ "utc": "2026-08-26T11:27:57.822Z",
  "world": {
   "btc_block_height": {
-   "height": 964123
+   "height": 964128
   },
   "btc_usd": {
-   "spot": "78635.535"
+   "spot": "78625.685"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,30 +15,30 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2657852153724",
+   "total_mcap_usd": "2660526906811",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 83921
+   "tx_count": 87331
   },
   "earthquakes_past_hour": {
-   "count": 5,
+   "count": 11,
    "max_mag": "2.6"
   },
   "iss": {
-   "lat": "34.150",
-   "lon": "-149.381"
+   "lat": "-43.933",
+   "lon": "34.810"
   },
   "space_weather": {
    "kp": "0.67",
    "at": "2026-08-26T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 78,
+   "gco2_kwh": 75,
    "index": "low"
   },
   "hn_top": {
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "LoL: KT Rolster vs HANJIN BRION - Game 1 Winner",
-     "yes_price": "0.9995"
-    },
-    {
      "question": "LoL: KT Rolster vs HANJIN BRION - Game 2 Winner",
      "yes_price": "0.0005"
     },
     {
+     "question": "LoL: KT Rolster vs HANJIN BRION - Game 3 Winner",
+     "yes_price": "0.0005"
+    },
+    {
      "question": "Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A",
-     "yes_price": "0.315"
+     "yes_price": "0.0005"
     }
    ]
   }
  },
- "frame_hash": "74e19043efd9d1cd40030215890da89cd5aa53f1212fc11acda6341b196275c6",
- "spine_head": "ee0c8fe75db2019315071fc6aabb29a8248b0243a8d2b3f2832905abfb67c6d6",
- "built_utc": "2026-08-26T10:45:28Z"
+ "frame_hash": "fd3bf5a9e2f698587c02b14b5c061a3ba45e4462b023661081bc7b41932630a2",
+ "spine_head": "143cd435de467ffc7869a69b3d91030a3df0f2fc79e84a04c2557499698c4dd2",
+ "built_utc": "2026-08-26T11:37:54Z"
 }
