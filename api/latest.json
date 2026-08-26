@@ -1,12 +1,12 @@
 {
- "tick": 203,
- "utc": "2026-08-26T14:20:01.058Z",
+ "tick": 213,
+ "utc": "2026-08-26T16:02:23.526Z",
  "world": {
   "btc_block_height": {
-   "height": 964150
+   "height": 964166
   },
   "btc_usd": {
-   "spot": "78529.695"
+   "spot": "77998.915"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,31 +15,31 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2654727379935",
-   "btc_dominance_pct": "59.3"
+   "total_mcap_usd": "2638349053795",
+   "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79145
+   "tx_count": 85487
   },
   "earthquakes_past_hour": {
    "count": 4,
-   "max_mag": "2.2"
+   "max_mag": "1.1"
   },
   "iss": {
-   "lat": "-7.185",
-   "lon": "-52.555"
+   "lat": "-34.304",
+   "lon": "-51.765"
   },
   "space_weather": {
    "kp": "1.0",
-   "at": "2026-08-26T09:00:00"
+   "at": "2026-08-26T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 74,
-   "index": "low"
+   "gco2_kwh": 100,
+   "index": "moderate"
   },
   "hn_top": {
    "id": 49448321,
@@ -49,20 +49,20 @@
    "top_by_volume": [
     {
      "question": "Strait of Hormuz traffic returns to normal by September 30?",
-     "yes_price": "0.105"
+     "yes_price": "0.115"
     },
     {
-     "question": "Counter-Strike: Spirit vs DENDELE CS - Map 2 Winner",
-     "yes_price": "0.9995"
+     "question": "Counter-Strike: Natus Vincere vs M80 - Map 2 Winner",
+     "yes_price": "0.05"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0125"
+     "question": "Will Real Madrid CF win on 2026-08-26?",
+     "yes_price": "0.795"
     }
    ]
   }
  },
- "frame_hash": "afc8975e440c51ca6ca9209faa56f3d97d2ed6b23d52ca5c8f0c128260fd88dc",
- "spine_head": "34ef6836651184a97d36ea00ec96bb17619d5b989ac4f7dd96e999f46b46197d",
- "built_utc": "2026-08-26T14:21:25Z"
+ "frame_hash": "0e8d00465f8591905f1562ffbbe09529466f86049bbc2b07d820bfe1e9658e70",
+ "spine_head": "46cd441b1fbb1bad89e9a840072129fc2ebc137441bfd7efaf3a8d8c16bc53be",
+ "built_utc": "2026-08-26T16:03:12Z"
 }
