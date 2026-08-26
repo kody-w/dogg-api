@@ -1,12 +1,12 @@
 {
- "tick": 186,
- "utc": "2026-08-26T11:27:57.822Z",
+ "tick": 196,
+ "utc": "2026-08-26T13:09:11.411Z",
  "world": {
   "btc_block_height": {
-   "height": 964128
+   "height": 964136
   },
   "btc_usd": {
-   "spot": "78625.685"
+   "spot": "78138.62"
   },
   "fx_usd": {
    "EUR": "0.8569",
@@ -15,54 +15,54 @@
    "CNY": "6.7370"
   },
   "crypto_market": {
-   "total_mcap_usd": "2660526906811",
+   "total_mcap_usd": "2654269410205",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 4,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 87331
+   "tx_count": 87079
   },
   "earthquakes_past_hour": {
-   "count": 11,
-   "max_mag": "2.6"
+   "count": 1,
+   "max_mag": "1.3"
   },
   "iss": {
-   "lat": "-43.933",
-   "lon": "34.810"
+   "lat": "-51.583",
+   "lon": "56.690"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-08-26T06:00:00"
+   "kp": "1.0",
+   "at": "2026-08-26T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 75,
+   "gco2_kwh": 72,
    "index": "low"
   },
   "hn_top": {
-   "id": 49445873,
-   "title": "Oldinsurancemaps.net is now a Charter Project"
+   "id": 49448321,
+   "title": "AWS Acquires DuckDB"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "LoL: KT Rolster vs HANJIN BRION - Game 2 Winner",
-     "yes_price": "0.0005"
+     "question": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
+     "yes_price": "0.9995"
+    },
+    {
+     "question": "LoL: KT Rolster vs HANJIN BRION - Game 4 Winner",
+     "yes_price": "0.9995"
     },
     {
      "question": "LoL: KT Rolster vs HANJIN BRION - Game 3 Winner",
-     "yes_price": "0.0005"
-    },
-    {
-     "question": "Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A",
      "yes_price": "0.0005"
     }
    ]
   }
  },
- "frame_hash": "fd3bf5a9e2f698587c02b14b5c061a3ba45e4462b023661081bc7b41932630a2",
- "spine_head": "143cd435de467ffc7869a69b3d91030a3df0f2fc79e84a04c2557499698c4dd2",
- "built_utc": "2026-08-26T11:37:54Z"
+ "frame_hash": "b8d4556311cccc39b7f2348fe2afb4581b1fcb4688e9e9f3aceaf5ae4769fc21",
+ "spine_head": "8e4933c41abbe1825c32d810048fbcd0af025a6c6c9ddb8b1dba9ead2e560f89",
+ "built_utc": "2026-08-26T13:09:24Z"
 }
