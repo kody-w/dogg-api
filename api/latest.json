@@ -1,68 +1,68 @@
 {
- "tick": 250,
- "utc": "2026-08-26T22:20:11.308Z",
+ "tick": 279,
+ "utc": "2026-08-27T03:28:38.446Z",
  "world": {
   "btc_block_height": {
-   "height": 964207
+   "height": 964237
   },
   "btc_usd": {
-   "spot": "78884.565"
+   "spot": "78908.055"
   },
   "fx_usd": {
-   "EUR": "0.8569",
-   "GBP": "0.7331",
-   "JPY": "159.2466",
-   "CNY": "6.7370"
+   "EUR": "0.8578",
+   "GBP": "0.7351",
+   "JPY": "159.2349",
+   "CNY": "6.7378"
   },
   "crypto_market": {
-   "total_mcap_usd": "2665610013675",
+   "total_mcap_usd": "2673383803946",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 4,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84936
+   "tx_count": 81556
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "4.5"
+   "count": 7,
+   "max_mag": "2.1"
   },
   "iss": {
-   "lat": "-47.795",
-   "lon": "-120.036"
+   "lat": "4.702",
+   "lon": "-74.945"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-08-26T18:00:00"
+   "kp": "1.33",
+   "at": "2026-08-27T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 114,
+   "gco2_kwh": 92,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49452990,
-   "title": "Tailcat – Like netcat, but over Tailscale’s data plane"
+   "id": 49458161,
+   "title": "Nvidia agrees to acquire Hugging Face for $13B"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Real Madrid CF win on 2026-08-26?",
-     "yes_price": "0.9995"
+     "question": "Will Augusto Cury win the 2026 Brazilian presidential election?",
+     "yes_price": "0.019"
+    },
+    {
+     "question": "Minnesota Twins vs. Athletics",
+     "yes_price": "0.08"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0105"
-    },
-    {
-     "question": "Strait of Hormuz traffic returns to normal by September 30?",
-     "yes_price": "0.085"
+     "yes_price": "0.0115"
     }
    ]
   }
  },
- "frame_hash": "7084b681b1976884572c72a24ed878c39471bbb37aea686446dd10d85ec1272c",
- "spine_head": "79d631bd3cca04a04e0cd5bde00801b7cff763e4694e7d24473973b1c770479a",
- "built_utc": "2026-08-26T22:26:54Z"
+ "frame_hash": "264336319207e9f011cb7febc0a320068b59222dedf5d3aa368c61dd66681bd7",
+ "spine_head": "9dd15024785a5ee81f227c03c5c02174e9ace0e68805fe3d2926f5cc0111d987",
+ "built_utc": "2026-08-27T03:31:26Z"
 }
