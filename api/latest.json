@@ -1,12 +1,12 @@
 {
- "tick": 279,
- "utc": "2026-08-27T03:28:38.446Z",
+ "tick": 312,
+ "utc": "2026-08-27T14:25:59.207Z",
  "world": {
   "btc_block_height": {
-   "height": 964237
+   "height": 964308
   },
   "btc_usd": {
-   "spot": "78908.055"
+   "spot": "79804.9"
   },
   "fx_usd": {
    "EUR": "0.8578",
@@ -15,30 +15,30 @@
    "CNY": "6.7378"
   },
   "crypto_market": {
-   "total_mcap_usd": "2673383803946",
-   "btc_dominance_pct": "59.1"
+   "total_mcap_usd": "2707336963196",
+   "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81556
+   "tx_count": 80980
   },
   "earthquakes_past_hour": {
    "count": 7,
-   "max_mag": "2.1"
+   "max_mag": "1.8"
   },
   "iss": {
-   "lat": "4.702",
-   "lon": "-74.945"
+   "lat": "26.348",
+   "lon": "137.248"
   },
   "space_weather": {
-   "kp": "1.33",
-   "at": "2026-08-27T00:00:00"
+   "kp": "0.67",
+   "at": "2026-08-27T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 92,
+   "gco2_kwh": 139,
    "index": "moderate"
   },
   "hn_top": {
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Augusto Cury win the 2026 Brazilian presidential election?",
-     "yes_price": "0.019"
+     "question": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
+     "yes_price": "0.435"
     },
     {
-     "question": "Minnesota Twins vs. Athletics",
-     "yes_price": "0.08"
+     "question": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
+     "yes_price": "0.9995"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0115"
+     "question": "Will the U.S. invade Iran before 2027?",
+     "yes_price": "0.125"
     }
    ]
   }
  },
- "frame_hash": "264336319207e9f011cb7febc0a320068b59222dedf5d3aa368c61dd66681bd7",
- "spine_head": "9dd15024785a5ee81f227c03c5c02174e9ace0e68805fe3d2926f5cc0111d987",
- "built_utc": "2026-08-27T03:31:26Z"
+ "frame_hash": "ce2b23e6756df1f23ca13554d84448d8f973d0062b6bc2ddb8be23803a634ef3",
+ "spine_head": "9770c00be391748ff9f4ce3e1a8e4672d8192b6cefc53ad8efed66a3f4bdde1e",
+ "built_utc": "2026-08-27T14:33:58Z"
 }
