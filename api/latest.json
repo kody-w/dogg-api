@@ -1,12 +1,12 @@
 {
- "tick": 312,
- "utc": "2026-08-27T14:25:59.207Z",
+ "tick": 367,
+ "utc": "2026-08-27T23:50:35.936Z",
  "world": {
   "btc_block_height": {
-   "height": 964308
+   "height": 964363
   },
   "btc_usd": {
-   "spot": "79804.9"
+   "spot": "80293.745"
   },
   "fx_usd": {
    "EUR": "0.8578",
@@ -15,54 +15,54 @@
    "CNY": "6.7378"
   },
   "crypto_market": {
-   "total_mcap_usd": "2707336963196",
+   "total_mcap_usd": "2714366347989",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80980
+   "tx_count": 83303
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "1.8"
+   "count": 6,
+   "max_mag": "4.9"
   },
   "iss": {
-   "lat": "26.348",
-   "lon": "137.248"
+   "lat": "44.619",
+   "lon": "21.786"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-08-27T09:00:00"
+   "kp": "0.33",
+   "at": "2026-08-27T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 139,
-   "index": "moderate"
+   "gco2_kwh": 178,
+   "index": "high"
   },
   "hn_top": {
-   "id": 49458161,
-   "title": "Nvidia agrees to acquire Hugging Face for $13B"
+   "id": 49468083,
+   "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
-     "yes_price": "0.435"
-    },
-    {
-     "question": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
-     "yes_price": "0.9995"
+     "question": "Los Angeles Dodgers vs. Atlanta Braves",
+     "yes_price": "0.325"
     },
     {
      "question": "Will the U.S. invade Iran before 2027?",
      "yes_price": "0.125"
+    },
+    {
+     "question": "Will Augusto Cury win the 2026 Brazilian presidential election?",
+     "yes_price": "0.036"
     }
    ]
   }
  },
- "frame_hash": "ce2b23e6756df1f23ca13554d84448d8f973d0062b6bc2ddb8be23803a634ef3",
- "spine_head": "9770c00be391748ff9f4ce3e1a8e4672d8192b6cefc53ad8efed66a3f4bdde1e",
- "built_utc": "2026-08-27T14:33:58Z"
+ "frame_hash": "bd3c434fcd7d9c9b1e81b47e91c72a92b2eea80b2dbacf3b6be9ab56c6adc2a6",
+ "spine_head": "3a256a9ab2415928266f214ec18f3c330b7ce33842894d2e1429abc85b028ef7",
+ "built_utc": "2026-08-27T23:56:35Z"
 }
