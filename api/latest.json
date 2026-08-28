@@ -1,12 +1,12 @@
 {
- "tick": 434,
- "utc": "2026-08-28T11:11:25.191Z",
+ "tick": 487,
+ "utc": "2026-08-28T21:23:59.164Z",
  "world": {
   "btc_block_height": {
-   "height": 964422
+   "height": 964480
   },
   "btc_usd": {
-   "spot": "79673.455"
+   "spot": "77361.175"
   },
   "fx_usd": {
    "EUR": "0.8583",
@@ -15,54 +15,54 @@
    "CNY": "6.7372"
   },
   "crypto_market": {
-   "total_mcap_usd": "2698344560537",
-   "btc_dominance_pct": "59.2"
+   "total_mcap_usd": "2629676418859",
+   "btc_dominance_pct": "59.0"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
-   "hour_sat_vb": 1
+   "fastest_sat_vb": 5,
+   "hour_sat_vb": 3
   },
   "btc_mempool": {
-   "tx_count": 80309
+   "tx_count": 87282
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "4.4"
+   "count": 15,
+   "max_mag": "2.6"
   },
   "iss": {
-   "lat": "-2.219",
-   "lon": "-20.446"
+   "lat": "28.520",
+   "lon": "27.461"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-08-28T06:00:00"
+   "kp": "4.33",
+   "at": "2026-08-28T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 55,
+   "gco2_kwh": 89,
    "index": "low"
   },
   "hn_top": {
-   "id": 49476143,
-   "title": "Hilariously Fast Volume Computation with the Divergence Theorem"
+   "id": 49479837,
+   "title": "GUIs should be fully keyboard-driven"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner",
+     "question": "Will Manchester City FC win on 2026-08-28?",
      "yes_price": "0.9995"
     },
     {
-     "question": "LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner",
-     "yes_price": "0.0005"
+     "question": "Will Real Racing Club win on 2026-08-28?",
+     "yes_price": "0.9995"
     },
     {
-     "question": "LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner",
-     "yes_price": "0.9995"
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.485"
     }
    ]
   }
  },
- "frame_hash": "fb31436a4597857f4a1af2e061737692bb239a0634745ef434b0d67578d3806d",
- "spine_head": "36249c6c34d3511c6816d7bf9ff2a632a54f26dd8dfaedcfa56691bacf421617",
- "built_utc": "2026-08-28T11:12:56Z"
+ "frame_hash": "1a7cf9b38185ec75ac296736cd80af2ac6bac8e9abb3a5ac6894ffa74ddf1154",
+ "spine_head": "03c80ae5f4f2d4275a2e1fc1d2422579076c3819d08cd2af3f343cc750860cfd",
+ "built_utc": "2026-08-28T21:29:39Z"
 }
