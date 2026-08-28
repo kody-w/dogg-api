@@ -1,68 +1,68 @@
 {
- "tick": 367,
- "utc": "2026-08-27T23:50:35.936Z",
+ "tick": 434,
+ "utc": "2026-08-28T11:11:25.191Z",
  "world": {
   "btc_block_height": {
-   "height": 964363
+   "height": 964422
   },
   "btc_usd": {
-   "spot": "80293.745"
+   "spot": "79673.455"
   },
   "fx_usd": {
-   "EUR": "0.8578",
-   "GBP": "0.7351",
-   "JPY": "159.2349",
-   "CNY": "6.7378"
+   "EUR": "0.8583",
+   "GBP": "0.7358",
+   "JPY": "159.3272",
+   "CNY": "6.7372"
   },
   "crypto_market": {
-   "total_mcap_usd": "2714366347989",
+   "total_mcap_usd": "2698344560537",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 83303
+   "tx_count": 80309
   },
   "earthquakes_past_hour": {
    "count": 6,
-   "max_mag": "4.9"
+   "max_mag": "4.4"
   },
   "iss": {
-   "lat": "44.619",
-   "lon": "21.786"
+   "lat": "-2.219",
+   "lon": "-20.446"
   },
   "space_weather": {
-   "kp": "0.33",
-   "at": "2026-08-27T18:00:00"
+   "kp": "1.0",
+   "at": "2026-08-28T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 178,
-   "index": "high"
+   "gco2_kwh": 55,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49468083,
-   "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache"
+   "id": 49476143,
+   "title": "Hilariously Fast Volume Computation with the Divergence Theorem"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Los Angeles Dodgers vs. Atlanta Braves",
-     "yes_price": "0.325"
+     "question": "LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner",
+     "yes_price": "0.9995"
     },
     {
-     "question": "Will the U.S. invade Iran before 2027?",
-     "yes_price": "0.125"
+     "question": "LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will Augusto Cury win the 2026 Brazilian presidential election?",
-     "yes_price": "0.036"
+     "question": "LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner",
+     "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "bd3c434fcd7d9c9b1e81b47e91c72a92b2eea80b2dbacf3b6be9ab56c6adc2a6",
- "spine_head": "3a256a9ab2415928266f214ec18f3c330b7ce33842894d2e1429abc85b028ef7",
- "built_utc": "2026-08-27T23:56:35Z"
+ "frame_hash": "fb31436a4597857f4a1af2e061737692bb239a0634745ef434b0d67578d3806d",
+ "spine_head": "36249c6c34d3511c6816d7bf9ff2a632a54f26dd8dfaedcfa56691bacf421617",
+ "built_utc": "2026-08-28T11:12:56Z"
 }
