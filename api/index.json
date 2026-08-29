@@ -1,6 +1,6 @@
 {
  "schema": "dogg/0-static-api",
- "built_utc": "2026-08-29T15:16:45Z",
+ "built_utc": "2026-08-29T18:48:01Z",
  "endpoints": {
   "latest": "api/latest.json",
   "series": {

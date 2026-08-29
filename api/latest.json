@@ -1,12 +1,12 @@
 {
- "tick": 592,
- "utc": "2026-08-29T15:11:32.396Z",
+ "tick": 613,
+ "utc": "2026-08-29T18:45:43.643Z",
  "world": {
   "btc_block_height": {
-   "height": 964586
+   "height": 964608
   },
   "btc_usd": {
-   "spot": "77939.94"
+   "spot": "78137.655"
   },
   "fx_usd": {
    "EUR": "0.8614",
@@ -15,54 +15,54 @@
    "CNY": "6.7421"
   },
   "crypto_market": {
-   "total_mcap_usd": "2649335960065",
+   "total_mcap_usd": "2657135597388",
    "btc_dominance_pct": "59.0"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 85699
+   "tx_count": 94554
   },
   "earthquakes_past_hour": {
-   "count": 4,
-   "max_mag": "1.7"
+   "count": 8,
+   "max_mag": "2.4"
   },
   "iss": {
-   "lat": "-23.955",
-   "lon": "-68.670"
+   "lat": "-29.923",
+   "lon": "9.482"
   },
   "space_weather": {
    "kp": "2.33",
-   "at": "2026-08-29T12:00:00"
+   "at": "2026-08-29T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 121,
+   "gco2_kwh": 161,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49489982,
-   "title": "Debian votes to allow \"responsible use of generative AI\""
+   "id": 49426995,
+   "title": "SQLite as a Document Database (2020)"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
-     "yes_price": "0.0005"
+     "question": "Will Pete Hegseth win the 2028 US Presidential Election?",
+     "yes_price": "0.0015"
+    },
+    {
+     "question": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B",
+     "yes_price": "0.375"
     },
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
      "yes_price": "0.545"
-    },
-    {
-     "question": "Will TSG 1899 Hoffenheim win on 2026-08-29?",
-     "yes_price": "0.235"
     }
    ]
   }
  },
- "frame_hash": "e1d6d7850e310c58c5bf63e01f4f0ad1b12b9e729d0658eb7219046283e11844",
- "spine_head": "f4d8fb9125465465f5761b9abab740b0b223b3150e035ef2190ab4e207770322",
- "built_utc": "2026-08-29T15:16:45Z"
+ "frame_hash": "6a9dc0e7ef611b23ae5623c732ff81a8c804298d7b872bd8222582bd88c642d2",
+ "spine_head": "6bcfb6c6cc75f1b789459ea4e0f6147e4fa52a0f2b842a4aba6b9e66707380ae",
+ "built_utc": "2026-08-29T18:48:01Z"
 }
