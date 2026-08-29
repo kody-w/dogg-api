@@ -1,68 +1,68 @@
 {
- "tick": 487,
- "utc": "2026-08-28T21:23:59.164Z",
+ "tick": 521,
+ "utc": "2026-08-29T03:10:38.713Z",
  "world": {
   "btc_block_height": {
-   "height": 964480
+   "height": 964518
   },
   "btc_usd": {
-   "spot": "77361.175"
+   "spot": "77701.025"
   },
   "fx_usd": {
-   "EUR": "0.8583",
-   "GBP": "0.7358",
-   "JPY": "159.3272",
-   "CNY": "6.7372"
+   "EUR": "0.8614",
+   "GBP": "0.7379",
+   "JPY": "159.9249",
+   "CNY": "6.7421"
   },
   "crypto_market": {
-   "total_mcap_usd": "2629676418859",
+   "total_mcap_usd": "2637106341882",
    "btc_dominance_pct": "59.0"
   },
   "btc_fees": {
-   "fastest_sat_vb": 5,
-   "hour_sat_vb": 3
+   "fastest_sat_vb": 2,
+   "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 87282
+   "tx_count": 84770
   },
   "earthquakes_past_hour": {
-   "count": 15,
-   "max_mag": "2.6"
+   "count": 7,
+   "max_mag": "4.9"
   },
   "iss": {
-   "lat": "28.520",
-   "lon": "27.461"
+   "lat": "-42.324",
+   "lon": "-131.756"
   },
   "space_weather": {
    "kp": "4.33",
-   "at": "2026-08-28T18:00:00"
+   "at": "2026-08-29T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 89,
+   "gco2_kwh": 65,
    "index": "low"
   },
   "hn_top": {
-   "id": 49479837,
-   "title": "GUIs should be fully keyboard-driven"
+   "id": 49485267,
+   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Manchester City FC win on 2026-08-28?",
-     "yes_price": "0.9995"
-    },
-    {
-     "question": "Will Real Racing Club win on 2026-08-28?",
-     "yes_price": "0.9995"
-    },
-    {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.485"
+     "yes_price": "0.535"
+    },
+    {
+     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.455"
+    },
+    {
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0065"
     }
    ]
   }
  },
- "frame_hash": "1a7cf9b38185ec75ac296736cd80af2ac6bac8e9abb3a5ac6894ffa74ddf1154",
- "spine_head": "03c80ae5f4f2d4275a2e1fc1d2422579076c3819d08cd2af3f343cc750860cfd",
- "built_utc": "2026-08-28T21:29:39Z"
+ "frame_hash": "c5e4dfa40c94edf840b30ffeffd7ff88eedd11574c67c9c6e227f067c5633986",
+ "spine_head": "c8e9628e4810f4f4a89225b4d99cc4778ec5bad9bd9cb0ae29b2812ec9927860",
+ "built_utc": "2026-08-29T03:19:27Z"
 }
