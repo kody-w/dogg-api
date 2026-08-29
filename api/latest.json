@@ -1,12 +1,12 @@
 {
- "tick": 563,
- "utc": "2026-08-29T10:16:26.821Z",
+ "tick": 592,
+ "utc": "2026-08-29T15:11:32.396Z",
  "world": {
   "btc_block_height": {
-   "height": 964555
+   "height": 964586
   },
   "btc_usd": {
-   "spot": "77649.115"
+   "spot": "77939.94"
   },
   "fx_usd": {
    "EUR": "0.8614",
@@ -15,54 +15,54 @@
    "CNY": "6.7421"
   },
   "crypto_market": {
-   "total_mcap_usd": "2607924391125",
-   "btc_dominance_pct": "59.5"
+   "total_mcap_usd": "2649335960065",
+   "btc_dominance_pct": "59.0"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 85638
+   "tx_count": 85699
   },
   "earthquakes_past_hour": {
-   "count": 12,
-   "max_mag": "4.7"
+   "count": 4,
+   "max_mag": "1.7"
   },
   "iss": {
-   "lat": "25.029",
-   "lon": "-35.721"
+   "lat": "-23.955",
+   "lon": "-68.670"
   },
   "space_weather": {
-   "kp": "3.67",
-   "at": "2026-08-29T06:00:00"
+   "kp": "2.33",
+   "at": "2026-08-29T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 119,
+   "gco2_kwh": 121,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49487341,
-   "title": "Samsung's Processing-in-Memory (PIM)"
+   "id": 49489982,
+   "title": "Debian votes to allow \"responsible use of generative AI\""
   },
   "prediction_markets": {
    "top_by_volume": [
+    {
+     "question": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
+     "yes_price": "0.0005"
+    },
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
      "yes_price": "0.545"
     },
     {
-     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.435"
-    },
-    {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0075"
+     "question": "Will TSG 1899 Hoffenheim win on 2026-08-29?",
+     "yes_price": "0.235"
     }
    ]
   }
  },
- "frame_hash": "ce8f26b2b3f99c9a4560aec5d6bcf0504649ac8671bac8ece721bde4083004ca",
- "spine_head": "b6334a9c65a6206763153f78d753acde09b0339289e46138bdc38ae4b8cd1f7e",
- "built_utc": "2026-08-29T10:23:19Z"
+ "frame_hash": "e1d6d7850e310c58c5bf63e01f4f0ad1b12b9e729d0658eb7219046283e11844",
+ "spine_head": "f4d8fb9125465465f5761b9abab740b0b223b3150e035ef2190ab4e207770322",
+ "built_utc": "2026-08-29T15:16:45Z"
 }
