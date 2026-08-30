@@ -1,21 +1,21 @@
 {
- "tick": 644,
- "utc": "2026-08-30T00:01:09.149Z",
+ "tick": 677,
+ "utc": "2026-08-30T05:36:05.559Z",
  "world": {
   "btc_block_height": {
-   "height": 964642
+   "height": 964692
   },
   "btc_usd": {
-   "spot": "78214.535"
+   "spot": "78133.435"
   },
   "fx_usd": {
-   "EUR": "0.8614",
+   "EUR": "0.8615",
    "GBP": "0.7379",
-   "JPY": "159.9249",
-   "CNY": "6.7421"
+   "JPY": "159.9283",
+   "CNY": "6.7459"
   },
   "crypto_market": {
-   "total_mcap_usd": "2635264293476",
+   "total_mcap_usd": "2631736773950",
    "btc_dominance_pct": "59.5"
   },
   "btc_fees": {
@@ -23,46 +23,46 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81812
+   "tx_count": 79419
   },
   "earthquakes_past_hour": {
-   "count": 4,
-   "max_mag": "3.4"
+   "count": 2,
+   "max_mag": "1.6"
   },
   "iss": {
-   "lat": "49.933",
-   "lon": "66.874"
+   "lat": "-29.829",
+   "lon": "-155.680"
   },
   "space_weather": {
    "kp": "3.67",
-   "at": "2026-08-29T18:00:00"
+   "at": "2026-08-30T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 119,
+   "gco2_kwh": 99,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49494036,
-   "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online"
+   "id": 49494520,
+   "title": "Bug Blindness"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Club Atlético de Madrid win on 2026-08-29?",
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.505"
+    },
+    {
+     "question": "Will Colorado Rapids SC win on 2026-08-29?",
      "yes_price": "0.9995"
     },
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.535"
-    },
-    {
-     "question": "Boston Red Sox vs. New York Yankees: O/U 7.5",
-     "yes_price": "0.29"
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0095"
     }
    ]
   }
  },
- "frame_hash": "6267a85d937e787c12d91136f33be3899f520de5882ca115ada11f95645832b9",
- "spine_head": "56e282b062563d54dabffe685f0cbd4b7b5a569f9c335734425ee9b43eb378ae",
- "built_utc": "2026-08-30T00:08:36Z"
+ "frame_hash": "c957264205d6d9ab8b7794d3d1f69ccb93c0c546ced865e3279e4c102f234b02",
+ "spine_head": "e39fb6342e2c38deed1c0545fda8532c4427428298901df2c1daa92bf3a673f4",
+ "built_utc": "2026-08-30T05:44:09Z"
 }
