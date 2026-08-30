@@ -1,12 +1,12 @@
 {
- "tick": 713,
- "utc": "2026-08-30T11:40:20.014Z",
+ "tick": 742,
+ "utc": "2026-08-30T16:34:48.687Z",
  "world": {
   "btc_block_height": {
-   "height": 964722
+   "height": 964754
   },
   "btc_usd": {
-   "spot": "78157.605"
+   "spot": "79162.535"
   },
   "fx_usd": {
    "EUR": "0.8615",
@@ -15,54 +15,54 @@
    "CNY": "6.7459"
   },
   "crypto_market": {
-   "total_mcap_usd": "2634526944674",
+   "total_mcap_usd": "2661623424773",
    "btc_dominance_pct": "59.5"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84457
+   "tx_count": 86440
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "2.4"
+   "count": 10,
+   "max_mag": "4.7"
   },
   "iss": {
-   "lat": "-46.643",
-   "lon": "82.100"
+   "lat": "-5.274",
+   "lon": "59.593"
   },
   "space_weather": {
-   "kp": "3.33",
-   "at": "2026-08-30T06:00:00"
+   "kp": "2.0",
+   "at": "2026-08-30T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 81,
-   "index": "low"
+   "gco2_kwh": 118,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49496782,
-   "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)"
+   "id": 49491791,
+   "title": "Creepy Crawlies"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "LoL: Dplus KIA vs KT Rolster - Game 2 Winner",
-     "yes_price": "0.0005"
+     "question": "Will Chelsea FC win on 2026-08-30?",
+     "yes_price": "0.9995"
     },
     {
-     "question": "LoL: JD Gaming vs Team WE - Game 1 Winner",
-     "yes_price": "0.0005"
+     "question": "Will Sunderland AFC win on 2026-08-30?",
+     "yes_price": "0.9995"
     },
     {
-     "question": "LoL: Dplus KIA vs KT Rolster - Game 3 Winner",
-     "yes_price": "0.0005"
+     "question": "Will SSC Napoli win on 2026-08-30?",
+     "yes_price": "0.425"
     }
    ]
   }
  },
- "frame_hash": "be135d60f386e1a160d1dea036dc1efaa0cac2a3327e13cedc35292639b32731",
- "spine_head": "8a87a7b642e728a66b2f7b838d43017e582da1a942475a9a4f5ffd9c02d8fa9e",
- "built_utc": "2026-08-30T11:48:43Z"
+ "frame_hash": "3e24ad9e40ca07a82f8b65f3110a38bbea2af99c6fe813da7307d8876cdff811",
+ "spine_head": "3ff8988a98938d69805da4a248677d4149948937eb273fe893c9fc41e35a03ee",
+ "built_utc": "2026-08-30T16:35:42Z"
 }
