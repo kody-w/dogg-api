@@ -1,12 +1,12 @@
 {
- "tick": 630,
- "utc": "2026-08-29T21:38:40.576Z",
+ "tick": 644,
+ "utc": "2026-08-30T00:01:09.149Z",
  "world": {
   "btc_block_height": {
-   "height": 964629
+   "height": 964642
   },
   "btc_usd": {
-   "spot": "78084.915"
+   "spot": "78214.535"
   },
   "fx_usd": {
    "EUR": "0.8614",
@@ -15,54 +15,54 @@
    "CNY": "6.7421"
   },
   "crypto_market": {
-   "total_mcap_usd": "2650060021314",
-   "btc_dominance_pct": "59.0"
+   "total_mcap_usd": "2635264293476",
+   "btc_dominance_pct": "59.5"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 83115
+   "tx_count": 81812
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "1.6"
+   "count": 4,
+   "max_mag": "3.4"
   },
   "iss": {
-   "lat": "-51.776",
-   "lon": "-95.930"
+   "lat": "49.933",
+   "lon": "66.874"
   },
   "space_weather": {
    "kp": "3.67",
    "at": "2026-08-29T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 136,
+   "gco2_kwh": 119,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49492632,
-   "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview"
+   "id": 49494036,
+   "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Winston-Salem Open: Arthur Fery vs Ignacio Buse",
-     "yes_price": "0.0005"
+     "question": "Will Club Atlético de Madrid win on 2026-08-29?",
+     "yes_price": "0.9995"
     },
     {
-     "question": "Will Pete Hegseth win the 2028 US Presidential Election?",
-     "yes_price": "0.0015"
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.535"
     },
     {
-     "question": "Sevilla FC vs. Club Atlético de Madrid: O/U 4.5",
-     "yes_price": "0.0005"
+     "question": "Boston Red Sox vs. New York Yankees: O/U 7.5",
+     "yes_price": "0.29"
     }
    ]
   }
  },
- "frame_hash": "896d525a078328a130befcbba834988d83fbc7786502a435bc4a66b0d9c54d21",
- "spine_head": "1d78cf1e5a069d116d31c0a977d0a26002225da061a167735b2efd113bee0cb3",
- "built_utc": "2026-08-29T21:39:58Z"
+ "frame_hash": "6267a85d937e787c12d91136f33be3899f520de5882ca115ada11f95645832b9",
+ "spine_head": "56e282b062563d54dabffe685f0cbd4b7b5a569f9c335734425ee9b43eb378ae",
+ "built_utc": "2026-08-30T00:08:36Z"
 }
