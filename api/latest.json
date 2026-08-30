@@ -1,12 +1,12 @@
 {
- "tick": 677,
- "utc": "2026-08-30T05:36:05.559Z",
+ "tick": 713,
+ "utc": "2026-08-30T11:40:20.014Z",
  "world": {
   "btc_block_height": {
-   "height": 964692
+   "height": 964722
   },
   "btc_usd": {
-   "spot": "78133.435"
+   "spot": "78157.605"
   },
   "fx_usd": {
    "EUR": "0.8615",
@@ -15,54 +15,54 @@
    "CNY": "6.7459"
   },
   "crypto_market": {
-   "total_mcap_usd": "2631736773950",
+   "total_mcap_usd": "2634526944674",
    "btc_dominance_pct": "59.5"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79419
+   "tx_count": 84457
   },
   "earthquakes_past_hour": {
-   "count": 2,
-   "max_mag": "1.6"
+   "count": 7,
+   "max_mag": "2.4"
   },
   "iss": {
-   "lat": "-29.829",
-   "lon": "-155.680"
+   "lat": "-46.643",
+   "lon": "82.100"
   },
   "space_weather": {
-   "kp": "3.67",
-   "at": "2026-08-30T00:00:00"
+   "kp": "3.33",
+   "at": "2026-08-30T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 99,
-   "index": "moderate"
+   "gco2_kwh": 81,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49494520,
-   "title": "Bug Blindness"
+   "id": 49496782,
+   "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.505"
+     "question": "LoL: Dplus KIA vs KT Rolster - Game 2 Winner",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will Colorado Rapids SC win on 2026-08-29?",
-     "yes_price": "0.9995"
+     "question": "LoL: JD Gaming vs Team WE - Game 1 Winner",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0095"
+     "question": "LoL: Dplus KIA vs KT Rolster - Game 3 Winner",
+     "yes_price": "0.0005"
     }
    ]
   }
  },
- "frame_hash": "c957264205d6d9ab8b7794d3d1f69ccb93c0c546ced865e3279e4c102f234b02",
- "spine_head": "e39fb6342e2c38deed1c0545fda8532c4427428298901df2c1daa92bf3a673f4",
- "built_utc": "2026-08-30T05:44:09Z"
+ "frame_hash": "be135d60f386e1a160d1dea036dc1efaa0cac2a3327e13cedc35292639b32731",
+ "spine_head": "8a87a7b642e728a66b2f7b838d43017e582da1a942475a9a4f5ffd9c02d8fa9e",
+ "built_utc": "2026-08-30T11:48:43Z"
 }
