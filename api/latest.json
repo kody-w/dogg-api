@@ -1,12 +1,12 @@
 {
- "tick": 742,
- "utc": "2026-08-30T16:34:48.687Z",
+ "tick": 758,
+ "utc": "2026-08-30T19:19:16.494Z",
  "world": {
   "btc_block_height": {
-   "height": 964754
+   "height": 964771
   },
   "btc_usd": {
-   "spot": "79162.535"
+   "spot": "78978.565"
   },
   "fx_usd": {
    "EUR": "0.8615",
@@ -15,35 +15,35 @@
    "CNY": "6.7459"
   },
   "crypto_market": {
-   "total_mcap_usd": "2661623424773",
+   "total_mcap_usd": "2659845117813",
    "btc_dominance_pct": "59.5"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 86440
+   "tx_count": 88258
   },
   "earthquakes_past_hour": {
-   "count": 10,
-   "max_mag": "4.7"
+   "count": 7,
+   "max_mag": "2.8"
   },
   "iss": {
-   "lat": "-5.274",
-   "lon": "59.593"
+   "lat": "-51.785",
+   "lon": "-67.391"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-08-30T12:00:00"
+   "kp": "2.67",
+   "at": "2026-08-30T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 118,
+   "gco2_kwh": 145,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49491791,
-   "title": "Creepy Crawlies"
+   "id": 49499867,
+   "title": "Haiku R1/beta6 has been released"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -56,13 +56,13 @@
      "yes_price": "0.9995"
     },
     {
-     "question": "Will SSC Napoli win on 2026-08-30?",
-     "yes_price": "0.425"
+     "question": "FC Nordsjælland vs. Brøndby IF: O/U 2.5",
+     "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "3e24ad9e40ca07a82f8b65f3110a38bbea2af99c6fe813da7307d8876cdff811",
- "spine_head": "3ff8988a98938d69805da4a248677d4149948937eb273fe893c9fc41e35a03ee",
- "built_utc": "2026-08-30T16:35:42Z"
+ "frame_hash": "f8dec2deaac2bce58f1eea779c67b00617ffe7e739f7a6fc6fb761b597e191af",
+ "spine_head": "ddba95cb8e57142d67c1df5cf3ea401bf1fe117d59ca49bf83c7d2f26d839783",
+ "built_utc": "2026-08-30T19:25:10Z"
 }
