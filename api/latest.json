@@ -1,12 +1,12 @@
 {
- "tick": 811,
- "utc": "2026-08-31T06:32:57.271Z",
+ "tick": 812,
+ "utc": "2026-08-31T14:24:48.236Z",
  "world": {
   "btc_block_height": {
-   "height": 964837
+   "height": 964890
   },
   "btc_usd": {
-   "spot": "77995.495"
+   "spot": "77812.895"
   },
   "fx_usd": {
    "EUR": "0.8623",
@@ -15,54 +15,54 @@
    "CNY": "6.7358"
   },
   "crypto_market": {
-   "total_mcap_usd": "2615324730008",
-   "btc_dominance_pct": "59.6"
+   "total_mcap_usd": "2641052295968",
+   "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 83933
+   "tx_count": 80804
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "1.8"
+   "count": 6,
+   "max_mag": "2.3"
   },
   "iss": {
-   "lat": "0.899",
-   "lon": "-148.524"
+   "lat": "22.729",
+   "lon": "110.122"
   },
   "space_weather": {
    "kp": "3.33",
-   "at": "2026-08-31T03:00:00"
+   "at": "2026-08-31T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 81,
+   "gco2_kwh": 53,
    "index": "low"
   },
   "hn_top": {
-   "id": 49503601,
-   "title": "“I just chose words carefully”"
+   "id": 49507822,
+   "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
-     "yes_price": "0.09"
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0065"
     },
     {
-     "question": "US Open WTA: Venus Williams vs Sofia Kenin",
-     "yes_price": "0.0005"
+     "question": "Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+     "yes_price": "0.565"
     },
     {
-     "question": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
-     "yes_price": "0.695"
+     "question": "Counter-Strike: G2 vs Aurora Gaming - Map 2 Winner",
+     "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "df0c0bcb4625f30d0c58ee66b96df22dff2b1bb611b97ed68ed11e93cbffc397",
- "spine_head": "3551d524338001833822a4eb2788df2a72c4079ccf683e5d89e0e1b7753aa069",
- "built_utc": "2026-08-31T13:31:57Z"
+ "frame_hash": "775dc164735530f49560e34a983479c567f284d44aa8c9c7eabc26fd19521034",
+ "spine_head": "15b73bde4f11c88ac002a5ac443909d7471fd2a899fbb0dbe7dfd4bee7a40d23",
+ "built_utc": "2026-08-31T19:35:46Z"
 }
