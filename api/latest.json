@@ -1,68 +1,68 @@
 {
- "tick": 773,
- "utc": "2026-08-30T21:54:39.603Z",
+ "tick": 787,
+ "utc": "2026-08-31T00:20:05.698Z",
  "world": {
   "btc_block_height": {
-   "height": 964793
+   "height": 964806
   },
   "btc_usd": {
-   "spot": "78610.79"
+   "spot": "77856.485"
   },
   "fx_usd": {
-   "EUR": "0.8615",
-   "GBP": "0.7379",
-   "JPY": "159.9283",
-   "CNY": "6.7459"
+   "EUR": "0.8623",
+   "GBP": "0.7382",
+   "JPY": "160.0451",
+   "CNY": "6.7358"
   },
   "crypto_market": {
-   "total_mcap_usd": "2638892213513",
-   "btc_dominance_pct": "59.6"
+   "total_mcap_usd": "2598265455839",
+   "btc_dominance_pct": "59.7"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82379
+   "tx_count": 84642
   },
   "earthquakes_past_hour": {
-   "count": 9,
-   "max_mag": "3.1"
+   "count": 7,
+   "max_mag": "2.0"
   },
   "iss": {
-   "lat": "21.101",
-   "lon": "144.806"
+   "lat": "-2.936",
+   "lon": "-56.792"
   },
   "space_weather": {
    "kp": "2.0",
-   "at": "2026-08-30T18:00:00"
+   "at": "2026-08-30T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 126,
-   "index": "moderate"
+   "gco2_kwh": 86,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49491791,
-   "title": "Creepy Crawlies"
+   "id": 49503601,
+   "title": "“I just chose words carefully”"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Jaume Munar vs Terence Atmane",
-     "yes_price": "0.57"
+     "question": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
+     "yes_price": "0.065"
     },
     {
-     "question": "Will Eyüpspor win on 2026-08-30?",
-     "yes_price": "0.9995"
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.465"
     },
     {
-     "question": "Will FC Internazionale Milano win on 2026-08-30?",
-     "yes_price": "0.9995"
+     "question": "Will Bitcoin reach $100,000 in August?",
+     "yes_price": "0.0005"
     }
    ]
   }
  },
- "frame_hash": "5161a20be9697f37c0cda051ca4121908cfecc15223fff28c106311b457c4973",
- "spine_head": "6e684828b6c41a3148ee5675b5ec215288e85df216acae9aad46cb2b123c10d5",
- "built_utc": "2026-08-30T22:01:03Z"
+ "frame_hash": "3247a169b139a9ff85cc45eea7b4696e32e5618e6f40dce3e3004720b80060ae",
+ "spine_head": "eecba122ada9db07ca9f4f9fd8a132ed94a7f1d9a8e1718a4d70bf3048472aeb",
+ "built_utc": "2026-08-31T00:25:12Z"
 }
