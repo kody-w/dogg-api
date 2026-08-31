@@ -1,12 +1,12 @@
 {
- "tick": 787,
- "utc": "2026-08-31T00:20:05.698Z",
+ "tick": 810,
+ "utc": "2026-08-31T04:40:45.467Z",
  "world": {
   "btc_block_height": {
-   "height": 964806
+   "height": 964826
   },
   "btc_usd": {
-   "spot": "77856.485"
+   "spot": "77549.245"
   },
   "fx_usd": {
    "EUR": "0.8623",
@@ -15,7 +15,7 @@
    "CNY": "6.7358"
   },
   "crypto_market": {
-   "total_mcap_usd": "2598265455839",
+   "total_mcap_usd": "2600843257667",
    "btc_dominance_pct": "59.7"
   },
   "btc_fees": {
@@ -23,22 +23,22 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84642
+   "tx_count": 79649
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "2.0"
+   "count": 6,
+   "max_mag": "4.9"
   },
   "iss": {
-   "lat": "-2.936",
-   "lon": "-56.792"
+   "lat": "-48.911",
+   "lon": "174.747"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-08-30T21:00:00"
+   "kp": "3.0",
+   "at": "2026-08-31T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 86,
+   "gco2_kwh": 80,
    "index": "low"
   },
   "hn_top": {
@@ -49,20 +49,20 @@
    "top_by_volume": [
     {
      "question": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
-     "yes_price": "0.065"
+     "yes_price": "0.095"
     },
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.465"
-    },
-    {
-     "question": "Will Bitcoin reach $100,000 in August?",
+     "question": "Will CF Monterrey win on 2026-08-30?",
      "yes_price": "0.0005"
+    },
+    {
+     "question": "Will the U.S. invade Iran before 2027?",
+     "yes_price": "0.155"
     }
    ]
   }
  },
- "frame_hash": "3247a169b139a9ff85cc45eea7b4696e32e5618e6f40dce3e3004720b80060ae",
- "spine_head": "eecba122ada9db07ca9f4f9fd8a132ed94a7f1d9a8e1718a4d70bf3048472aeb",
- "built_utc": "2026-08-31T00:25:12Z"
+ "frame_hash": "0826c9ccaa6974b516b3ce80044f284e20ef2ec5c04b2f96ebb573b23e186706",
+ "spine_head": "c6fc4af9f4782991f914e0acdda2352a5bb65e284e20e642a903dedb3286e0f1",
+ "built_utc": "2026-08-31T06:00:47Z"
 }
