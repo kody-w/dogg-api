@@ -1,12 +1,12 @@
 {
- "tick": 812,
- "utc": "2026-08-31T14:24:48.236Z",
+ "tick": 813,
+ "utc": "2026-08-31T20:14:56.867Z",
  "world": {
   "btc_block_height": {
-   "height": 964890
+   "height": 964930
   },
   "btc_usd": {
-   "spot": "77812.895"
+   "spot": "78947.325"
   },
   "fx_usd": {
    "EUR": "0.8623",
@@ -15,54 +15,54 @@
    "CNY": "6.7358"
   },
   "crypto_market": {
-   "total_mcap_usd": "2641052295968",
-   "btc_dominance_pct": "59.1"
+   "total_mcap_usd": "2670430143903",
+   "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80804
+   "tx_count": 82214
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "2.3"
+   "count": 4,
+   "max_mag": "1.6"
   },
   "iss": {
-   "lat": "22.729",
-   "lon": "110.122"
+   "lat": "-39.404",
+   "lon": "-38.415"
   },
   "space_weather": {
-   "kp": "3.33",
-   "at": "2026-08-31T09:00:00"
+   "kp": "1.67",
+   "at": "2026-08-31T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 53,
-   "index": "low"
+   "gco2_kwh": 127,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49507822,
-   "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before"
+   "id": 49511856,
+   "title": "I turned my security cameras into an automatic bird identification system"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
+     "question": "Will Arsenal FC win on 2026-08-31?",
+     "yes_price": "0.505"
+    },
+    {
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.425"
+    },
+    {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0065"
-    },
-    {
-     "question": "Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
-     "yes_price": "0.565"
-    },
-    {
-     "question": "Counter-Strike: G2 vs Aurora Gaming - Map 2 Winner",
-     "yes_price": "0.9995"
+     "yes_price": "0.0055"
     }
    ]
   }
  },
- "frame_hash": "775dc164735530f49560e34a983479c567f284d44aa8c9c7eabc26fd19521034",
- "spine_head": "15b73bde4f11c88ac002a5ac443909d7471fd2a899fbb0dbe7dfd4bee7a40d23",
- "built_utc": "2026-08-31T19:35:46Z"
+ "frame_hash": "d56e7320c7cf12b8a5dceaf86782eee0886234c71da1ddadc215d5f685d17680",
+ "spine_head": "a872b488b8337d72b6322d3647834bedf3e691c6b42780d318e67a28758216ff",
+ "built_utc": "2026-08-31T23:20:29Z"
 }
