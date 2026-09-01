@@ -1,12 +1,12 @@
 {
- "tick": 816,
- "utc": "2026-09-01T08:36:38.446Z",
+ "tick": 817,
+ "utc": "2026-09-01T13:41:23.471Z",
  "world": {
   "btc_block_height": {
-   "height": 965008
+   "height": 965040
   },
   "btc_usd": {
-   "spot": "77951.63"
+   "spot": "77569.865"
   },
   "fx_usd": {
    "EUR": "0.8614",
@@ -15,7 +15,7 @@
    "CNY": "6.7362"
   },
   "crypto_market": {
-   "total_mcap_usd": "2635961131271",
+   "total_mcap_usd": "2640962001624",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
@@ -23,27 +23,27 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82601
+   "tx_count": 82333
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "4.5"
+   "count": 2,
+   "max_mag": "2.4"
   },
   "iss": {
-   "lat": "-42.778",
-   "lon": "126.643"
+   "lat": "31.194",
+   "lon": "124.431"
   },
   "space_weather": {
-   "kp": "1.33",
-   "at": "2026-09-01T03:00:00"
+   "kp": "2.67",
+   "at": "2026-09-01T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 79,
+   "gco2_kwh": 54,
    "index": "low"
   },
   "hn_top": {
-   "id": 49517584,
-   "title": "GPU World"
+   "id": 49520022,
+   "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -52,17 +52,17 @@
      "yes_price": "0.425"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0055"
-    },
-    {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.565"
+    },
+    {
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0055"
     }
    ]
   }
  },
- "frame_hash": "0e6b672a356644ccdf6da3e5ae5a18f37283811494db69f3606129dd01758258",
- "spine_head": "cc9a9186a0169aef2b96c9c8699f7f4f4bc2b7ec69e876a2efb5f6e0d6a7f258",
- "built_utc": "2026-09-01T13:26:54Z"
+ "frame_hash": "f23970f5554e6f4f54e66992640a48afe600489bf0f38503366f3eea55b540bc",
+ "spine_head": "a8949e6bb6cbbb7242f0b63c018291a678c800543ee399104522c08da33c6f0a",
+ "built_utc": "2026-09-01T17:25:44Z"
 }
