@@ -1,12 +1,12 @@
 {
- "tick": 817,
- "utc": "2026-09-01T13:41:23.471Z",
+ "tick": 819,
+ "utc": "2026-09-01T20:02:27.287Z",
  "world": {
   "btc_block_height": {
-   "height": 965040
+   "height": 965079
   },
   "btc_usd": {
-   "spot": "77569.865"
+   "spot": "77251.515"
   },
   "fx_usd": {
    "EUR": "0.8614",
@@ -15,7 +15,7 @@
    "CNY": "6.7362"
   },
   "crypto_market": {
-   "total_mcap_usd": "2640962001624",
+   "total_mcap_usd": "2614728488589",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
@@ -23,46 +23,46 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82333
+   "tx_count": 90172
   },
   "earthquakes_past_hour": {
-   "count": 2,
-   "max_mag": "2.4"
+   "count": 6,
+   "max_mag": "2.8"
   },
   "iss": {
-   "lat": "31.194",
-   "lon": "124.431"
+   "lat": "50.191",
+   "lon": "69.969"
   },
   "space_weather": {
-   "kp": "2.67",
-   "at": "2026-09-01T09:00:00"
+   "kp": "1.67",
+   "at": "2026-09-01T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 54,
-   "index": "low"
+   "gco2_kwh": 160,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49520022,
-   "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link"
+   "id": 49525378,
+   "title": "Claude Fable 5.1 and Claude Mythos 5.1"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
+     "question": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+     "yes_price": "0.435"
+    },
+    {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.425"
+     "yes_price": "0.415"
     },
     {
-     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.565"
-    },
-    {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0055"
+     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
+     "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "f23970f5554e6f4f54e66992640a48afe600489bf0f38503366f3eea55b540bc",
- "spine_head": "a8949e6bb6cbbb7242f0b63c018291a678c800543ee399104522c08da33c6f0a",
- "built_utc": "2026-09-01T17:25:44Z"
+ "frame_hash": "371b2ad5fedbe80780c1a290266919f9589d3b9199bbaa17988fcc3ba26cceba",
+ "spine_head": "5ecbf8f2eca633d06f2d29d4bfed27b6b5588e8801b0311a7e4bc2853cdc6529",
+ "built_utc": "2026-09-01T20:07:35Z"
 }
