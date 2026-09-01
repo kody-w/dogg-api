@@ -1,12 +1,12 @@
 {
- "tick": 815,
- "utc": "2026-09-01T03:04:39.728Z",
+ "tick": 816,
+ "utc": "2026-09-01T08:36:38.446Z",
  "world": {
   "btc_block_height": {
-   "height": 964973
+   "height": 965008
   },
   "btc_usd": {
-   "spot": "78404.655"
+   "spot": "77951.63"
   },
   "fx_usd": {
    "EUR": "0.8614",
@@ -15,7 +15,7 @@
    "CNY": "6.7362"
   },
   "crypto_market": {
-   "total_mcap_usd": "2655966214462",
+   "total_mcap_usd": "2635961131271",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
@@ -23,33 +23,33 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81894
+   "tx_count": 82601
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "1.5"
+   "count": 6,
+   "max_mag": "4.5"
   },
   "iss": {
-   "lat": "51.617",
-   "lon": "-5.900"
+   "lat": "-42.778",
+   "lon": "126.643"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-09-01T00:00:00"
+   "kp": "1.33",
+   "at": "2026-09-01T03:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 62,
+   "gco2_kwh": 79,
    "index": "low"
   },
   "hn_top": {
-   "id": 49511856,
-   "title": "I turned my security cameras into an automatic bird identification system"
+   "id": 49517584,
+   "title": "GPU World"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.435"
+     "yes_price": "0.425"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
@@ -57,12 +57,12 @@
     },
     {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.545"
+     "yes_price": "0.565"
     }
    ]
   }
  },
- "frame_hash": "31f473ce99738cdc19c992df0f4bd95b5a4a919d0a378bfa1507d1b5c3ec0252",
- "spine_head": "545efbe4ceeecb85365999fd8f00002d4944719f75572ec6fa2105d85023fd74",
- "built_utc": "2026-09-01T07:41:43Z"
+ "frame_hash": "0e6b672a356644ccdf6da3e5ae5a18f37283811494db69f3606129dd01758258",
+ "spine_head": "cc9a9186a0169aef2b96c9c8699f7f4f4bc2b7ec69e876a2efb5f6e0d6a7f258",
+ "built_utc": "2026-09-01T13:26:54Z"
 }
