@@ -1,12 +1,12 @@
 {
- "tick": 825,
- "utc": "2026-09-02T17:33:02.211Z",
+ "tick": 826,
+ "utc": "2026-09-02T20:06:17.204Z",
  "world": {
   "btc_block_height": {
-   "height": 965197
+   "height": 965217
   },
   "btc_usd": {
-   "spot": "77104.965"
+   "spot": "77399.995"
   },
   "fx_usd": {
    "EUR": "0.8625",
@@ -15,7 +15,7 @@
    "CNY": "6.7369"
   },
   "crypto_market": {
-   "total_mcap_usd": "2609757335129",
+   "total_mcap_usd": "2613558358637",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
@@ -23,22 +23,22 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 89184
+   "tx_count": 82963
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "2.8"
+   "count": 11,
+   "max_mag": "2.9"
   },
   "iss": {
-   "lat": "29.472",
-   "lon": "57.583"
+   "lat": "-51.707",
+   "lon": "-93.449"
   },
   "space_weather": {
-   "kp": "1.67",
-   "at": "2026-09-02T12:00:00"
+   "kp": "1.0",
+   "at": "2026-09-02T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 145,
+   "gco2_kwh": 139,
    "index": "moderate"
   },
   "hn_top": {
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
-     "yes_price": "0.59"
+     "question": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
+     "yes_price": "0.105"
+    },
+    {
+     "question": "US Open ATP: Marcos Giron vs Ignacio Buse",
+     "yes_price": "0.225"
     },
     {
      "question": "Will John Fetterman win the 2028 Democratic presidential nomination?",
      "yes_price": "0.0015"
-    },
-    {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.425"
     }
    ]
   }
  },
- "frame_hash": "3ad6e7064609f073c53b1b19c3759fd4935a04e766e6a686d659f43f1964014c",
- "spine_head": "43c8cf22d551df1f4e873c71f6f2f966dfbbd2035b5ae8a14b25514915c28a2b",
- "built_utc": "2026-09-02T18:55:38Z"
+ "frame_hash": "83d07ec77f3da986d3caf28c21ded806282b5ac8929a9ef17111492092f740d8",
+ "spine_head": "708412999a1c3ff003370605c4131c114bdb418bd13bbb45cb14c0dd924e8006",
+ "built_utc": "2026-09-02T21:44:29Z"
 }
