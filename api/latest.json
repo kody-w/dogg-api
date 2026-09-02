@@ -1,12 +1,12 @@
 {
- "tick": 824,
- "utc": "2026-09-02T13:51:56.328Z",
+ "tick": 825,
+ "utc": "2026-09-02T17:33:02.211Z",
  "world": {
   "btc_block_height": {
-   "height": 965177
+   "height": 965197
   },
   "btc_usd": {
-   "spot": "77076.165"
+   "spot": "77104.965"
   },
   "fx_usd": {
    "EUR": "0.8625",
@@ -15,54 +15,54 @@
    "CNY": "6.7369"
   },
   "crypto_market": {
-   "total_mcap_usd": "2631391820223",
-   "btc_dominance_pct": "59.0"
+   "total_mcap_usd": "2609757335129",
+   "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 83626
+   "tx_count": 89184
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "2.3"
+   "count": 3,
+   "max_mag": "2.8"
   },
   "iss": {
-   "lat": "-51.099",
-   "lon": "-15.309"
+   "lat": "29.472",
+   "lon": "57.583"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-09-02T09:00:00"
+   "kp": "1.67",
+   "at": "2026-09-02T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 132,
+   "gco2_kwh": 145,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49535752,
-   "title": "A Note from LWN"
+   "id": 49537553,
+   "title": "Gemini 3.8 Flash and 3.8 Flash Cyber"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.425"
-    },
-    {
-     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0015"
+     "question": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
+     "yes_price": "0.59"
     },
     {
      "question": "Will John Fetterman win the 2028 Democratic presidential nomination?",
      "yes_price": "0.0015"
+    },
+    {
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.425"
     }
    ]
   }
  },
- "frame_hash": "1f3ec1af9120ebbff62566ccd5129b7674efcce4f79b06e9faefdcf2704d1fba",
- "spine_head": "1c2c4859c163d86c7716d5a479f9c28a3aec421b01c3844c06ee53c3078929f2",
- "built_utc": "2026-09-02T15:15:53Z"
+ "frame_hash": "3ad6e7064609f073c53b1b19c3759fd4935a04e766e6a686d659f43f1964014c",
+ "spine_head": "43c8cf22d551df1f4e873c71f6f2f966dfbbd2035b5ae8a14b25514915c28a2b",
+ "built_utc": "2026-09-02T18:55:38Z"
 }
