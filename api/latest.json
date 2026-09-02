@@ -1,12 +1,12 @@
 {
- "tick": 821,
- "utc": "2026-09-02T00:31:57.716Z",
+ "tick": 822,
+ "utc": "2026-09-02T05:04:41.124Z",
  "world": {
   "btc_block_height": {
-   "height": 965103
+   "height": 965121
   },
   "btc_usd": {
-   "spot": "77265.035"
+   "spot": "77478.475"
   },
   "fx_usd": {
    "EUR": "0.8625",
@@ -15,31 +15,31 @@
    "CNY": "6.7369"
   },
   "crypto_market": {
-   "total_mcap_usd": "2622482366488",
+   "total_mcap_usd": "2627345282309",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
    "fastest_sat_vb": 2,
-   "hour_sat_vb": 1
+   "hour_sat_vb": 2
   },
   "btc_mempool": {
-   "tx_count": 86895
+   "tx_count": 86990
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "5.6"
+   "count": 6,
+   "max_mag": "2.0"
   },
   "iss": {
-   "lat": "31.786",
-   "lon": "-40.156"
+   "lat": "14.714",
+   "lon": "-126.733"
   },
   "space_weather": {
-   "kp": "1.67",
-   "at": "2026-09-01T21:00:00"
+   "kp": "0.67",
+   "at": "2026-09-02T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 160,
-   "index": "moderate"
+   "gco2_kwh": 179,
+   "index": "high"
   },
   "hn_top": {
    "id": 49525378,
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Dane Sweeny vs Corentin Moutet",
-     "yes_price": "0.9995"
-    },
-    {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
      "yes_price": "0.405"
     },
     {
      "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
      "yes_price": "0.0015"
+    },
+    {
+     "question": "Will John Fetterman win the 2028 Democratic presidential nomination?",
+     "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "795a28aff3880155ca2b0a29dcf32196b31adac53658373bad1002a3f0d37faa",
- "spine_head": "8ab0f73d1339956c63c599f3f4da34febfe13b9b9f0d79e60d13ba0de27a2245",
- "built_utc": "2026-09-02T00:59:01Z"
+ "frame_hash": "740fbab7fdc5f38f7d6cf6d80b523b18efa6d01af29548c809eb42b75492bf56",
+ "spine_head": "3bb86e7f33316611ee6da9fe232774f262e846f66a34d6b0a2dbd9581117b209",
+ "built_utc": "2026-09-02T05:40:20Z"
 }
