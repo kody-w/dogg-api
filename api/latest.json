@@ -1,12 +1,12 @@
 {
- "tick": 822,
- "utc": "2026-09-02T05:04:41.124Z",
+ "tick": 823,
+ "utc": "2026-09-02T09:35:33.182Z",
  "world": {
   "btc_block_height": {
-   "height": 965121
+   "height": 965147
   },
   "btc_usd": {
-   "spot": "77478.475"
+   "spot": "76636.565"
   },
   "fx_usd": {
    "EUR": "0.8625",
@@ -15,54 +15,54 @@
    "CNY": "6.7369"
   },
   "crypto_market": {
-   "total_mcap_usd": "2627345282309",
-   "btc_dominance_pct": "59.1"
+   "total_mcap_usd": "2598382321482",
+   "btc_dominance_pct": "59.0"
   },
   "btc_fees": {
    "fastest_sat_vb": 2,
-   "hour_sat_vb": 2
+   "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 86990
+   "tx_count": 87587
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "2.0"
+   "count": 5,
+   "max_mag": "2.3"
   },
   "iss": {
-   "lat": "14.714",
-   "lon": "-126.733"
+   "lat": "-9.079",
+   "lon": "145.272"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-09-02T00:00:00"
+   "kp": "2.33",
+   "at": "2026-09-02T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 179,
-   "index": "high"
+   "gco2_kwh": 156,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49525378,
-   "title": "Claude Fable 5.1 and Claude Mythos 5.1"
+   "id": 49533497,
+   "title": "Commodore 64 released September 1, 1982"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
+     "question": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
+     "yes_price": "0.0005"
+    },
+    {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.405"
+     "yes_price": "0.395"
     },
     {
      "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0015"
-    },
-    {
-     "question": "Will John Fetterman win the 2028 Democratic presidential nomination?",
      "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "740fbab7fdc5f38f7d6cf6d80b523b18efa6d01af29548c809eb42b75492bf56",
- "spine_head": "3bb86e7f33316611ee6da9fe232774f262e846f66a34d6b0a2dbd9581117b209",
- "built_utc": "2026-09-02T05:40:20Z"
+ "frame_hash": "bab044b59744e1074ceea4a2973a70abb538b8b8f1756f068b2c1b1610e8e1d5",
+ "spine_head": "cacbcde22e5c950ccba37d85a3c4f4de12c1b0389a0ef28bf439451308cc0862",
+ "built_utc": "2026-09-02T11:09:06Z"
 }
