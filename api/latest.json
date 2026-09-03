@@ -1,12 +1,12 @@
 {
- "tick": 831,
- "utc": "2026-09-03T14:02:50.446Z",
+ "tick": 833,
+ "utc": "2026-09-03T20:23:02.877Z",
  "world": {
   "btc_block_height": {
-   "height": 965323
+   "height": 965367
   },
   "btc_usd": {
-   "spot": "78834.905"
+   "spot": "81414.445"
   },
   "fx_usd": {
    "EUR": "0.8633",
@@ -15,45 +15,45 @@
    "CNY": "6.7365"
   },
   "crypto_market": {
-   "total_mcap_usd": "2664419434401",
-   "btc_dominance_pct": "59.2"
+   "total_mcap_usd": "2746573169318",
+   "btc_dominance_pct": "59.4"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 89102
+   "tx_count": 85193
   },
   "earthquakes_past_hour": {
-   "count": 9,
-   "max_mag": "5.2"
+   "count": 10,
+   "max_mag": "2.4"
   },
   "iss": {
-   "lat": "40.469",
-   "lon": "-143.553"
+   "lat": "17.366",
+   "lon": "147.772"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-09-03T09:00:00"
+   "kp": "1.67",
+   "at": "2026-09-03T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 40,
-   "index": "low"
+   "gco2_kwh": 109,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49548395,
-   "title": "Audacity 4.0"
+   "id": 49554643,
+   "title": "GPT-6 Astra"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?",
-     "yes_price": "0.0015"
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.575"
     },
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.605"
+     "question": "Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?",
+     "yes_price": "0.0015"
     },
     {
      "question": "Will Elon Musk win the 2028 Republican presidential nomination?",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "e5db1b8ecadd43b6cdd3061039a9cf8cef234817719caf83ec6b9dc876b9134d",
- "spine_head": "20c01831b983126e44178b584064d8b4b5e67405442fe880ee53e10cbe44cc9c",
- "built_utc": "2026-09-03T17:48:00Z"
+ "frame_hash": "79a89c8dc14c1c0b47900d7f332dfa96877f1674905e406653a55bcd30e98676",
+ "spine_head": "87918022aba79208d9eb1265a616122c02dbfb63f986e66ca04ca3b4b6ac9c3a",
+ "built_utc": "2026-09-03T20:55:19Z"
 }
