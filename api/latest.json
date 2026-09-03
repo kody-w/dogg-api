@@ -1,45 +1,45 @@
 {
- "tick": 827,
- "utc": "2026-09-02T22:38:03.783Z",
+ "tick": 828,
+ "utc": "2026-09-03T00:39:57.433Z",
  "world": {
   "btc_block_height": {
-   "height": 965228
+   "height": 965239
   },
   "btc_usd": {
-   "spot": "77109.065"
+   "spot": "77071.065"
   },
   "fx_usd": {
-   "EUR": "0.8625",
-   "GBP": "0.7394",
-   "JPY": "160.1138",
-   "CNY": "6.7369"
+   "EUR": "0.8633",
+   "GBP": "0.7416",
+   "JPY": "159.0888",
+   "CNY": "6.7365"
   },
   "crypto_market": {
-   "total_mcap_usd": "2613695124429",
-   "btc_dominance_pct": "59.1"
+   "total_mcap_usd": "2610426898403",
+   "btc_dominance_pct": "59.0"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 86139
+   "tx_count": 82499
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "1.7"
+   "count": 5,
+   "max_mag": "6.2"
   },
   "iss": {
-   "lat": "29.785",
-   "lon": "106.866"
+   "lat": "-48.802",
+   "lon": "166.752"
   },
   "space_weather": {
    "kp": "1.67",
-   "at": "2026-09-02T18:00:00"
+   "at": "2026-09-02T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 94,
-   "index": "moderate"
+   "gco2_kwh": 67,
+   "index": "low"
   },
   "hn_top": {
    "id": 49541256,
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Marcos Giron vs Ignacio Buse",
-     "yes_price": "0.0005"
-    },
-    {
-     "question": "Will John Fetterman win the 2028 Democratic presidential nomination?",
+     "question": "Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?",
      "yes_price": "0.0015"
     },
     {
-     "question": "Baltimore Orioles vs. Colorado Rockies",
-     "yes_price": "0.755"
+     "question": "Will Elon Musk win the 2028 Republican presidential nomination?",
+     "yes_price": "0.0015"
+    },
+    {
+     "question": "Will Nikki Haley win the 2028 US Presidential Election?",
+     "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "3f310c1bb86188819a1a0eaf2e272ca9dfe0dd693099edb0d55b139a594f6171",
- "spine_head": "fe50dcc07f29f3cd0700be546106d54c596ab9c09c1c4557881397512a4e576d",
- "built_utc": "2026-09-03T00:03:38Z"
+ "frame_hash": "27205984f34a61604e03fe03efb914ac85f694b49e9b65327b99b997d9e1d0fc",
+ "spine_head": "98f79b4e568fbe6dd9d3a0971411612a67c0738887e08627d6720af29dbc1c8c",
+ "built_utc": "2026-09-03T04:14:26Z"
 }
