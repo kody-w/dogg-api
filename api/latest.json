@@ -1,12 +1,12 @@
 {
- "tick": 830,
- "utc": "2026-09-03T09:46:34.712Z",
+ "tick": 831,
+ "utc": "2026-09-03T14:02:50.446Z",
  "world": {
   "btc_block_height": {
-   "height": 965292
+   "height": 965323
   },
   "btc_usd": {
-   "spot": "77738.255"
+   "spot": "78834.905"
   },
   "fx_usd": {
    "EUR": "0.8633",
@@ -15,45 +15,45 @@
    "CNY": "6.7365"
   },
   "crypto_market": {
-   "total_mcap_usd": "2613087405405",
-   "btc_dominance_pct": "59.6"
+   "total_mcap_usd": "2664419434401",
+   "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84992
+   "tx_count": 89102
   },
   "earthquakes_past_hour": {
-   "count": 13,
-   "max_mag": "1.9"
+   "count": 9,
+   "max_mag": "5.2"
   },
   "iss": {
-   "lat": "-24.270",
-   "lon": "-15.441"
+   "lat": "40.469",
+   "lon": "-143.553"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-09-03T06:00:00"
+   "kp": "1.0",
+   "at": "2026-09-03T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 49,
+   "gco2_kwh": 40,
    "index": "low"
   },
   "hn_top": {
-   "id": 49546753,
-   "title": "Pre-Release of Polars 2.0"
+   "id": 49548395,
+   "title": "Audacity 4.0"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "LoL: BNK FEARX vs Dplus KIA - Game 1 Winner",
-     "yes_price": "0.9995"
-    },
-    {
      "question": "Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?",
      "yes_price": "0.0015"
+    },
+    {
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.605"
     },
     {
      "question": "Will Elon Musk win the 2028 Republican presidential nomination?",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "3cdf9123455823c45be7b643b293c1f3c324f7a916744657c9587a35dd95f15a",
- "spine_head": "f8ed8d6d2095bb92b34613d081e04253c8f32ef22e933a6975bff98ee3296c46",
- "built_utc": "2026-09-03T13:49:41Z"
+ "frame_hash": "e5db1b8ecadd43b6cdd3061039a9cf8cef234817719caf83ec6b9dc876b9134d",
+ "spine_head": "20c01831b983126e44178b584064d8b4b5e67405442fe880ee53e10cbe44cc9c",
+ "built_utc": "2026-09-03T17:48:00Z"
 }
