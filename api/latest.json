@@ -1,12 +1,12 @@
 {
- "tick": 826,
- "utc": "2026-09-02T20:06:17.204Z",
+ "tick": 827,
+ "utc": "2026-09-02T22:38:03.783Z",
  "world": {
   "btc_block_height": {
-   "height": 965217
+   "height": 965228
   },
   "btc_usd": {
-   "spot": "77399.995"
+   "spot": "77109.065"
   },
   "fx_usd": {
    "EUR": "0.8625",
@@ -15,54 +15,54 @@
    "CNY": "6.7369"
   },
   "crypto_market": {
-   "total_mcap_usd": "2613558358637",
+   "total_mcap_usd": "2613695124429",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82963
+   "tx_count": 86139
   },
   "earthquakes_past_hour": {
-   "count": 11,
-   "max_mag": "2.9"
+   "count": 8,
+   "max_mag": "1.7"
   },
   "iss": {
-   "lat": "-51.707",
-   "lon": "-93.449"
+   "lat": "29.785",
+   "lon": "106.866"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-09-02T15:00:00"
+   "kp": "1.67",
+   "at": "2026-09-02T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 139,
+   "gco2_kwh": 94,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49537553,
-   "title": "Gemini 3.8 Flash and 3.8 Flash Cyber"
+   "id": 49541256,
+   "title": "Muse Spark 1.3"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
-     "yes_price": "0.105"
-    },
-    {
      "question": "US Open ATP: Marcos Giron vs Ignacio Buse",
-     "yes_price": "0.225"
+     "yes_price": "0.0005"
     },
     {
      "question": "Will John Fetterman win the 2028 Democratic presidential nomination?",
      "yes_price": "0.0015"
+    },
+    {
+     "question": "Baltimore Orioles vs. Colorado Rockies",
+     "yes_price": "0.755"
     }
    ]
   }
  },
- "frame_hash": "83d07ec77f3da986d3caf28c21ded806282b5ac8929a9ef17111492092f740d8",
- "spine_head": "708412999a1c3ff003370605c4131c114bdb418bd13bbb45cb14c0dd924e8006",
- "built_utc": "2026-09-02T21:44:29Z"
+ "frame_hash": "3f310c1bb86188819a1a0eaf2e272ca9dfe0dd693099edb0d55b139a594f6171",
+ "spine_head": "fe50dcc07f29f3cd0700be546106d54c596ab9c09c1c4557881397512a4e576d",
+ "built_utc": "2026-09-03T00:03:38Z"
 }
