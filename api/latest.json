@@ -1,12 +1,12 @@
 {
- "tick": 837,
- "utc": "2026-09-04T09:15:55.043Z",
+ "tick": 838,
+ "utc": "2026-09-04T13:39:50.183Z",
  "world": {
   "btc_block_height": {
-   "height": 965454
+   "height": 965481
   },
   "btc_usd": {
-   "spot": "81114.035"
+   "spot": "79311.265"
   },
   "fx_usd": {
    "EUR": "0.8606",
@@ -15,54 +15,54 @@
    "CNY": "6.7355"
   },
   "crypto_market": {
-   "total_mcap_usd": "2738221249502",
-   "btc_dominance_pct": "59.2"
+   "total_mcap_usd": "2685143070572",
+   "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84691
+   "tx_count": 85024
   },
   "earthquakes_past_hour": {
-   "count": 7,
+   "count": 5,
    "max_mag": "1.8"
   },
   "iss": {
-   "lat": "-51.717",
-   "lon": "59.651"
+   "lat": "-27.134",
+   "lon": "-77.650"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-09-04T06:00:00"
+   "kp": "1.67",
+   "at": "2026-09-04T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 52,
+   "gco2_kwh": 42,
    "index": "low"
   },
   "hn_top": {
-   "id": 49554643,
-   "title": "GPT-6 Astra"
+   "id": 49563355,
+   "title": "Discovery of a new OpenAI agent message board"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.595"
-    },
-    {
-     "question": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
-     "yes_price": "0.9995"
-    },
-    {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0065"
+     "yes_price": "0.0035"
+    },
+    {
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.495"
+    },
+    {
+     "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+     "yes_price": "0.155"
     }
    ]
   }
  },
- "frame_hash": "f2f405e26faa056c617f6680dedd64cf4906cefa8d53306e720ed37aaf4964e5",
- "spine_head": "2fe6e9c4c3d1a63024be522bbe7d36489dc38b5e711cabc3f938e887374b9a7c",
- "built_utc": "2026-09-04T11:40:33Z"
+ "frame_hash": "19509e88b2c780a706d933dc0e81db8e73a72f412dd831f5037a240ac0d0075e",
+ "spine_head": "a75cc0ac0a95ca780c2116656930c179214d97920a084bedbd4e5f41cc0f7e2a",
+ "built_utc": "2026-09-04T16:15:05Z"
 }
