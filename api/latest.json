@@ -1,12 +1,12 @@
 {
- "tick": 834,
- "utc": "2026-09-03T22:41:27.066Z",
+ "tick": 835,
+ "utc": "2026-09-04T00:25:02.435Z",
  "world": {
   "btc_block_height": {
-   "height": 965386
+   "height": 965402
   },
   "btc_usd": {
-   "spot": "81240.295"
+   "spot": "81287.595"
   },
   "fx_usd": {
    "EUR": "0.8633",
@@ -15,7 +15,7 @@
    "CNY": "6.7365"
   },
   "crypto_market": {
-   "total_mcap_usd": "2741068554813",
+   "total_mcap_usd": "2745380332835",
    "btc_dominance_pct": "59.4"
   },
   "btc_fees": {
@@ -23,23 +23,23 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81016
+   "tx_count": 78705
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "4.3"
+   "count": 6,
+   "max_mag": "2.3"
   },
   "iss": {
-   "lat": "-20.326",
-   "lon": "-70.105"
+   "lat": "11.899",
+   "lon": "-69.918"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-09-03T18:00:00"
+   "kp": "1.67",
+   "at": "2026-09-03T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 94,
-   "index": "moderate"
+   "gco2_kwh": 75,
+   "index": "low"
   },
   "hn_top": {
    "id": 49554643,
@@ -49,20 +49,20 @@
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.575"
+     "yes_price": "0.565"
     },
     {
-     "question": "Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?",
-     "yes_price": "0.0015"
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0065"
     },
     {
-     "question": "Will Elon Musk win the 2028 Republican presidential nomination?",
-     "yes_price": "0.0015"
+     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.425"
     }
    ]
   }
  },
- "frame_hash": "ae1bc2457eb3ddd0b6be575a6fbd548bf6878cc0001aab3987fcdfdbb9fd9d7c",
- "spine_head": "f7c27d86a4d63c2abb3efb69bf06d9451d58c80d837cbe972c47982d7d9142b8",
- "built_utc": "2026-09-03T23:13:08Z"
+ "frame_hash": "58999e57b7c2d73fb517ae6483c11472256f7447c8ca86fa6801f738370f957c",
+ "spine_head": "0b8270b0bb92d91c65290d78b375fabf7e61062fad087bf0048ca10c280d715f",
+ "built_utc": "2026-09-04T01:17:22Z"
 }
