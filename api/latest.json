@@ -1,44 +1,44 @@
 {
- "tick": 835,
- "utc": "2026-09-04T00:25:02.435Z",
+ "tick": 836,
+ "utc": "2026-09-04T04:52:42.731Z",
  "world": {
   "btc_block_height": {
-   "height": 965402
+   "height": 965429
   },
   "btc_usd": {
-   "spot": "81287.595"
+   "spot": "81045.385"
   },
   "fx_usd": {
-   "EUR": "0.8633",
-   "GBP": "0.7416",
-   "JPY": "159.0888",
-   "CNY": "6.7365"
+   "EUR": "0.8606",
+   "GBP": "0.7398",
+   "JPY": "156.0197",
+   "CNY": "6.7355"
   },
   "crypto_market": {
-   "total_mcap_usd": "2745380332835",
-   "btc_dominance_pct": "59.4"
+   "total_mcap_usd": "2736660150856",
+   "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 78705
+   "tx_count": 81543
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "2.3"
+   "count": 11,
+   "max_mag": "3.3"
   },
   "iss": {
-   "lat": "11.899",
-   "lon": "-69.918"
+   "lat": "-21.375",
+   "lon": "-165.438"
   },
   "space_weather": {
-   "kp": "1.67",
-   "at": "2026-09-03T21:00:00"
+   "kp": "1.33",
+   "at": "2026-09-04T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 75,
+   "gco2_kwh": 84,
    "index": "low"
   },
   "hn_top": {
@@ -49,20 +49,20 @@
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.565"
+     "yes_price": "0.585"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0065"
     },
     {
-     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.425"
+     "question": "US Open ATP: Alexander Zverev vs Quentin Halys",
+     "yes_price": "0.885"
     }
    ]
   }
  },
- "frame_hash": "58999e57b7c2d73fb517ae6483c11472256f7447c8ca86fa6801f738370f957c",
- "spine_head": "0b8270b0bb92d91c65290d78b375fabf7e61062fad087bf0048ca10c280d715f",
- "built_utc": "2026-09-04T01:17:22Z"
+ "frame_hash": "3141fbd03b506de2715280eef9f96c552229a039b5261b89a93727accf925b07",
+ "spine_head": "6f682dcdeb318bfb7a2dae357999ab38ca6e138def5cae00a2ee671aa33d5a58",
+ "built_utc": "2026-09-04T06:29:48Z"
 }
