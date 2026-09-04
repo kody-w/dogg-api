@@ -1,12 +1,12 @@
 {
- "tick": 836,
- "utc": "2026-09-04T04:52:42.731Z",
+ "tick": 837,
+ "utc": "2026-09-04T09:15:55.043Z",
  "world": {
   "btc_block_height": {
-   "height": 965429
+   "height": 965454
   },
   "btc_usd": {
-   "spot": "81045.385"
+   "spot": "81114.035"
   },
   "fx_usd": {
    "EUR": "0.8606",
@@ -15,30 +15,30 @@
    "CNY": "6.7355"
   },
   "crypto_market": {
-   "total_mcap_usd": "2736660150856",
-   "btc_dominance_pct": "59.3"
+   "total_mcap_usd": "2738221249502",
+   "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81543
+   "tx_count": 84691
   },
   "earthquakes_past_hour": {
-   "count": 11,
-   "max_mag": "3.3"
+   "count": 7,
+   "max_mag": "1.8"
   },
   "iss": {
-   "lat": "-21.375",
-   "lon": "-165.438"
+   "lat": "-51.717",
+   "lon": "59.651"
   },
   "space_weather": {
-   "kp": "1.33",
-   "at": "2026-09-04T00:00:00"
+   "kp": "1.0",
+   "at": "2026-09-04T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 84,
+   "gco2_kwh": 52,
    "index": "low"
   },
   "hn_top": {
@@ -49,20 +49,20 @@
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.585"
+     "yes_price": "0.595"
+    },
+    {
+     "question": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
+     "yes_price": "0.9995"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0065"
-    },
-    {
-     "question": "US Open ATP: Alexander Zverev vs Quentin Halys",
-     "yes_price": "0.885"
     }
    ]
   }
  },
- "frame_hash": "3141fbd03b506de2715280eef9f96c552229a039b5261b89a93727accf925b07",
- "spine_head": "6f682dcdeb318bfb7a2dae357999ab38ca6e138def5cae00a2ee671aa33d5a58",
- "built_utc": "2026-09-04T06:29:48Z"
+ "frame_hash": "f2f405e26faa056c617f6680dedd64cf4906cefa8d53306e720ed37aaf4964e5",
+ "spine_head": "2fe6e9c4c3d1a63024be522bbe7d36489dc38b5e711cabc3f938e887374b9a7c",
+ "built_utc": "2026-09-04T11:40:33Z"
 }
