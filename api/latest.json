@@ -1,12 +1,12 @@
 {
- "tick": 840,
- "utc": "2026-09-04T19:33:43.794Z",
+ "tick": 841,
+ "utc": "2026-09-04T21:49:22.655Z",
  "world": {
   "btc_block_height": {
-   "height": 965515
+   "height": 965526
   },
   "btc_usd": {
-   "spot": "79734.125"
+   "spot": "79785.125"
   },
   "fx_usd": {
    "EUR": "0.8606",
@@ -15,31 +15,31 @@
    "CNY": "6.7355"
   },
   "crypto_market": {
-   "total_mcap_usd": "2700653614928",
+   "total_mcap_usd": "2699704666587",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
-   "hour_sat_vb": 1
+   "fastest_sat_vb": 5,
+   "hour_sat_vb": 3
   },
   "btc_mempool": {
-   "tx_count": 84855
+   "tx_count": 87372
   },
   "earthquakes_past_hour": {
-   "count": 2,
-   "max_mag": "4.6"
+   "count": 8,
+   "max_mag": "4.3"
   },
   "iss": {
-   "lat": "25.656",
-   "lon": "146.406"
+   "lat": "-35.730",
+   "lon": "-80.342"
   },
   "space_weather": {
-   "kp": "0.33",
-   "at": "2026-09-04T15:00:00"
+   "kp": "0.67",
+   "at": "2026-09-04T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 99,
-   "index": "moderate"
+   "gco2_kwh": 80,
+   "index": "low"
   },
   "hn_top": {
    "id": 49568506,
@@ -49,7 +49,7 @@
    "top_by_volume": [
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0045"
+     "yes_price": "0.0035"
     },
     {
      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "45e89fa907196ab70ea74bafc784797e5af30d25c048b66acf88daeccda9a9b3",
- "spine_head": "033e1655c5ef67746efb694fd177430127b07ad25a1ad2bc176ef9c58607f563",
- "built_utc": "2026-09-04T21:24:05Z"
+ "frame_hash": "8f809025f88e413c00fbe61409eb8f59362cf1d78ebbd57046df6a0f0da0332a",
+ "spine_head": "d9a87cb0271ab5f91384198330dc22615de6af4478403577be499c17783b3d2e",
+ "built_utc": "2026-09-04T23:13:51Z"
 }
