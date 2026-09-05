@@ -1,12 +1,12 @@
 {
- "tick": 849,
- "utc": "2026-09-05T20:36:31.878Z",
+ "tick": 850,
+ "utc": "2026-09-05T22:17:44.359Z",
  "world": {
   "btc_block_height": {
-   "height": 965665
+   "height": 965676
   },
   "btc_usd": {
-   "spot": "79707.295"
+   "spot": "79939.395"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,7 +15,7 @@
    "CNY": "6.7289"
   },
   "crypto_market": {
-   "total_mcap_usd": "2716492768281",
+   "total_mcap_usd": "2721294375677",
    "btc_dominance_pct": "58.8"
   },
   "btc_fees": {
@@ -23,34 +23,30 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 86328
+   "tx_count": 86546
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "1.6"
+   "count": 8,
+   "max_mag": "1.8"
   },
   "iss": {
-   "lat": "-23.283",
-   "lon": "166.536"
+   "lat": "-44.113",
+   "lon": "170.768"
   },
   "space_weather": {
    "kp": "0.33",
-   "at": "2026-09-05T15:00:00"
+   "at": "2026-09-05T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 151,
+   "gco2_kwh": 131,
    "index": "moderate"
   },
   "hn_top": {
    "id": 49578866,
-   "title": "The Luxuries in Life"
+   "title": "The Real Luxuries In Life"
   },
   "prediction_markets": {
    "top_by_volume": [
-    {
-     "question": "Will OGC Nice win on 2026-09-05?",
-     "yes_price": "0.065"
-    },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0035"
@@ -58,11 +54,15 @@
     {
      "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
      "yes_price": "0.0015"
+    },
+    {
+     "question": "US Open ATP: Michael Zheng vs Arthur Gea",
+     "yes_price": "0.385"
     }
    ]
   }
  },
- "frame_hash": "51f03ce5dc366cc8e0abd08723f7392ec9fb43766d5d6bc2612d153357804d16",
- "spine_head": "daaf56ed9265b1d48ee6e0093c971df8a0aedeb60a44ae3e9051937df2a90753",
- "built_utc": "2026-09-05T21:07:13Z"
+ "frame_hash": "b3137f13ee66ed2db3bfdb6da8a14f1be420d6e67c4fb7b51d3f2f0dcca911a3",
+ "spine_head": "dc2bfe73703abb8018aabb63bd2e98647ebea939eb20c6e0fcac1f04e5e3f58d",
+ "built_utc": "2026-09-05T23:13:09Z"
 }
