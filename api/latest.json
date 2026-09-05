@@ -1,12 +1,12 @@
 {
- "tick": 847,
- "utc": "2026-09-05T16:16:05.706Z",
+ "tick": 848,
+ "utc": "2026-09-05T18:28:24.007Z",
  "world": {
   "btc_block_height": {
-   "height": 965632
+   "height": 965647
   },
   "btc_usd": {
-   "spot": "79804.315"
+   "spot": "79970.005"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,31 +15,31 @@
    "CNY": "6.7289"
   },
   "crypto_market": {
-   "total_mcap_usd": "2714349252978",
+   "total_mcap_usd": "2724897377132",
    "btc_dominance_pct": "58.9"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 4,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 92979
+   "tx_count": 94388
   },
   "earthquakes_past_hour": {
-   "count": 11,
-   "max_mag": "1.8"
+   "count": 4,
+   "max_mag": "4.9"
   },
   "iss": {
-   "lat": "-50.534",
-   "lon": "-40.073"
+   "lat": "48.861",
+   "lon": "63.617"
   },
   "space_weather": {
-   "kp": "1.33",
-   "at": "2026-09-05T12:00:00"
+   "kp": "0.33",
+   "at": "2026-09-05T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 80,
-   "index": "low"
+   "gco2_kwh": 138,
+   "index": "moderate"
   },
   "hn_top": {
    "id": 49576386,
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
+     "question": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
+     "yes_price": "0.785"
+    },
+    {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0035"
     },
     {
-     "question": "Will Manchester City FC win on 2026-09-05?",
-     "yes_price": "0.9995"
-    },
-    {
-     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0015"
+     "question": "Will OGC Nice win on 2026-09-05?",
+     "yes_price": "0.575"
     }
    ]
   }
  },
- "frame_hash": "1a2bd0789edbdbd64440608dcda8296ea9cc1620fb4c75cbc02915a1208deb5b",
- "spine_head": "57f565525ba91eaca991e69fa7dd53228f787489d8f2c739fdf04a54773b158a",
- "built_utc": "2026-09-05T16:44:40Z"
+ "frame_hash": "5c58465c74ecd0091bfbf73106e3908a102915d9ec99b0cfb88d94bdc5be27ea",
+ "spine_head": "b89fe141de7c904fe906a8ad5ea26e442ff0d33366cd6d48017f533b91698b64",
+ "built_utc": "2026-09-05T18:57:47Z"
 }
