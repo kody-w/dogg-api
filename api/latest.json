@@ -1,12 +1,12 @@
 {
- "tick": 845,
- "utc": "2026-09-05T10:32:30.393Z",
+ "tick": 846,
+ "utc": "2026-09-05T13:32:28.802Z",
  "world": {
   "btc_block_height": {
-   "height": 965597
+   "height": 965619
   },
   "btc_usd": {
-   "spot": "79649.985"
+   "spot": "79744.275"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,35 +15,35 @@
    "CNY": "6.7289"
   },
   "crypto_market": {
-   "total_mcap_usd": "2703111588983",
-   "btc_dominance_pct": "59.0"
+   "total_mcap_usd": "2712538754761",
+   "btc_dominance_pct": "58.9"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82685
+   "tx_count": 82377
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "2.6"
+   "count": 8,
+   "max_mag": "4.4"
   },
   "iss": {
-   "lat": "22.630",
-   "lon": "139.386"
+   "lat": "5.195",
+   "lon": "78.598"
   },
   "space_weather": {
    "kp": "2.0",
-   "at": "2026-09-05T06:00:00"
+   "at": "2026-09-05T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 45,
+   "gco2_kwh": 43,
    "index": "low"
   },
   "hn_top": {
-   "id": 49574167,
-   "title": "AI handles incidents, engineers lose touch with their systems"
+   "id": 49570669,
+   "title": "Actively exploited sandbox RCE in all Chromium versions"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -56,13 +56,13 @@
      "yes_price": "0.0015"
     },
     {
-     "question": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+     "question": "LoL: Ninjas in Pyjamas vs JD Gaming - Game 1 Winner",
      "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "7f19f7639c1fba844280418ef6fd6875a9a8c8393ce3b68e8500abbb21868cd8",
- "spine_head": "582cbde954000fc644bd73a7346e6a407cb35ea2904228b06778624a989aa59a",
- "built_utc": "2026-09-05T10:53:01Z"
+ "frame_hash": "aeb7cf2cdfd5d19090268aedbd9058d1b2de57ea1e0fcb931497f78007595829",
+ "spine_head": "e7930edfba002320b68044eb7a6236f1c964bf27a2b22897be89f396c611f2dd",
+ "built_utc": "2026-09-05T13:49:53Z"
 }
