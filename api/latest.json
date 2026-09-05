@@ -1,12 +1,12 @@
 {
- "tick": 844,
- "utc": "2026-09-05T06:00:47.169Z",
+ "tick": 845,
+ "utc": "2026-09-05T10:32:30.393Z",
  "world": {
   "btc_block_height": {
-   "height": 965574
+   "height": 965597
   },
   "btc_usd": {
-   "spot": "79591.495"
+   "spot": "79649.985"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,35 +15,35 @@
    "CNY": "6.7289"
   },
   "crypto_market": {
-   "total_mcap_usd": "2694076697490",
-   "btc_dominance_pct": "59.1"
+   "total_mcap_usd": "2703111588983",
+   "btc_dominance_pct": "59.0"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 85593
+   "tx_count": 82685
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "1.2"
+   "count": 5,
+   "max_mag": "2.6"
   },
   "iss": {
-   "lat": "40.877",
-   "lon": "-127.768"
+   "lat": "22.630",
+   "lon": "139.386"
   },
   "space_weather": {
    "kp": "2.0",
-   "at": "2026-09-05T00:00:00"
+   "at": "2026-09-05T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 41,
+   "gco2_kwh": 45,
    "index": "low"
   },
   "hn_top": {
-   "id": 49570669,
-   "title": "Actively exploited sandbox RCE in all Chromium versions"
+   "id": 49574167,
+   "title": "AI handles incidents, engineers lose touch with their systems"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -52,17 +52,17 @@
      "yes_price": "0.0035"
     },
     {
-     "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-     "yes_price": "0.145"
-    },
-    {
      "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
      "yes_price": "0.0015"
+    },
+    {
+     "question": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+     "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "59b31e039c341157f505a406b2afddf2f4a3eadc5dc3d9e8753388794067198c",
- "spine_head": "83d50c50a64bdb54eba85266c79d955a6aa8462d2a902896cbaad3eda7037cdc",
- "built_utc": "2026-09-05T06:16:13Z"
+ "frame_hash": "7f19f7639c1fba844280418ef6fd6875a9a8c8393ce3b68e8500abbb21868cd8",
+ "spine_head": "582cbde954000fc644bd73a7346e6a407cb35ea2904228b06778624a989aa59a",
+ "built_utc": "2026-09-05T10:53:01Z"
 }
