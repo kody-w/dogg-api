@@ -1,12 +1,12 @@
 {
- "tick": 848,
- "utc": "2026-09-05T18:28:24.007Z",
+ "tick": 849,
+ "utc": "2026-09-05T20:36:31.878Z",
  "world": {
   "btc_block_height": {
-   "height": 965647
+   "height": 965665
   },
   "btc_usd": {
-   "spot": "79970.005"
+   "spot": "79707.295"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,54 +15,54 @@
    "CNY": "6.7289"
   },
   "crypto_market": {
-   "total_mcap_usd": "2724897377132",
-   "btc_dominance_pct": "58.9"
+   "total_mcap_usd": "2716492768281",
+   "btc_dominance_pct": "58.8"
   },
   "btc_fees": {
-   "fastest_sat_vb": 4,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 94388
+   "tx_count": 86328
   },
   "earthquakes_past_hour": {
-   "count": 4,
-   "max_mag": "4.9"
+   "count": 5,
+   "max_mag": "1.6"
   },
   "iss": {
-   "lat": "48.861",
-   "lon": "63.617"
+   "lat": "-23.283",
+   "lon": "166.536"
   },
   "space_weather": {
    "kp": "0.33",
    "at": "2026-09-05T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 138,
+   "gco2_kwh": 151,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49576386,
-   "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)"
+   "id": 49578866,
+   "title": "The Luxuries in Life"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
-     "yes_price": "0.785"
+     "question": "Will OGC Nice win on 2026-09-05?",
+     "yes_price": "0.065"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0035"
     },
     {
-     "question": "Will OGC Nice win on 2026-09-05?",
-     "yes_price": "0.575"
+     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
+     "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "5c58465c74ecd0091bfbf73106e3908a102915d9ec99b0cfb88d94bdc5be27ea",
- "spine_head": "b89fe141de7c904fe906a8ad5ea26e442ff0d33366cd6d48017f533b91698b64",
- "built_utc": "2026-09-05T18:57:47Z"
+ "frame_hash": "51f03ce5dc366cc8e0abd08723f7392ec9fb43766d5d6bc2612d153357804d16",
+ "spine_head": "daaf56ed9265b1d48ee6e0093c971df8a0aedeb60a44ae3e9051937df2a90753",
+ "built_utc": "2026-09-05T21:07:13Z"
 }
