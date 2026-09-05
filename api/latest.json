@@ -1,12 +1,12 @@
 {
- "tick": 846,
- "utc": "2026-09-05T13:32:28.802Z",
+ "tick": 847,
+ "utc": "2026-09-05T16:16:05.706Z",
  "world": {
   "btc_block_height": {
-   "height": 965619
+   "height": 965632
   },
   "btc_usd": {
-   "spot": "79744.275"
+   "spot": "79804.315"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,35 +15,35 @@
    "CNY": "6.7289"
   },
   "crypto_market": {
-   "total_mcap_usd": "2712538754761",
+   "total_mcap_usd": "2714349252978",
    "btc_dominance_pct": "58.9"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82377
+   "tx_count": 92979
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "4.4"
+   "count": 11,
+   "max_mag": "1.8"
   },
   "iss": {
-   "lat": "5.195",
-   "lon": "78.598"
+   "lat": "-50.534",
+   "lon": "-40.073"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-09-05T09:00:00"
+   "kp": "1.33",
+   "at": "2026-09-05T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 43,
+   "gco2_kwh": 80,
    "index": "low"
   },
   "hn_top": {
-   "id": 49570669,
-   "title": "Actively exploited sandbox RCE in all Chromium versions"
+   "id": 49576386,
+   "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -52,17 +52,17 @@
      "yes_price": "0.0035"
     },
     {
-     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0015"
+     "question": "Will Manchester City FC win on 2026-09-05?",
+     "yes_price": "0.9995"
     },
     {
-     "question": "LoL: Ninjas in Pyjamas vs JD Gaming - Game 1 Winner",
-     "yes_price": "0.9995"
+     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
+     "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "aeb7cf2cdfd5d19090268aedbd9058d1b2de57ea1e0fcb931497f78007595829",
- "spine_head": "e7930edfba002320b68044eb7a6236f1c964bf27a2b22897be89f396c611f2dd",
- "built_utc": "2026-09-05T13:49:53Z"
+ "frame_hash": "1a2bd0789edbdbd64440608dcda8296ea9cc1620fb4c75cbc02915a1208deb5b",
+ "spine_head": "57f565525ba91eaca991e69fa7dd53228f787489d8f2c739fdf04a54773b158a",
+ "built_utc": "2026-09-05T16:44:40Z"
 }
