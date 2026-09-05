@@ -1,12 +1,12 @@
 {
- "tick": 841,
- "utc": "2026-09-04T21:49:22.655Z",
+ "tick": 842,
+ "utc": "2026-09-04T23:37:39.446Z",
  "world": {
   "btc_block_height": {
-   "height": 965526
+   "height": 965539
   },
   "btc_usd": {
-   "spot": "79785.125"
+   "spot": "79699.645"
   },
   "fx_usd": {
    "EUR": "0.8606",
@@ -15,35 +15,35 @@
    "CNY": "6.7355"
   },
   "crypto_market": {
-   "total_mcap_usd": "2699704666587",
+   "total_mcap_usd": "2697799969074",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 5,
-   "hour_sat_vb": 3
+   "fastest_sat_vb": 2,
+   "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 87372
+   "tx_count": 82950
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "4.3"
+   "count": 13,
+   "max_mag": "2.7"
   },
   "iss": {
-   "lat": "-35.730",
-   "lon": "-80.342"
+   "lat": "9.111",
+   "lon": "-66.106"
   },
   "space_weather": {
    "kp": "0.67",
    "at": "2026-09-04T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 80,
+   "gco2_kwh": 69,
    "index": "low"
   },
   "hn_top": {
-   "id": 49568506,
-   "title": "Formalizing Fermat's Last Theorem"
+   "id": 49570669,
+   "title": "Actively exploited sandbox RCE in all Chromium versions"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "8f809025f88e413c00fbe61409eb8f59362cf1d78ebbd57046df6a0f0da0332a",
- "spine_head": "d9a87cb0271ab5f91384198330dc22615de6af4478403577be499c17783b3d2e",
- "built_utc": "2026-09-04T23:13:51Z"
+ "frame_hash": "1207868be238e3d13f5c1ec0ca0a64df5f973d466399112517b41ab2d8b7aeb7",
+ "spine_head": "c92d807ebdfc1f6e2e424e391c52644930142290410e1ed3ab92d8cb9f79623c",
+ "built_utc": "2026-09-05T01:20:02Z"
 }
