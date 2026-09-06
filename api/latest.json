@@ -1,12 +1,12 @@
 {
- "tick": 855,
- "utc": "2026-09-06T15:46:30.641Z",
+ "tick": 856,
+ "utc": "2026-09-06T17:56:24.423Z",
  "world": {
   "btc_block_height": {
-   "height": 965797
+   "height": 965814
   },
   "btc_usd": {
-   "spot": "79690.005"
+   "spot": "79733.245"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,54 +15,54 @@
    "CNY": "6.7344"
   },
   "crypto_market": {
-   "total_mcap_usd": "2693473727892",
-   "btc_dominance_pct": "59.3"
+   "total_mcap_usd": "2696628245431",
+   "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82403
+   "tx_count": 82313
   },
   "earthquakes_past_hour": {
-   "count": 10,
-   "max_mag": "3.1"
+   "count": 3,
+   "max_mag": "2.0"
   },
   "iss": {
-   "lat": "-10.930",
-   "lon": "25.754"
+   "lat": "37.278",
+   "lon": "144.671"
   },
   "space_weather": {
    "kp": "1.33",
    "at": "2026-09-06T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 55,
-   "index": "low"
+   "gco2_kwh": 105,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49585644,
-   "title": "Intellectual Fly Is Open (2025)"
+   "id": 49586171,
+   "title": "QBittorrent breaks out of sandbox to commit crimes"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
-     "yes_price": "0.915"
+     "yes_price": "0.885"
     },
     {
-     "question": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
-     "yes_price": "0.0005"
+     "question": "LoL: G2 Esports vs Karmine Corp - Game 1 Winner",
+     "yes_price": "0.9995"
     },
     {
-     "question": "Will FC Barcelona win on 2026-09-06?",
-     "yes_price": "0.995"
+     "question": "LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs",
+     "yes_price": "0.725"
     }
    ]
   }
  },
- "frame_hash": "de19271aa4cb7b996841ecb5a12454ba1cab37b344852a6a78ebb8016a9fffd3",
- "spine_head": "9f792a00551d9a843e01c4480ebbabb07cea22ea89f9ff4ea5074c9352675883",
- "built_utc": "2026-09-06T17:18:46Z"
+ "frame_hash": "5d3cd243b2fa5e8fb8c71d0d801af879964f0d72496d6aa938fc65b815dc4efa",
+ "spine_head": "8a338188ab25b430b66a6c21b1d1fee4dfdcd3ba4f2c033227a9435b669c05c7",
+ "built_utc": "2026-09-06T19:27:16Z"
 }
