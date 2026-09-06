@@ -1,12 +1,12 @@
 {
- "tick": 857,
- "utc": "2026-09-06T19:58:47.806Z",
+ "tick": 858,
+ "utc": "2026-09-06T22:00:50.972Z",
  "world": {
   "btc_block_height": {
-   "height": 965827
+   "height": 965837
   },
   "btc_usd": {
-   "spot": "79800.085"
+   "spot": "79902.185"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,54 +15,54 @@
    "CNY": "6.7344"
   },
   "crypto_market": {
-   "total_mcap_usd": "2698086565117",
-   "btc_dominance_pct": "59.2"
+   "total_mcap_usd": "2706337677515",
+   "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
    "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81013
+   "tx_count": 79416
   },
   "earthquakes_past_hour": {
-   "count": 11,
-   "max_mag": "2.2"
+   "count": 3,
+   "max_mag": "4.9"
   },
   "iss": {
-   "lat": "-44.939",
-   "lon": "-157.832"
+   "lat": "-2.640",
+   "lon": "-62.707"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-09-06T15:00:00"
+   "kp": "1.67",
+   "at": "2026-09-06T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 128,
-   "index": "moderate"
+   "gco2_kwh": 88,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49588988,
-   "title": "Nitter is unarchived and will continue"
+   "id": 49590611,
+   "title": "It took a year to ship WebAssembly in Anubis"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
-     "yes_price": "0.0265"
+     "question": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
+     "yes_price": "0.235"
     },
     {
-     "question": "Detroit Tigers vs. Cleveland Guardians",
-     "yes_price": "0.475"
+     "question": "Tampa Bay Rays vs. Texas Rangers",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0035"
+     "question": "US Open ATP: Alex Michelsen vs Tomas Etcheverry",
+     "yes_price": "0.983"
     }
    ]
   }
  },
- "frame_hash": "b5643b176e5c74997214b6b5313afaa8b5eb39d9220031d33fb88685d9a8ecfc",
- "spine_head": "69e3366004059226fd72266768cf74c644dd442f048eb95eff6d3f7c8bbe9ec2",
- "built_utc": "2026-09-06T21:39:31Z"
+ "frame_hash": "f5c82817dd2d07d1e4c671cb529085ef63bf9694f776a2312e1a5d90e062993e",
+ "spine_head": "133b822558db8dc84a9a324e13999ae0539d1541ff27411e28d777cb14f2d5e8",
+ "built_utc": "2026-09-06T23:45:45Z"
 }
