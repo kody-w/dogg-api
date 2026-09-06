@@ -1,12 +1,12 @@
 {
- "tick": 856,
- "utc": "2026-09-06T17:56:24.423Z",
+ "tick": 857,
+ "utc": "2026-09-06T19:58:47.806Z",
  "world": {
   "btc_block_height": {
-   "height": 965814
+   "height": 965827
   },
   "btc_usd": {
-   "spot": "79733.245"
+   "spot": "79800.085"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,54 +15,54 @@
    "CNY": "6.7344"
   },
   "crypto_market": {
-   "total_mcap_usd": "2696628245431",
+   "total_mcap_usd": "2698086565117",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82313
+   "tx_count": 81013
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "2.0"
+   "count": 11,
+   "max_mag": "2.2"
   },
   "iss": {
-   "lat": "37.278",
-   "lon": "144.671"
+   "lat": "-44.939",
+   "lon": "-157.832"
   },
   "space_weather": {
-   "kp": "1.33",
-   "at": "2026-09-06T12:00:00"
+   "kp": "0.67",
+   "at": "2026-09-06T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 105,
+   "gco2_kwh": 128,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49586171,
-   "title": "QBittorrent breaks out of sandbox to commit crimes"
+   "id": 49588988,
+   "title": "Nitter is unarchived and will continue"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
-     "yes_price": "0.885"
+     "question": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
+     "yes_price": "0.0265"
     },
     {
-     "question": "LoL: G2 Esports vs Karmine Corp - Game 1 Winner",
-     "yes_price": "0.9995"
+     "question": "Detroit Tigers vs. Cleveland Guardians",
+     "yes_price": "0.475"
     },
     {
-     "question": "LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs",
-     "yes_price": "0.725"
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0035"
     }
    ]
   }
  },
- "frame_hash": "5d3cd243b2fa5e8fb8c71d0d801af879964f0d72496d6aa938fc65b815dc4efa",
- "spine_head": "8a338188ab25b430b66a6c21b1d1fee4dfdcd3ba4f2c033227a9435b669c05c7",
- "built_utc": "2026-09-06T19:27:16Z"
+ "frame_hash": "b5643b176e5c74997214b6b5313afaa8b5eb39d9220031d33fb88685d9a8ecfc",
+ "spine_head": "69e3366004059226fd72266768cf74c644dd442f048eb95eff6d3f7c8bbe9ec2",
+ "built_utc": "2026-09-06T21:39:31Z"
 }
