@@ -1,12 +1,12 @@
 {
- "tick": 854,
- "utc": "2026-09-06T12:32:31.384Z",
+ "tick": 855,
+ "utc": "2026-09-06T15:46:30.641Z",
  "world": {
   "btc_block_height": {
-   "height": 965765
+   "height": 965797
   },
   "btc_usd": {
-   "spot": "79969.955"
+   "spot": "79690.005"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,54 +15,54 @@
    "CNY": "6.7344"
   },
   "crypto_market": {
-   "total_mcap_usd": "2708083425805",
-   "btc_dominance_pct": "59.2"
+   "total_mcap_usd": "2693473727892",
+   "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
    "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80316
+   "tx_count": 82403
   },
   "earthquakes_past_hour": {
-   "count": 12,
-   "max_mag": "5.2"
+   "count": 10,
+   "max_mag": "3.1"
   },
   "iss": {
-   "lat": "-34.200",
-   "lon": "51.447"
+   "lat": "-10.930",
+   "lon": "25.754"
   },
   "space_weather": {
    "kp": "1.33",
-   "at": "2026-09-06T09:00:00"
+   "at": "2026-09-06T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 34,
+   "gco2_kwh": 55,
    "index": "low"
   },
   "hn_top": {
    "id": 49585644,
-   "title": "Intellectual Fly Is Open"
+   "title": "Intellectual Fly Is Open (2025)"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Manchester United FC win on 2026-09-06?",
-     "yes_price": "0.495"
+     "question": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
+     "yes_price": "0.915"
     },
     {
-     "question": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
-     "yes_price": "0.9995"
+     "question": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
+     "yes_price": "0.0005"
     },
     {
-     "question": "LoL: T1 vs Dplus KIA - Game 3 Winner",
-     "yes_price": "0.9995"
+     "question": "Will FC Barcelona win on 2026-09-06?",
+     "yes_price": "0.995"
     }
    ]
   }
  },
- "frame_hash": "bac59876588f32fd084ed275a35bd782e53d1b4b80d2c55389dcd7988abd3c4a",
- "spine_head": "f0c203f679d94d4eb860666f6e2f9671a12ecac50b15934cc80c69e52f84331b",
- "built_utc": "2026-09-06T14:22:00Z"
+ "frame_hash": "de19271aa4cb7b996841ecb5a12454ba1cab37b344852a6a78ebb8016a9fffd3",
+ "spine_head": "9f792a00551d9a843e01c4480ebbabb07cea22ea89f9ff4ea5074c9352675883",
+ "built_utc": "2026-09-06T17:18:46Z"
 }
