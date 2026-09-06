@@ -1,12 +1,12 @@
 {
- "tick": 852,
- "utc": "2026-09-06T04:35:13.165Z",
+ "tick": 853,
+ "utc": "2026-09-06T08:55:13.999Z",
  "world": {
   "btc_block_height": {
-   "height": 965718
+   "height": 965741
   },
   "btc_usd": {
-   "spot": "79913.995"
+   "spot": "79861.505"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,54 +15,54 @@
    "CNY": "6.7344"
   },
   "crypto_market": {
-   "total_mcap_usd": "2702112515169",
+   "total_mcap_usd": "2699981240764",
    "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81368
+   "tx_count": 76337
   },
   "earthquakes_past_hour": {
    "count": 5,
-   "max_mag": "5.6"
+   "max_mag": "1.8"
   },
   "iss": {
-   "lat": "-51.511",
-   "lon": "107.044"
+   "lat": "-9.973",
+   "lon": "-33.033"
   },
   "space_weather": {
    "kp": "1.33",
-   "at": "2026-09-06T00:00:00"
+   "at": "2026-09-06T03:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 73,
+   "gco2_kwh": 50,
    "index": "low"
   },
   "hn_top": {
-   "id": 49582000,
-   "title": "Cloud in a Bottle: making self-hosting accessible to everyone"
+   "id": 49584083,
+   "title": "Isar Aerospace reaches orbit and deploys payloads on second flight"
   },
   "prediction_markets": {
    "top_by_volume": [
+    {
+     "question": "LoL: Invictus Gaming vs Team WE - Game 3 Winner",
+     "yes_price": "0.9995"
+    },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0035"
     },
     {
-     "question": "US Open ATP: Jakub Mensik vs Learner Tien",
-     "yes_price": "0.735"
-    },
-    {
-     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0015"
+     "question": "LoL: Invictus Gaming vs Team WE - Game 2 Winner",
+     "yes_price": "0.0005"
     }
    ]
   }
  },
- "frame_hash": "7c4b62b438ec84ad8aa504a787126a3d923c51be2a04639b9f96c24314a34dee",
- "spine_head": "45b14b08bd44880b8f085e8ca30cb46fa3fed3dfb21aa0ad91b97f8e0f5d6c2b",
- "built_utc": "2026-09-06T06:27:26Z"
+ "frame_hash": "6a48e665c731518c0d300e03461b5322464e59e0f04a92b31adc81ad11626374",
+ "spine_head": "29d0c5a981313a28641fdb092ae9d55701585f43d8ae52125d594ee9742b25f4",
+ "built_utc": "2026-09-06T11:17:26Z"
 }
