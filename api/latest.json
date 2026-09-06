@@ -1,12 +1,12 @@
 {
- "tick": 850,
- "utc": "2026-09-05T22:17:44.359Z",
+ "tick": 851,
+ "utc": "2026-09-06T00:04:50.962Z",
  "world": {
   "btc_block_height": {
-   "height": 965676
+   "height": 965687
   },
   "btc_usd": {
-   "spot": "79939.395"
+   "spot": "79883.965"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,35 +15,35 @@
    "CNY": "6.7289"
   },
   "crypto_market": {
-   "total_mcap_usd": "2721294375677",
-   "btc_dominance_pct": "58.8"
+   "total_mcap_usd": "2694454620108",
+   "btc_dominance_pct": "59.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 86546
+   "tx_count": 85570
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "1.8"
+   "count": 5,
+   "max_mag": "3.9"
   },
   "iss": {
-   "lat": "-44.113",
-   "lon": "170.768"
+   "lat": "-44.405",
+   "lon": "-136.660"
   },
   "space_weather": {
-   "kp": "0.33",
-   "at": "2026-09-05T18:00:00"
+   "kp": "1.0",
+   "at": "2026-09-05T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 131,
+   "gco2_kwh": 156,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49578866,
-   "title": "The Real Luxuries In Life"
+   "id": 49580369,
+   "title": "Private German rocket makes history, reaches orbit from European soil"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -52,17 +52,17 @@
      "yes_price": "0.0035"
     },
     {
-     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0015"
+     "question": "US Open ATP: Michael Zheng vs Arthur Gea",
+     "yes_price": "0.77"
     },
     {
-     "question": "US Open ATP: Michael Zheng vs Arthur Gea",
-     "yes_price": "0.385"
+     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
+     "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "b3137f13ee66ed2db3bfdb6da8a14f1be420d6e67c4fb7b51d3f2f0dcca911a3",
- "spine_head": "dc2bfe73703abb8018aabb63bd2e98647ebea939eb20c6e0fcac1f04e5e3f58d",
- "built_utc": "2026-09-05T23:13:09Z"
+ "frame_hash": "722e6a482d82bc74761c725b53af4b0a90338c29db3ac122eb7e7bb40a70c771",
+ "spine_head": "0f65bbe3c65af23edc6f15988cffc7026e0fa9eb8be1f3a57b12100e9b2e1fd6",
+ "built_utc": "2026-09-06T01:17:29Z"
 }
