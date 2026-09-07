@@ -1,68 +1,68 @@
 {
- "tick": 858,
- "utc": "2026-09-06T22:00:50.972Z",
+ "tick": 860,
+ "utc": "2026-09-07T02:22:00.573Z",
  "world": {
   "btc_block_height": {
-   "height": 965837
+   "height": 965870
   },
   "btc_usd": {
-   "spot": "79902.185"
+   "spot": "79956.475"
   },
   "fx_usd": {
    "EUR": "0.8611",
    "GBP": "0.7397",
-   "JPY": "156.1729",
-   "CNY": "6.7344"
+   "JPY": "156.1770",
+   "CNY": "6.7194"
   },
   "crypto_market": {
-   "total_mcap_usd": "2706337677515",
-   "btc_dominance_pct": "59.1"
+   "total_mcap_usd": "2697866298203",
+   "btc_dominance_pct": "59.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79416
+   "tx_count": 76174
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "4.9"
+   "count": 7,
+   "max_mag": "5.3"
   },
   "iss": {
-   "lat": "-2.640",
-   "lon": "-62.707"
+   "lat": "-48.074",
+   "lon": "171.760"
   },
   "space_weather": {
    "kp": "1.67",
-   "at": "2026-09-06T18:00:00"
+   "at": "2026-09-06T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 88,
+   "gco2_kwh": 46,
    "index": "low"
   },
   "hn_top": {
-   "id": 49590611,
-   "title": "It took a year to ship WebAssembly in Anubis"
+   "id": 49591876,
+   "title": "Making a Python interpreter in 1024 bytes"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
-     "yes_price": "0.235"
+     "question": "Will AfD win an absolute majority of seats in Sachsen-Anhalt?",
+     "yes_price": "0.002"
     },
     {
-     "question": "Tampa Bay Rays vs. Texas Rangers",
-     "yes_price": "0.0005"
+     "question": "Louisville vs. Ole Miss",
+     "yes_price": "0.245"
     },
     {
-     "question": "US Open ATP: Alex Michelsen vs Tomas Etcheverry",
-     "yes_price": "0.983"
+     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
+     "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "f5c82817dd2d07d1e4c671cb529085ef63bf9694f776a2312e1a5d90e062993e",
- "spine_head": "133b822558db8dc84a9a324e13999ae0539d1541ff27411e28d777cb14f2d5e8",
- "built_utc": "2026-09-06T23:45:45Z"
+ "frame_hash": "5ccc89d16c1af10d2be4ed190e74776ab6a5723d26b4a6737b0c6d6e73962819",
+ "spine_head": "239371c6e1bfd2c08a6dcbd1fde24f211c0dfb42853d0b46f43cd99555a5d543",
+ "built_utc": "2026-09-07T04:23:15Z"
 }
