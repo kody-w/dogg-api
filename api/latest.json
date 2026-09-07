@@ -1,12 +1,12 @@
 {
- "tick": 861,
- "utc": "2026-09-07T07:26:42.929Z",
+ "tick": 862,
+ "utc": "2026-09-07T13:37:00.034Z",
  "world": {
   "btc_block_height": {
-   "height": 965896
+   "height": 965937
   },
   "btc_usd": {
-   "spot": "79540.045"
+   "spot": "79328.54"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,54 +15,54 @@
    "CNY": "6.7194"
   },
   "crypto_market": {
-   "total_mcap_usd": "2688392678452",
+   "total_mcap_usd": "2689178291679",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 87298
+   "tx_count": 87423
   },
   "earthquakes_past_hour": {
-   "count": 10,
-   "max_mag": "2.8"
+   "count": 9,
+   "max_mag": "2.7"
   },
   "iss": {
-   "lat": "22.839",
-   "lon": "174.935"
+   "lat": "18.951",
+   "lon": "77.163"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-09-07T03:00:00"
+   "kp": "4.0",
+   "at": "2026-09-07T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 88,
+   "gco2_kwh": 55,
    "index": "low"
   },
   "hn_top": {
-   "id": 49593563,
-   "title": "Keep Our Servers Running"
+   "id": 49597907,
+   "title": "De-Brainrot Vacations"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will AfD win an absolute majority of seats in Sachsen-Anhalt?",
-     "yes_price": "0.002"
+     "question": "LoL: Anyone's Legend vs Bilibili Gaming - Game 3 Winner",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0035"
+     "question": "LoL: Anyone's Legend vs Bilibili Gaming (BO5) - LPL Playoffs",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
-     "yes_price": "0.0015"
+     "question": "LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs",
+     "yes_price": "0.635"
     }
    ]
   }
  },
- "frame_hash": "b637e7661097e004e3e8a2a9ce5da2bec82a4786a58a7c5f4a4b22565651a606",
- "spine_head": "e85021e4ce3ed43ef8f7abc88cdcd7054ec76b82b75fddcda1fbefa59637cee0",
- "built_utc": "2026-09-07T09:38:37Z"
+ "frame_hash": "a3ca75d9b34b677e9ddad1de468bff538ac0243aa7ebd6b5deb264eb8f52f632",
+ "spine_head": "9b5bfd8d2621d45b38457eb9e39753c44ff5f27c9f95b05003d521a8f184c9a7",
+ "built_utc": "2026-09-07T15:45:02Z"
 }
