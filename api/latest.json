@@ -1,12 +1,12 @@
 {
- "tick": 863,
- "utc": "2026-09-07T18:23:29.235Z",
+ "tick": 864,
+ "utc": "2026-09-07T21:39:02.919Z",
  "world": {
   "btc_block_height": {
-   "height": 965959
+   "height": 965975
   },
   "btc_usd": {
-   "spot": "79147.925"
+   "spot": "79202.575"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,45 +15,45 @@
    "CNY": "6.7194"
   },
   "crypto_market": {
-   "total_mcap_usd": "2683188103839",
+   "total_mcap_usd": "2683018246882",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82940
+   "tx_count": 84282
   },
   "earthquakes_past_hour": {
-   "count": 10,
-   "max_mag": "3.5"
+   "count": 3,
+   "max_mag": "2.0"
   },
   "iss": {
-   "lat": "39.804",
-   "lon": "29.681"
+   "lat": "51.721",
+   "lon": "32.918"
   },
   "space_weather": {
-   "kp": "3.67",
-   "at": "2026-09-07T15:00:00"
+   "kp": "4.0",
+   "at": "2026-09-07T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 145,
+   "gco2_kwh": 107,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49598291,
-   "title": "bzip3"
+   "id": 49601655,
+   "title": "Watch Los Angeles get built, one building at a time (1880–2026)"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Cagliari Calcio win on 2026-09-07?",
-     "yes_price": "0.875"
+     "question": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will SS Lazio win on 2026-09-07?",
-     "yes_price": "0.345"
+     "question": "US Open WTA: Naomi Osaka vs Elena Rybakina",
+     "yes_price": "0.0005"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "6a5f2e9ef2a048f9e72ad08c5e6a9bce0812a03db20965fcf67cdf49a6894bfa",
- "spine_head": "1361bf03962ace7d7d29a1efb9a68d035fc39794a442c690f6a50d0b39f1b873",
- "built_utc": "2026-09-07T19:51:32Z"
+ "frame_hash": "9dddef661bb380c4d311b0a76283260c015f8b2a1fdaacb53a089e1dfe00501b",
+ "spine_head": "188822aed47037cf52afdfca4e05502009d9000d989f6364fa287aeb84c63676",
+ "built_utc": "2026-09-07T22:45:42Z"
 }
