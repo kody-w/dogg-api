@@ -1,12 +1,12 @@
 {
- "tick": 860,
- "utc": "2026-09-07T02:22:00.573Z",
+ "tick": 861,
+ "utc": "2026-09-07T07:26:42.929Z",
  "world": {
   "btc_block_height": {
-   "height": 965870
+   "height": 965896
   },
   "btc_usd": {
-   "spot": "79956.475"
+   "spot": "79540.045"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,35 +15,35 @@
    "CNY": "6.7194"
   },
   "crypto_market": {
-   "total_mcap_usd": "2697866298203",
-   "btc_dominance_pct": "59.2"
+   "total_mcap_usd": "2688392678452",
+   "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 76174
+   "tx_count": 87298
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "5.3"
+   "count": 10,
+   "max_mag": "2.8"
   },
   "iss": {
-   "lat": "-48.074",
-   "lon": "171.760"
+   "lat": "22.839",
+   "lon": "174.935"
   },
   "space_weather": {
-   "kp": "1.67",
-   "at": "2026-09-06T21:00:00"
+   "kp": "2.0",
+   "at": "2026-09-07T03:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 46,
+   "gco2_kwh": 88,
    "index": "low"
   },
   "hn_top": {
-   "id": 49591876,
-   "title": "Making a Python interpreter in 1024 bytes"
+   "id": 49593563,
+   "title": "Keep Our Servers Running"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -52,17 +52,17 @@
      "yes_price": "0.002"
     },
     {
-     "question": "Louisville vs. Ole Miss",
-     "yes_price": "0.245"
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0035"
     },
     {
-     "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
+     "question": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
      "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "5ccc89d16c1af10d2be4ed190e74776ab6a5723d26b4a6737b0c6d6e73962819",
- "spine_head": "239371c6e1bfd2c08a6dcbd1fde24f211c0dfb42853d0b46f43cd99555a5d543",
- "built_utc": "2026-09-07T04:23:15Z"
+ "frame_hash": "b637e7661097e004e3e8a2a9ce5da2bec82a4786a58a7c5f4a4b22565651a606",
+ "spine_head": "e85021e4ce3ed43ef8f7abc88cdcd7054ec76b82b75fddcda1fbefa59637cee0",
+ "built_utc": "2026-09-07T09:38:37Z"
 }
