@@ -1,12 +1,12 @@
 {
- "tick": 868,
- "utc": "2026-09-08T12:13:38.442Z",
+ "tick": 869,
+ "utc": "2026-09-08T16:39:42.104Z",
  "world": {
   "btc_block_height": {
-   "height": 966069
+   "height": 966096
   },
   "btc_usd": {
-   "spot": "78214.355"
+   "spot": "78855.855"
   },
   "fx_usd": {
    "EUR": "0.8604",
@@ -15,54 +15,54 @@
    "CNY": "6.7284"
   },
   "crypto_market": {
-   "total_mcap_usd": "2660550225722",
-   "btc_dominance_pct": "58.9"
+   "total_mcap_usd": "2706918742411",
+   "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79283
+   "tx_count": 87507
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "5.2"
+   "count": 5,
+   "max_mag": "4.9"
   },
   "iss": {
-   "lat": "-43.815",
-   "lon": "-54.207"
+   "lat": "-10.055",
+   "lon": "-162.858"
   },
   "space_weather": {
-   "kp": "4.33",
-   "at": "2026-09-08T09:00:00"
+   "kp": "3.67",
+   "at": "2026-09-08T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 72,
+   "gco2_kwh": 79,
    "index": "low"
   },
   "hn_top": {
-   "id": 49607443,
-   "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare"
+   "id": 49611251,
+   "title": "Google DeepMind Releases AlphaGenome Atlas"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs",
-     "yes_price": "0.9995"
+     "question": "Will Club Brugge KV win on 2026-09-08?",
+     "yes_price": "0.385"
     },
     {
      "question": "Genoa: Thiago Seyboth Wild vs Francesco Ferrari",
-     "yes_price": "0.544"
+     "yes_price": "0.5385"
     },
     {
-     "question": "LoL: Invictus Gaming vs LGD Gaming - Game 2 Winner",
-     "yes_price": "0.9995"
+     "question": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
+     "yes_price": "0.915"
     }
    ]
   }
  },
- "frame_hash": "3acd625862d2cefc3f1987f9cf60381b43145652d6abee5b85870c681674fd15",
- "spine_head": "eea409daa264ac1ef05992303b0e78e5ee64e43f00eafd8c9af5e38bc9110fdd",
- "built_utc": "2026-09-08T15:16:34Z"
+ "frame_hash": "54aeae99a8575abdfba94689c4c3e7496e461c07b5412786a9e3d72e958412e1",
+ "spine_head": "406443db49929e06cee341b15dc1e11f5ed46f12452d0f8c3db36b59ee190671",
+ "built_utc": "2026-09-08T18:56:24Z"
 }
