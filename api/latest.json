@@ -1,12 +1,12 @@
 {
- "tick": 864,
- "utc": "2026-09-07T21:39:02.919Z",
+ "tick": 865,
+ "utc": "2026-09-07T23:45:27.785Z",
  "world": {
   "btc_block_height": {
-   "height": 965975
+   "height": 965989
   },
   "btc_usd": {
-   "spot": "79202.575"
+   "spot": "79102.765"
   },
   "fx_usd": {
    "EUR": "0.8611",
@@ -15,30 +15,30 @@
    "CNY": "6.7194"
   },
   "crypto_market": {
-   "total_mcap_usd": "2683018246882",
+   "total_mcap_usd": "2678467099602",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84282
+   "tx_count": 82363
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "2.0"
+   "count": 7,
+   "max_mag": "2.2"
   },
   "iss": {
-   "lat": "51.721",
-   "lon": "32.918"
+   "lat": "-32.124",
+   "lon": "116.480"
   },
   "space_weather": {
    "kp": "4.0",
    "at": "2026-09-07T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 107,
+   "gco2_kwh": 101,
    "index": "moderate"
   },
   "hn_top": {
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
-     "yes_price": "0.0005"
+     "question": "US Open ATP: Karen Khachanov vs Learner Tien",
+     "yes_price": "0.28"
     },
     {
-     "question": "US Open WTA: Naomi Osaka vs Elena Rybakina",
-     "yes_price": "0.0005"
+     "question": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
+     "yes_price": "0.835"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0035"
+     "yes_price": "0.0045"
     }
    ]
   }
  },
- "frame_hash": "9dddef661bb380c4d311b0a76283260c015f8b2a1fdaacb53a089e1dfe00501b",
- "spine_head": "188822aed47037cf52afdfca4e05502009d9000d989f6364fa287aeb84c63676",
- "built_utc": "2026-09-07T22:45:42Z"
+ "frame_hash": "65949b9c57eb3868df1adc2f90316a6662197cff945d1e4c972611cb52dea7d1",
+ "spine_head": "5ba79df1bacd643d548c56c8f5eb6cfab6be8db5d982102ec8b82a527c0a1484",
+ "built_utc": "2026-09-08T01:06:55Z"
 }
