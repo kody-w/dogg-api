@@ -1,68 +1,68 @@
 {
- "tick": 865,
- "utc": "2026-09-07T23:45:27.785Z",
+ "tick": 866,
+ "utc": "2026-09-08T02:34:34.959Z",
  "world": {
   "btc_block_height": {
-   "height": 965989
+   "height": 966006
   },
   "btc_usd": {
-   "spot": "79102.765"
+   "spot": "79173.235"
   },
   "fx_usd": {
-   "EUR": "0.8611",
-   "GBP": "0.7397",
-   "JPY": "156.1770",
-   "CNY": "6.7194"
+   "EUR": "0.8604",
+   "GBP": "0.7386",
+   "JPY": "154.4147",
+   "CNY": "6.7284"
   },
   "crypto_market": {
-   "total_mcap_usd": "2678467099602",
+   "total_mcap_usd": "2691378497153",
    "btc_dominance_pct": "59.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82363
+   "tx_count": 79480
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "2.2"
+   "count": 6,
+   "max_mag": "4.5"
   },
   "iss": {
-   "lat": "-32.124",
-   "lon": "116.480"
+   "lat": "17.314",
+   "lon": "29.670"
   },
   "space_weather": {
-   "kp": "4.0",
-   "at": "2026-09-07T18:00:00"
+   "kp": "4.33",
+   "at": "2026-09-07T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 101,
-   "index": "moderate"
+   "gco2_kwh": 77,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49601655,
-   "title": "Watch Los Angeles get built, one building at a time (1880–2026)"
+   "id": 49604861,
+   "title": "Jellyfin 12.0"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Karen Khachanov vs Learner Tien",
-     "yes_price": "0.28"
-    },
-    {
-     "question": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
-     "yes_price": "0.835"
+     "question": "Cincinnati Reds vs. Los Angeles Dodgers",
+     "yes_price": "0.205"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0045"
+    },
+    {
+     "question": "US Open ATP: Alexander Zverev vs Luciano Darderi",
+     "yes_price": "0.979"
     }
    ]
   }
  },
- "frame_hash": "65949b9c57eb3868df1adc2f90316a6662197cff945d1e4c972611cb52dea7d1",
- "spine_head": "5ba79df1bacd643d548c56c8f5eb6cfab6be8db5d982102ec8b82a527c0a1484",
- "built_utc": "2026-09-08T01:06:55Z"
+ "frame_hash": "c718358681e097e0301d341e007f2f87b8772238508baf2721d80fc087429898",
+ "spine_head": "dfc97fc4d17b0c3f6394ba53faaee1338334bf756f3057d6c8fe1b20bdc5dda3",
+ "built_utc": "2026-09-08T05:55:12Z"
 }
