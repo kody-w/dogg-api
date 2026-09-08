@@ -1,12 +1,12 @@
 {
- "tick": 866,
- "utc": "2026-09-08T02:34:34.959Z",
+ "tick": 867,
+ "utc": "2026-09-08T07:25:31.061Z",
  "world": {
   "btc_block_height": {
-   "height": 966006
+   "height": 966035
   },
   "btc_usd": {
-   "spot": "79173.235"
+   "spot": "78435.575"
   },
   "fx_usd": {
    "EUR": "0.8604",
@@ -15,54 +15,54 @@
    "CNY": "6.7284"
   },
   "crypto_market": {
-   "total_mcap_usd": "2691378497153",
-   "btc_dominance_pct": "59.1"
+   "total_mcap_usd": "2662097001511",
+   "btc_dominance_pct": "59.0"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79480
+   "tx_count": 77013
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "4.5"
+   "count": 10,
+   "max_mag": "5.1"
   },
   "iss": {
-   "lat": "17.314",
-   "lon": "29.670"
+   "lat": "-19.644",
+   "lon": "-13.733"
   },
   "space_weather": {
-   "kp": "4.33",
-   "at": "2026-09-07T21:00:00"
+   "kp": "4.0",
+   "at": "2026-09-08T03:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 77,
-   "index": "low"
+   "gco2_kwh": 103,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49604861,
-   "title": "Jellyfin 12.0"
+   "id": 49605767,
+   "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier"
   },
   "prediction_markets": {
    "top_by_volume": [
-    {
-     "question": "Cincinnati Reds vs. Los Angeles Dodgers",
-     "yes_price": "0.205"
-    },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0045"
     },
     {
-     "question": "US Open ATP: Alexander Zverev vs Luciano Darderi",
-     "yes_price": "0.979"
+     "question": "Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
+     "yes_price": "0.275"
+    },
+    {
+     "question": "Israel closes its airspace by September 30?",
+     "yes_price": "0.9625"
     }
    ]
   }
  },
- "frame_hash": "c718358681e097e0301d341e007f2f87b8772238508baf2721d80fc087429898",
- "spine_head": "dfc97fc4d17b0c3f6394ba53faaee1338334bf756f3057d6c8fe1b20bdc5dda3",
- "built_utc": "2026-09-08T05:55:12Z"
+ "frame_hash": "5495a85f4e1f039173445a8144836b5c68917bd1abbe0ed93c6a9148dc582b68",
+ "spine_head": "d5d2591e4de1521a2bd8233f09a9e2b73a1c32eb67f483cb5b4c2a33e8d2cf41",
+ "built_utc": "2026-09-08T11:07:44Z"
 }
