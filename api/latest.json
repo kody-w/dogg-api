@@ -1,12 +1,12 @@
 {
- "tick": 869,
- "utc": "2026-09-08T16:39:42.104Z",
+ "tick": 870,
+ "utc": "2026-09-08T19:35:10.577Z",
  "world": {
   "btc_block_height": {
-   "height": 966096
+   "height": 966105
   },
   "btc_usd": {
-   "spot": "78855.855"
+   "spot": "78442.035"
   },
   "fx_usd": {
    "EUR": "0.8604",
@@ -15,31 +15,31 @@
    "CNY": "6.7284"
   },
   "crypto_market": {
-   "total_mcap_usd": "2706918742411",
+   "total_mcap_usd": "2695101451196",
    "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
-   "hour_sat_vb": 1
+   "fastest_sat_vb": 5,
+   "hour_sat_vb": 4
   },
   "btc_mempool": {
-   "tx_count": 87507
+   "tx_count": 91941
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "4.9"
+   "count": 3,
+   "max_mag": "1.3"
   },
   "iss": {
-   "lat": "-10.055",
-   "lon": "-162.858"
+   "lat": "21.133",
+   "lon": "126.805"
   },
   "space_weather": {
-   "kp": "3.67",
-   "at": "2026-09-08T12:00:00"
+   "kp": "4.67",
+   "at": "2026-09-08T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 79,
-   "index": "low"
+   "gco2_kwh": 90,
+   "index": "moderate"
   },
   "hn_top": {
    "id": 49611251,
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Club Brugge KV win on 2026-09-08?",
-     "yes_price": "0.385"
+     "question": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
+     "yes_price": "0.505"
+    },
+    {
+     "question": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+     "yes_price": "0.315"
     },
     {
      "question": "Genoa: Thiago Seyboth Wild vs Francesco Ferrari",
-     "yes_price": "0.5385"
-    },
-    {
-     "question": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
-     "yes_price": "0.915"
+     "yes_price": "0.5615"
     }
    ]
   }
  },
- "frame_hash": "54aeae99a8575abdfba94689c4c3e7496e461c07b5412786a9e3d72e958412e1",
- "spine_head": "406443db49929e06cee341b15dc1e11f5ed46f12452d0f8c3db36b59ee190671",
- "built_utc": "2026-09-08T18:56:24Z"
+ "frame_hash": "5320cb86affdbb7468ab8e494f3148862565bbfaf9353aa9a70739c9670bc77f",
+ "spine_head": "8b2fff0703a6539d7265df84f7084d873b197b52899d3b7f956e4a4102ad53ae",
+ "built_utc": "2026-09-08T21:46:39Z"
 }
