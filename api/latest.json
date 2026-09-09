@@ -1,12 +1,12 @@
 {
- "tick": 871,
- "utc": "2026-09-08T22:01:26.138Z",
+ "tick": 872,
+ "utc": "2026-09-09T00:12:00.722Z",
  "world": {
   "btc_block_height": {
-   "height": 966114
+   "height": 966124
   },
   "btc_usd": {
-   "spot": "78538.395"
+   "spot": "78693.595"
   },
   "fx_usd": {
    "EUR": "0.8604",
@@ -15,41 +15,41 @@
    "CNY": "6.7284"
   },
   "crypto_market": {
-   "total_mcap_usd": "2693008113785",
-   "btc_dominance_pct": "58.4"
+   "total_mcap_usd": "2701889188949",
+   "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
-   "hour_sat_vb": 3
+   "fastest_sat_vb": 5,
+   "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 88944
+   "tx_count": 86833
   },
   "earthquakes_past_hour": {
-   "count": 9,
-   "max_mag": "2.7"
+   "count": 8,
+   "max_mag": "2.6"
   },
   "iss": {
-   "lat": "-0.588",
-   "lon": "-73.105"
+   "lat": "26.476",
+   "lon": "51.086"
   },
   "space_weather": {
    "kp": "3.0",
-   "at": "2026-09-08T18:00:00"
+   "at": "2026-09-08T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 70,
+   "gco2_kwh": 64,
    "index": "low"
   },
   "hn_top": {
-   "id": 49611251,
-   "title": "Google DeepMind Releases AlphaGenome Atlas"
+   "id": 49615537,
+   "title": "Muse – Meta’s personal AI agent"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
-     "yes_price": "0.57"
+     "question": "Colorado Rockies vs. New York Yankees",
+     "yes_price": "0.265"
     },
     {
      "question": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "a498d1fd4032bfb8cce6c774161bcc391860fdeae71c454733d81a2d8a9b2171",
- "spine_head": "21595f1cf2848ed2c2ba5c7097e9a222f025a7096ba4e96ba660772bbccb7436",
- "built_utc": "2026-09-09T00:04:23Z"
+ "frame_hash": "ceaac028e6ceab9d903015ea6aafa6c1c515a8001ba1cf6d3359ac0ba0177d14",
+ "spine_head": "3108e59fb946865eb2b43cf78f5549fa15c399fd26c60993df3f9ffb67bbc58a",
+ "built_utc": "2026-09-09T04:32:01Z"
 }
