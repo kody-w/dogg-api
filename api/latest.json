@@ -1,12 +1,12 @@
 {
- "tick": 870,
- "utc": "2026-09-08T19:35:10.577Z",
+ "tick": 871,
+ "utc": "2026-09-08T22:01:26.138Z",
  "world": {
   "btc_block_height": {
-   "height": 966105
+   "height": 966114
   },
   "btc_usd": {
-   "spot": "78442.035"
+   "spot": "78538.395"
   },
   "fx_usd": {
    "EUR": "0.8604",
@@ -15,31 +15,31 @@
    "CNY": "6.7284"
   },
   "crypto_market": {
-   "total_mcap_usd": "2695101451196",
-   "btc_dominance_pct": "58.3"
+   "total_mcap_usd": "2693008113785",
+   "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
-   "fastest_sat_vb": 5,
-   "hour_sat_vb": 4
+   "fastest_sat_vb": 3,
+   "hour_sat_vb": 3
   },
   "btc_mempool": {
-   "tx_count": 91941
+   "tx_count": 88944
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "1.3"
+   "count": 9,
+   "max_mag": "2.7"
   },
   "iss": {
-   "lat": "21.133",
-   "lon": "126.805"
+   "lat": "-0.588",
+   "lon": "-73.105"
   },
   "space_weather": {
-   "kp": "4.67",
-   "at": "2026-09-08T15:00:00"
+   "kp": "3.0",
+   "at": "2026-09-08T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 90,
-   "index": "moderate"
+   "gco2_kwh": 70,
+   "index": "low"
   },
   "hn_top": {
    "id": 49611251,
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
-     "yes_price": "0.505"
-    },
-    {
      "question": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
-     "yes_price": "0.315"
+     "yes_price": "0.57"
     },
     {
-     "question": "Genoa: Thiago Seyboth Wild vs Francesco Ferrari",
-     "yes_price": "0.5615"
+     "question": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+     "yes_price": "0.225"
+    },
+    {
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.455"
     }
    ]
   }
  },
- "frame_hash": "5320cb86affdbb7468ab8e494f3148862565bbfaf9353aa9a70739c9670bc77f",
- "spine_head": "8b2fff0703a6539d7265df84f7084d873b197b52899d3b7f956e4a4102ad53ae",
- "built_utc": "2026-09-08T21:46:39Z"
+ "frame_hash": "a498d1fd4032bfb8cce6c774161bcc391860fdeae71c454733d81a2d8a9b2171",
+ "spine_head": "21595f1cf2848ed2c2ba5c7097e9a222f025a7096ba4e96ba660772bbccb7436",
+ "built_utc": "2026-09-09T00:04:23Z"
 }
