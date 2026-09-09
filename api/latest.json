@@ -1,12 +1,12 @@
 {
- "tick": 877,
- "utc": "2026-09-09T19:55:17.802Z",
+ "tick": 878,
+ "utc": "2026-09-09T22:10:15.595Z",
  "world": {
   "btc_block_height": {
-   "height": 966263
+   "height": 966273
   },
   "btc_usd": {
-   "spot": "78211.525"
+   "spot": "77984.755"
   },
   "fx_usd": {
    "EUR": "0.8603",
@@ -15,30 +15,30 @@
    "CNY": "6.7283"
   },
   "crypto_market": {
-   "total_mcap_usd": "2686709560375",
-   "btc_dominance_pct": "58.4"
+   "total_mcap_usd": "2676752031237",
+   "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
    "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80524
+   "tx_count": 80939
   },
   "earthquakes_past_hour": {
-   "count": 13,
-   "max_mag": "2.7"
+   "count": 16,
+   "max_mag": "4.9"
   },
   "iss": {
-   "lat": "37.602",
-   "lon": "-9.187"
+   "lat": "-26.274",
+   "lon": "122.055"
   },
   "space_weather": {
    "kp": "3.0",
-   "at": "2026-09-09T15:00:00"
+   "at": "2026-09-09T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 210,
+   "gco2_kwh": 191,
    "index": "high"
   },
   "hn_top": {
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Sporting CP win on 2026-09-09?",
-     "yes_price": "0.435"
+     "question": "US Open ATP: Karen Khachanov vs Alexander Blockx",
+     "yes_price": "0.775"
     },
     {
-     "question": "Will Arsenal FC win on 2026-09-09?",
-     "yes_price": "0.515"
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.455"
     },
     {
-     "question": "US Open WTA: Mirra Andreeva vs Coco Gauff",
-     "yes_price": "0.545"
+     "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
+     "yes_price": "0.008"
     }
    ]
   }
  },
- "frame_hash": "7086ef56614515c55244dd1f95e2112a960c761ecda31e99ea99b46973c393f9",
- "spine_head": "ede68471bc7e5f1887dd058bcc5b48d72807077611c32c343c55e474cbbb1d51",
- "built_utc": "2026-09-09T20:52:21Z"
+ "frame_hash": "d19480e4ad56ae7a4349dea21b9503c968d0658080a5afd02f6c16969e02a0fa",
+ "spine_head": "68aeb289e67d029d8003a5368e07442080a96224fbeacf6c30804ab2b3ca3423",
+ "built_utc": "2026-09-09T23:09:12Z"
 }
