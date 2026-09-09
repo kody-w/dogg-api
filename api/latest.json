@@ -1,12 +1,12 @@
 {
- "tick": 876,
- "utc": "2026-09-09T17:18:23.885Z",
+ "tick": 877,
+ "utc": "2026-09-09T19:55:17.802Z",
  "world": {
   "btc_block_height": {
-   "height": 966245
+   "height": 966263
   },
   "btc_usd": {
-   "spot": "78795.165"
+   "spot": "78211.525"
   },
   "fx_usd": {
    "EUR": "0.8603",
@@ -15,54 +15,54 @@
    "CNY": "6.7283"
   },
   "crypto_market": {
-   "total_mcap_usd": "2701941859442",
+   "total_mcap_usd": "2686709560375",
    "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80221
+   "tx_count": 80524
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "1.4"
+   "count": 13,
+   "max_mag": "2.7"
   },
   "iss": {
-   "lat": "13.236",
-   "lon": "162.680"
+   "lat": "37.602",
+   "lon": "-9.187"
   },
   "space_weather": {
-   "kp": "2.67",
-   "at": "2026-09-09T12:00:00"
+   "kp": "3.0",
+   "at": "2026-09-09T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 181,
+   "gco2_kwh": 210,
    "index": "high"
   },
   "hn_top": {
-   "id": 49626190,
-   "title": "Tailwind Labs is joining Shopify"
+   "id": 49630931,
+   "title": "iPhone Duo"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will VfB Stuttgart win on 2026-09-09?",
-     "yes_price": "0.905"
-    },
-    {
-     "question": "Will Feyenoord Rotterdam win on 2026-09-09?",
-     "yes_price": "0.0015"
+     "question": "Will Sporting CP win on 2026-09-09?",
+     "yes_price": "0.435"
     },
     {
      "question": "Will Arsenal FC win on 2026-09-09?",
-     "yes_price": "0.605"
+     "yes_price": "0.515"
+    },
+    {
+     "question": "US Open WTA: Mirra Andreeva vs Coco Gauff",
+     "yes_price": "0.545"
     }
    ]
   }
  },
- "frame_hash": "7457fb216dd8a80a99801361d22dce95ba9dba9530228fbc05cd3a80a6d5af6b",
- "spine_head": "003676018957905e44a95cda54d4beabf7fb4a0a136d30b27ba4dd3c8576944c",
- "built_utc": "2026-09-09T17:45:56Z"
+ "frame_hash": "7086ef56614515c55244dd1f95e2112a960c761ecda31e99ea99b46973c393f9",
+ "spine_head": "ede68471bc7e5f1887dd058bcc5b48d72807077611c32c343c55e474cbbb1d51",
+ "built_utc": "2026-09-09T20:52:21Z"
 }
