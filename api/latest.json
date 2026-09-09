@@ -1,12 +1,12 @@
 {
- "tick": 875,
- "utc": "2026-09-09T13:43:25.233Z",
+ "tick": 876,
+ "utc": "2026-09-09T17:18:23.885Z",
  "world": {
   "btc_block_height": {
-   "height": 966213
+   "height": 966245
   },
   "btc_usd": {
-   "spot": "79135.005"
+   "spot": "78795.165"
   },
   "fx_usd": {
    "EUR": "0.8603",
@@ -15,54 +15,54 @@
    "CNY": "6.7283"
   },
   "crypto_market": {
-   "total_mcap_usd": "2711562506924",
-   "btc_dominance_pct": "58.5"
+   "total_mcap_usd": "2701941859442",
+   "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79965
+   "tx_count": 80221
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "2.0"
+   "count": 8,
+   "max_mag": "1.4"
   },
   "iss": {
-   "lat": "36.962",
-   "lon": "84.314"
+   "lat": "13.236",
+   "lon": "162.680"
   },
   "space_weather": {
    "kp": "2.67",
-   "at": "2026-09-09T09:00:00"
+   "at": "2026-09-09T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 87,
-   "index": "low"
+   "gco2_kwh": 181,
+   "index": "high"
   },
   "hn_top": {
-   "id": 49624394,
-   "title": "Flock Wants a Closely Surveilled World with No Exit"
+   "id": 49626190,
+   "title": "Tailwind Labs is joining Shopify"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.445"
+     "question": "Will VfB Stuttgart win on 2026-09-09?",
+     "yes_price": "0.905"
     },
     {
-     "question": "LAPTOP FDV above $1B one day after launch?",
-     "yes_price": "0.24"
+     "question": "Will Feyenoord Rotterdam win on 2026-09-09?",
+     "yes_price": "0.0015"
     },
     {
-     "question": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO5) - LCK Challengers League Playoffs",
-     "yes_price": "0.9995"
+     "question": "Will Arsenal FC win on 2026-09-09?",
+     "yes_price": "0.605"
     }
    ]
   }
  },
- "frame_hash": "628d0e74500d0a6be695e9b40b575adcf5c916436980604309e4087c6202996b",
- "spine_head": "2957ae6c5ecb449a85fbf6f0d02b8db3730fcb8da5988422997e838d0730c11c",
- "built_utc": "2026-09-09T13:51:31Z"
+ "frame_hash": "7457fb216dd8a80a99801361d22dce95ba9dba9530228fbc05cd3a80a6d5af6b",
+ "spine_head": "003676018957905e44a95cda54d4beabf7fb4a0a136d30b27ba4dd3c8576944c",
+ "built_utc": "2026-09-09T17:45:56Z"
 }
