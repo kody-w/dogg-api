@@ -1,12 +1,12 @@
 {
- "tick": 873,
- "utc": "2026-09-09T04:41:49.247Z",
+ "tick": 875,
+ "utc": "2026-09-09T13:43:25.233Z",
  "world": {
   "btc_block_height": {
-   "height": 966151
+   "height": 966213
   },
   "btc_usd": {
-   "spot": "78928.245"
+   "spot": "79135.005"
   },
   "fx_usd": {
    "EUR": "0.8603",
@@ -15,54 +15,54 @@
    "CNY": "6.7283"
   },
   "crypto_market": {
-   "total_mcap_usd": "2709759685120",
-   "btc_dominance_pct": "58.4"
+   "total_mcap_usd": "2711562506924",
+   "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 71183
+   "tx_count": 79965
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "2.6"
+   "count": 7,
+   "max_mag": "2.0"
   },
   "iss": {
-   "lat": "47.198",
-   "lon": "-52.623"
+   "lat": "36.962",
+   "lon": "84.314"
   },
   "space_weather": {
    "kp": "2.67",
-   "at": "2026-09-09T00:00:00"
+   "at": "2026-09-09T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 51,
+   "gco2_kwh": 87,
    "index": "low"
   },
   "hn_top": {
-   "id": 49546964,
-   "title": "Tension wood: A 'muscle' that can both bend and straighten plants"
+   "id": 49624394,
+   "title": "Flock Wants a Closely Surveilled World with No Exit"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
-     "yes_price": "0.285"
-    },
-    {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.455"
+     "yes_price": "0.445"
     },
     {
-     "question": "Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
-     "yes_price": "0.575"
+     "question": "LAPTOP FDV above $1B one day after launch?",
+     "yes_price": "0.24"
+    },
+    {
+     "question": "LoL: DN SOOPers Challengers vs Nongshim Esports Academy (BO5) - LCK Challengers League Playoffs",
+     "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "3ad14ad9358308f93c2cc451b304d199b4e7ea3334581c9f2197545741de53f1",
- "spine_head": "eb58a465d3666e6722fcb9678abe70763ec802fb9d79fea86eb2a72d68831e08",
- "built_utc": "2026-09-09T09:07:53Z"
+ "frame_hash": "628d0e74500d0a6be695e9b40b575adcf5c916436980604309e4087c6202996b",
+ "spine_head": "2957ae6c5ecb449a85fbf6f0d02b8db3730fcb8da5988422997e838d0730c11c",
+ "built_utc": "2026-09-09T13:51:31Z"
 }
