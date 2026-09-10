@@ -1,12 +1,12 @@
 {
- "tick": 883,
- "utc": "2026-09-10T17:12:33.552Z",
+ "tick": 884,
+ "utc": "2026-09-10T19:41:30.018Z",
  "world": {
   "btc_block_height": {
-   "height": 966384
+   "height": 966397
   },
   "btc_usd": {
-   "spot": "77179.485"
+   "spot": "77195.205"
   },
   "fx_usd": {
    "EUR": "0.8596",
@@ -15,54 +15,54 @@
    "CNY": "6.7255"
   },
   "crypto_market": {
-   "total_mcap_usd": "2642164872734",
-   "btc_dominance_pct": "58.5"
+   "total_mcap_usd": "2642418958494",
+   "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 4,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81511
+   "tx_count": 83791
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "2.2"
+   "count": 10,
+   "max_mag": "5.3"
   },
   "iss": {
-   "lat": "-30.011",
-   "lon": "-38.154"
+   "lat": "1.609",
+   "lon": "129.782"
   },
   "space_weather": {
-   "kp": "2.33",
-   "at": "2026-09-10T12:00:00"
+   "kp": "1.33",
+   "at": "2026-09-10T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 130,
+   "gco2_kwh": 129,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49643982,
-   "title": "Shopify moves back to Native from React Native"
+   "id": 49643546,
+   "title": "Rust is tier-1 language at Microsoft"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.365"
-    },
-    {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.635"
+     "yes_price": "0.665"
     },
     {
-     "question": "Will AS Roma win on 2026-09-10?",
-     "yes_price": "0.435"
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.335"
+    },
+    {
+     "question": "Will FK Bodø/Glimt win on 2026-09-10?",
+     "yes_price": "0.0385"
     }
    ]
   }
  },
- "frame_hash": "99413a68b3f72c9962b7460af1fa0164357708a4ae19329dcf08234bbfb9ee80",
- "spine_head": "4844ea4812e2a02ae00603bc4a114c37aac2671bcbe3aff678a6113f1b9381c4",
- "built_utc": "2026-09-10T19:13:16Z"
+ "frame_hash": "07c93bc4f1e73dba3567c6522bed5e15e9f45713fe913542650b6c7b6f6d8198",
+ "spine_head": "aff61bd9430f045a093e16a7bd58c425a4cf798e2085d11c3f667ce080eb05e0",
+ "built_utc": "2026-09-10T21:48:37Z"
 }
