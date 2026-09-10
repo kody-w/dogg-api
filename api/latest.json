@@ -1,12 +1,12 @@
 {
- "tick": 881,
- "utc": "2026-09-10T09:12:27.424Z",
+ "tick": 882,
+ "utc": "2026-09-10T13:36:09.331Z",
  "world": {
   "btc_block_height": {
-   "height": 966335
+   "height": 966363
   },
   "btc_usd": {
-   "spot": "78106.545"
+   "spot": "76896.915"
   },
   "fx_usd": {
    "EUR": "0.8596",
@@ -15,54 +15,54 @@
    "CNY": "6.7255"
   },
   "crypto_market": {
-   "total_mcap_usd": "2671964046941",
-   "btc_dominance_pct": "58.6"
+   "total_mcap_usd": "2629067491288",
+   "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 78393
+   "tx_count": 83503
   },
   "earthquakes_past_hour": {
-   "count": 15,
-   "max_mag": "5.0"
+   "count": 9,
+   "max_mag": "1.9"
   },
   "iss": {
-   "lat": "-50.754",
-   "lon": "5.447"
+   "lat": "-17.339",
+   "lon": "-121.882"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-09-10T06:00:00"
+   "kp": "2.33",
+   "at": "2026-09-10T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 85,
+   "gco2_kwh": 69,
    "index": "low"
   },
   "hn_top": {
-   "id": 49639090,
-   "title": "DeepSeek v4.1 Flash"
+   "id": 49627634,
+   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.455"
+     "yes_price": "0.355"
     },
     {
-     "question": "LAPTOP FDV above $1B one day after launch?",
-     "yes_price": "0.235"
+     "question": "Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0075"
+     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.635"
     }
    ]
   }
  },
- "frame_hash": "8a397ea84e3e177824ab8302da14d2d6ef2cf04770d7ecb134aa0391dacdb00e",
- "spine_head": "2bf88282f2ffe0f6b2589ac0aa07b7de0c8534ff191ce0143fb69e411a37607f",
- "built_utc": "2026-09-10T11:46:30Z"
+ "frame_hash": "2a7165149d38d97dd05e4c5a84d90f1893d63e0b28f2fc9b9dd691c77fd3bed9",
+ "spine_head": "f862c423cc980e0b25676e90fca6d56545752e6ca31ef5e1000ffb6e1a82f40a",
+ "built_utc": "2026-09-10T16:18:01Z"
 }
