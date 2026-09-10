@@ -1,12 +1,12 @@
 {
- "tick": 882,
- "utc": "2026-09-10T13:36:09.331Z",
+ "tick": 883,
+ "utc": "2026-09-10T17:12:33.552Z",
  "world": {
   "btc_block_height": {
-   "height": 966363
+   "height": 966384
   },
   "btc_usd": {
-   "spot": "76896.915"
+   "spot": "77179.485"
   },
   "fx_usd": {
    "EUR": "0.8596",
@@ -15,7 +15,7 @@
    "CNY": "6.7255"
   },
   "crypto_market": {
-   "total_mcap_usd": "2629067491288",
+   "total_mcap_usd": "2642164872734",
    "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
@@ -23,46 +23,46 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 83503
+   "tx_count": 81511
   },
   "earthquakes_past_hour": {
-   "count": 9,
-   "max_mag": "1.9"
+   "count": 6,
+   "max_mag": "2.2"
   },
   "iss": {
-   "lat": "-17.339",
-   "lon": "-121.882"
+   "lat": "-30.011",
+   "lon": "-38.154"
   },
   "space_weather": {
    "kp": "2.33",
-   "at": "2026-09-10T09:00:00"
+   "at": "2026-09-10T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 69,
-   "index": "low"
+   "gco2_kwh": 130,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49627634,
-   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls"
+   "id": 49643982,
+   "title": "Shopify moves back to Native from React Native"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.355"
-    },
-    {
-     "question": "Counter-Strike: MIBR vs BetBoom Team - Map 2 Winner",
-     "yes_price": "0.0005"
+     "yes_price": "0.365"
     },
     {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.635"
+    },
+    {
+     "question": "Will AS Roma win on 2026-09-10?",
+     "yes_price": "0.435"
     }
    ]
   }
  },
- "frame_hash": "2a7165149d38d97dd05e4c5a84d90f1893d63e0b28f2fc9b9dd691c77fd3bed9",
- "spine_head": "f862c423cc980e0b25676e90fca6d56545752e6ca31ef5e1000ffb6e1a82f40a",
- "built_utc": "2026-09-10T16:18:01Z"
+ "frame_hash": "99413a68b3f72c9962b7460af1fa0164357708a4ae19329dcf08234bbfb9ee80",
+ "spine_head": "4844ea4812e2a02ae00603bc4a114c37aac2671bcbe3aff678a6113f1b9381c4",
+ "built_utc": "2026-09-10T19:13:16Z"
 }
