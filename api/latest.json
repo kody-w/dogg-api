@@ -1,12 +1,12 @@
 {
- "tick": 880,
- "utc": "2026-09-10T04:43:40.307Z",
+ "tick": 881,
+ "utc": "2026-09-10T09:12:27.424Z",
  "world": {
   "btc_block_height": {
-   "height": 966302
+   "height": 966335
   },
   "btc_usd": {
-   "spot": "78326.875"
+   "spot": "78106.545"
   },
   "fx_usd": {
    "EUR": "0.8596",
@@ -15,35 +15,35 @@
    "CNY": "6.7255"
   },
   "crypto_market": {
-   "total_mcap_usd": "2681301734225",
-   "btc_dominance_pct": "58.5"
+   "total_mcap_usd": "2671964046941",
+   "btc_dominance_pct": "58.6"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
-   "hour_sat_vb": 3
+   "fastest_sat_vb": 1,
+   "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82566
+   "tx_count": 78393
   },
   "earthquakes_past_hour": {
-   "count": 4,
-   "max_mag": "1.3"
+   "count": 15,
+   "max_mag": "5.0"
   },
   "iss": {
-   "lat": "-43.666",
-   "lon": "130.484"
+   "lat": "-50.754",
+   "lon": "5.447"
   },
   "space_weather": {
-   "kp": "2.67",
-   "at": "2026-09-10T00:00:00"
+   "kp": "2.0",
+   "at": "2026-09-10T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 137,
-   "index": "moderate"
+   "gco2_kwh": 85,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49630931,
-   "title": "iPhone Duo"
+   "id": 49639090,
+   "title": "DeepSeek v4.1 Flash"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -52,17 +52,17 @@
      "yes_price": "0.455"
     },
     {
-     "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0075"
+     "question": "LAPTOP FDV above $1B one day after launch?",
+     "yes_price": "0.235"
     },
     {
-     "question": "LAPTOP FDV above $1B one day after launch?",
-     "yes_price": "0.19"
+     "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
+     "yes_price": "0.0075"
     }
    ]
   }
  },
- "frame_hash": "c88bd388a36f21bb415222583e1ea5e40c39e57d6cdcb60104da43e80e7abeae",
- "spine_head": "63bf18e1c11e7906e8c73edfa9fe5409f4144f40acd69309c3c6cba536526d67",
- "built_utc": "2026-09-10T06:35:59Z"
+ "frame_hash": "8a397ea84e3e177824ab8302da14d2d6ef2cf04770d7ecb134aa0391dacdb00e",
+ "spine_head": "2bf88282f2ffe0f6b2589ac0aa07b7de0c8534ff191ce0143fb69e411a37607f",
+ "built_utc": "2026-09-10T11:46:30Z"
 }
