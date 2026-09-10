@@ -1,12 +1,12 @@
 {
- "tick": 878,
- "utc": "2026-09-09T22:10:15.595Z",
+ "tick": 879,
+ "utc": "2026-09-10T00:12:50.811Z",
  "world": {
   "btc_block_height": {
-   "height": 966273
+   "height": 966286
   },
   "btc_usd": {
-   "spot": "77984.755"
+   "spot": "78303.095"
   },
   "fx_usd": {
    "EUR": "0.8603",
@@ -15,31 +15,31 @@
    "CNY": "6.7283"
   },
   "crypto_market": {
-   "total_mcap_usd": "2676752031237",
-   "btc_dominance_pct": "58.5"
+   "total_mcap_usd": "2679743986821",
+   "btc_dominance_pct": "58.6"
   },
   "btc_fees": {
    "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80939
+   "tx_count": 80613
   },
   "earthquakes_past_hour": {
-   "count": 16,
-   "max_mag": "4.9"
+   "count": 4,
+   "max_mag": "1.5"
   },
   "iss": {
-   "lat": "-26.274",
-   "lon": "122.055"
+   "lat": "-23.962",
+   "lon": "-132.452"
   },
   "space_weather": {
-   "kp": "3.0",
-   "at": "2026-09-09T18:00:00"
+   "kp": "2.67",
+   "at": "2026-09-10T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 191,
-   "index": "high"
+   "gco2_kwh": 156,
+   "index": "moderate"
   },
   "hn_top": {
    "id": 49630931,
@@ -48,8 +48,8 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Karen Khachanov vs Alexander Blockx",
-     "yes_price": "0.775"
+     "question": "US Open ATP: Alexander Zverev vs Botic van de Zandschulp",
+     "yes_price": "0.845"
     },
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
@@ -57,12 +57,12 @@
     },
     {
      "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.008"
+     "yes_price": "0.007"
     }
    ]
   }
  },
- "frame_hash": "d19480e4ad56ae7a4349dea21b9503c968d0658080a5afd02f6c16969e02a0fa",
- "spine_head": "68aeb289e67d029d8003a5368e07442080a96224fbeacf6c30804ab2b3ca3423",
- "built_utc": "2026-09-09T23:09:12Z"
+ "frame_hash": "175d7422c655a04028066e9fa5441776b21ee460ed64cd469b6eeb2389f48a9b",
+ "spine_head": "32846462f54bb67102d119d38aa6da90f737062f044994c959335d80a6eaf4d6",
+ "built_utc": "2026-09-10T01:23:41Z"
 }
