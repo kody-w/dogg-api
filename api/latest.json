@@ -1,12 +1,12 @@
 {
- "tick": 890,
- "utc": "2026-09-11T15:12:33.542Z",
+ "tick": 891,
+ "utc": "2026-09-11T18:33:41.156Z",
  "world": {
   "btc_block_height": {
-   "height": 966522
+   "height": 966539
   },
   "btc_usd": {
-   "spot": "78555.805"
+   "spot": "77182.805"
   },
   "fx_usd": {
    "EUR": "0.8607",
@@ -15,35 +15,35 @@
    "CNY": "6.7280"
   },
   "crypto_market": {
-   "total_mcap_usd": "2700053837861",
-   "btc_dominance_pct": "58.3"
+   "total_mcap_usd": "2658232847364",
+   "btc_dominance_pct": "58.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 4,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79792
+   "tx_count": 80043
   },
   "earthquakes_past_hour": {
-   "count": 13,
-   "max_mag": "2.4"
+   "count": 12,
+   "max_mag": "4.2"
   },
   "iss": {
-   "lat": "27.481",
-   "lon": "37.632"
+   "lat": "51.472",
+   "lon": "60.925"
   },
   "space_weather": {
-   "kp": "2.33",
-   "at": "2026-09-11T12:00:00"
+   "kp": "1.67",
+   "at": "2026-09-11T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 138,
-   "index": "moderate"
+   "gco2_kwh": 198,
+   "index": "high"
   },
   "hn_top": {
-   "id": 49658299,
-   "title": "Houthis 'take control' of key island in global shipping route"
+   "id": 49662496,
+   "title": "Show HN: Toast, a beautiful by default in terminal IDE"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -53,7 +53,7 @@
     },
     {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.825"
+     "yes_price": "0.815"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "b0603c512d48f33af878036a92e45067f379309fd9169ad6264a725f9fbd570d",
- "spine_head": "973bbdc7d0ed5ef521483a78448c1cfea39e9877d8e2f36200ca65879fae7eda",
- "built_utc": "2026-09-11T17:08:38Z"
+ "frame_hash": "c208bb893690cea4a200c98a211eb1c8b9e08c1b544c37cd37724029ae497683",
+ "spine_head": "a9c7a16644610ac3b74646bfe308dde4664d292b80ec54539314d7ed09a97f33",
+ "built_utc": "2026-09-11T19:59:03Z"
 }
