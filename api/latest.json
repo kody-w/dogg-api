@@ -1,12 +1,12 @@
 {
- "tick": 889,
- "utc": "2026-09-11T11:41:54.979Z",
+ "tick": 890,
+ "utc": "2026-09-11T15:12:33.542Z",
  "world": {
   "btc_block_height": {
-   "height": 966500
+   "height": 966522
   },
   "btc_usd": {
-   "spot": "76859.715"
+   "spot": "78555.805"
   },
   "fx_usd": {
    "EUR": "0.8607",
@@ -15,54 +15,54 @@
    "CNY": "6.7280"
   },
   "crypto_market": {
-   "total_mcap_usd": "2629221913271",
-   "btc_dominance_pct": "58.5"
+   "total_mcap_usd": "2700053837861",
+   "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
    "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81051
+   "tx_count": 79792
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "5.3"
+   "count": 13,
+   "max_mag": "2.4"
   },
   "iss": {
-   "lat": "-43.127",
-   "lon": "19.471"
+   "lat": "27.481",
+   "lon": "37.632"
   },
   "space_weather": {
-   "kp": "1.67",
-   "at": "2026-09-11T06:00:00"
+   "kp": "2.33",
+   "at": "2026-09-11T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 97,
+   "gco2_kwh": 138,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49656496,
-   "title": "The Waymo effect: how AI is quietly making research less collaborative"
+   "id": 49658299,
+   "title": "Houthis 'take control' of key island in global shipping route"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
-     "yes_price": "0.0005"
-    },
-    {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.385"
+     "yes_price": "0.175"
     },
     {
-     "question": "Will Abigail Spanberger win the 2028 Democratic presidential nomination?",
-     "yes_price": "0.0015"
+     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.825"
+    },
+    {
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0035"
     }
    ]
   }
  },
- "frame_hash": "26396f2a90da64dab89a79d8ef5006be23bf1d68c11dbd55a7e1866fbee2a41d",
- "spine_head": "707c86d67f799f96cb1875f01e77d70c168aa382cb338bb8c17f0a22ebb1e675",
- "built_utc": "2026-09-11T13:29:40Z"
+ "frame_hash": "b0603c512d48f33af878036a92e45067f379309fd9169ad6264a725f9fbd570d",
+ "spine_head": "973bbdc7d0ed5ef521483a78448c1cfea39e9877d8e2f36200ca65879fae7eda",
+ "built_utc": "2026-09-11T17:08:38Z"
 }
