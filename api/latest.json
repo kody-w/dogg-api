@@ -1,12 +1,12 @@
 {
- "tick": 891,
- "utc": "2026-09-11T18:33:41.156Z",
+ "tick": 892,
+ "utc": "2026-09-11T21:17:46.943Z",
  "world": {
   "btc_block_height": {
-   "height": 966539
+   "height": 966564
   },
   "btc_usd": {
-   "spot": "77182.805"
+   "spot": "77388.04"
   },
   "fx_usd": {
    "EUR": "0.8607",
@@ -15,54 +15,54 @@
    "CNY": "6.7280"
   },
   "crypto_market": {
-   "total_mcap_usd": "2658232847364",
-   "btc_dominance_pct": "58.1"
+   "total_mcap_usd": "2662035729991",
+   "btc_dominance_pct": "58.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 4,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80043
+   "tx_count": 77500
   },
   "earthquakes_past_hour": {
-   "count": 12,
-   "max_mag": "4.2"
+   "count": 8,
+   "max_mag": "1.9"
   },
   "iss": {
-   "lat": "51.472",
-   "lon": "60.925"
+   "lat": "8.781",
+   "lon": "-72.367"
   },
   "space_weather": {
-   "kp": "1.67",
-   "at": "2026-09-11T15:00:00"
+   "kp": "1.0",
+   "at": "2026-09-11T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 198,
+   "gco2_kwh": 190,
    "index": "high"
   },
   "hn_top": {
-   "id": 49662496,
-   "title": "Show HN: Toast, a beautiful by default in terminal IDE"
+   "id": 49662371,
+   "title": "A misalignment of AI in mathematics"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.175"
+     "yes_price": "0.185"
     },
     {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.815"
+     "yes_price": "0.805"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0035"
+     "question": "Will Sevilla FC win on 2026-09-11?",
+     "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "c208bb893690cea4a200c98a211eb1c8b9e08c1b544c37cd37724029ae497683",
- "spine_head": "a9c7a16644610ac3b74646bfe308dde4664d292b80ec54539314d7ed09a97f33",
- "built_utc": "2026-09-11T19:59:03Z"
+ "frame_hash": "306779773cb6861136d0893369d70b5e834f22397cba9980e12ebd3dfb363aa5",
+ "spine_head": "74ac10dbf932a61412834c515e764f6ffbec3b08d195791e879ad0522f00b5ad",
+ "built_utc": "2026-09-11T22:28:14Z"
 }
