@@ -1,12 +1,12 @@
 {
- "tick": 887,
- "utc": "2026-09-11T01:28:01.260Z",
+ "tick": 888,
+ "utc": "2026-09-11T06:28:08.967Z",
  "world": {
   "btc_block_height": {
-   "height": 966433
+   "height": 966467
   },
   "btc_usd": {
-   "spot": "76811.525"
+   "spot": "77229.795"
   },
   "fx_usd": {
    "EUR": "0.8607",
@@ -15,7 +15,7 @@
    "CNY": "6.7280"
   },
   "crypto_market": {
-   "total_mcap_usd": "2634472113965",
+   "total_mcap_usd": "2647246512163",
    "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
@@ -23,46 +23,46 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 76829
+   "tx_count": 79832
   },
   "earthquakes_past_hour": {
-   "count": 10,
-   "max_mag": "2.1"
+   "count": 9,
+   "max_mag": "2.3"
   },
   "iss": {
-   "lat": "50.813",
-   "lon": "-62.033"
+   "lat": "12.600",
+   "lon": "-43.419"
   },
   "space_weather": {
-   "kp": "2.67",
-   "at": "2026-09-10T21:00:00"
+   "kp": "3.0",
+   "at": "2026-09-11T03:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 74,
-   "index": "low"
+   "gco2_kwh": 133,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49652105,
-   "title": "Google will buy half the electricity of a nuclear power plant"
+   "id": 49643982,
+   "title": "Shopify is moving from React Native back to Swift and Kotlin"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.635"
-    },
-    {
-     "question": "49ers vs. Rams",
-     "yes_price": "0.325"
+     "yes_price": "0.615"
     },
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.365"
+     "yes_price": "0.385"
+    },
+    {
+     "question": "Will Abigail Spanberger win the 2028 Democratic presidential nomination?",
+     "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "fba080aa323b9289d989b97b035d09cd956ca03a4466c776beb27bc69eb44dfa",
- "spine_head": "d6e7a028d2febd7ba6d9cced4aaef9d15f8d29567bda5175071a202845102cab",
- "built_utc": "2026-09-11T04:26:35Z"
+ "frame_hash": "b389e3daa3358a6297d3bb42eaad2007cfbdbfb07b3a2ff49d658892b6d4c500",
+ "spine_head": "4c1efbf0db42f4428d0499579316bb19d970ecb51baa2dd7ed5cd5bc4a641eee",
+ "built_utc": "2026-09-11T09:04:49Z"
 }
