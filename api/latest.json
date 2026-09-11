@@ -1,68 +1,68 @@
 {
- "tick": 886,
- "utc": "2026-09-10T23:36:59.326Z",
+ "tick": 887,
+ "utc": "2026-09-11T01:28:01.260Z",
  "world": {
   "btc_block_height": {
-   "height": 966417
+   "height": 966433
   },
   "btc_usd": {
-   "spot": "76729.835"
+   "spot": "76811.525"
   },
   "fx_usd": {
-   "EUR": "0.8596",
-   "GBP": "0.7380",
-   "JPY": "153.5940",
-   "CNY": "6.7255"
+   "EUR": "0.8607",
+   "GBP": "0.7397",
+   "JPY": "154.2501",
+   "CNY": "6.7280"
   },
   "crypto_market": {
-   "total_mcap_usd": "2629862044916",
+   "total_mcap_usd": "2634472113965",
    "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
-   "fastest_sat_vb": 4,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84492
+   "tx_count": 76829
   },
   "earthquakes_past_hour": {
-   "count": 9,
-   "max_mag": "4.9"
+   "count": 10,
+   "max_mag": "2.1"
   },
   "iss": {
-   "lat": "8.100",
-   "lon": "-102.362"
+   "lat": "50.813",
+   "lon": "-62.033"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-09-10T18:00:00"
+   "kp": "2.67",
+   "at": "2026-09-10T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 79,
+   "gco2_kwh": 74,
    "index": "low"
   },
   "hn_top": {
-   "id": 49643982,
-   "title": "Shopify is moving from React Native back to Swift and Kotlin"
+   "id": 49652105,
+   "title": "Google will buy half the electricity of a nuclear power plant"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.645"
+     "yes_price": "0.635"
     },
     {
-     "question": "Will Abigail Spanberger win the 2028 Democratic presidential nomination?",
-     "yes_price": "0.0015"
+     "question": "49ers vs. Rams",
+     "yes_price": "0.325"
     },
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.345"
+     "yes_price": "0.365"
     }
    ]
   }
  },
- "frame_hash": "803c5b4f8fca81ca98df6c265fc682b75deb2082e55a2d1fc3be0cb5ed56fc29",
- "spine_head": "a88417621b9a8136a291f443bd73f3e0666ec0d8741af83e89bc7dd2558dc9b2",
- "built_utc": "2026-09-11T00:00:58Z"
+ "frame_hash": "fba080aa323b9289d989b97b035d09cd956ca03a4466c776beb27bc69eb44dfa",
+ "spine_head": "d6e7a028d2febd7ba6d9cced4aaef9d15f8d29567bda5175071a202845102cab",
+ "built_utc": "2026-09-11T04:26:35Z"
 }
