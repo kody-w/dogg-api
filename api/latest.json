@@ -1,12 +1,12 @@
 {
- "tick": 896,
- "utc": "2026-09-12T10:42:31.593Z",
+ "tick": 897,
+ "utc": "2026-09-12T13:44:54.583Z",
  "world": {
   "btc_block_height": {
-   "height": 966661
+   "height": 966684
   },
   "btc_usd": {
-   "spot": "77364.765"
+   "spot": "77275.415"
   },
   "fx_usd": {
    "EUR": "0.8620",
@@ -15,54 +15,54 @@
    "CNY": "6.7253"
   },
   "crypto_market": {
-   "total_mcap_usd": "2663911052318",
+   "total_mcap_usd": "2664494525296",
    "btc_dominance_pct": "58.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 76494
+   "tx_count": 77301
   },
   "earthquakes_past_hour": {
-   "count": 20,
-   "max_mag": "1.9"
+   "count": 12,
+   "max_mag": "2.9"
   },
   "iss": {
-   "lat": "-47.623",
-   "lon": "-44.208"
+   "lat": "-41.181",
+   "lon": "-106.669"
   },
   "space_weather": {
-   "kp": "3.0",
-   "at": "2026-09-12T06:00:00"
+   "kp": "2.33",
+   "at": "2026-09-12T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 45,
+   "gco2_kwh": 27,
    "index": "low"
   },
   "hn_top": {
-   "id": 49670032,
-   "title": "Retrospectively Reverse-Engineering Apple's Neural Engine"
+   "id": 49671329,
+   "title": "Fuck it, make it anyway"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.195"
+     "yes_price": "0.205"
     },
     {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.785"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0035"
+     "question": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
+     "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "1517e0e77c8a8477ca6659f7d8dc90a024519eb4a02342848ed913ea6540c23c",
- "spine_head": "d41d9cfcbdb56a41fc4c32993063fa01fcf6af3445c293eccae9e3a1034525e4",
- "built_utc": "2026-09-12T13:03:53Z"
+ "frame_hash": "960651b29e3d7df1dd15eae3a073bc47b7aa96947911c42d10d4f58124abb1ee",
+ "spine_head": "3af91e5ca6c5c7fee613f0830899308e3f7e3360c7fba54fb2b935df5f5c39a0",
+ "built_utc": "2026-09-12T16:13:36Z"
 }
