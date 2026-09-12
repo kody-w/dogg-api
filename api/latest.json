@@ -1,12 +1,12 @@
 {
- "tick": 895,
- "utc": "2026-09-12T06:05:10.256Z",
+ "tick": 896,
+ "utc": "2026-09-12T10:42:31.593Z",
  "world": {
   "btc_block_height": {
-   "height": 966624
+   "height": 966661
   },
   "btc_usd": {
-   "spot": "77190.575"
+   "spot": "77364.765"
   },
   "fx_usd": {
    "EUR": "0.8620",
@@ -15,7 +15,7 @@
    "CNY": "6.7253"
   },
   "crypto_market": {
-   "total_mcap_usd": "2658587495168",
+   "total_mcap_usd": "2663911052318",
    "btc_dominance_pct": "58.2"
   },
   "btc_fees": {
@@ -23,37 +23,37 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 74623
+   "tx_count": 76494
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "4.7"
+   "count": 20,
+   "max_mag": "1.9"
   },
   "iss": {
-   "lat": "-49.449",
-   "lon": "33.579"
+   "lat": "-47.623",
+   "lon": "-44.208"
   },
   "space_weather": {
-   "kp": "2.33",
-   "at": "2026-09-12T03:00:00"
+   "kp": "3.0",
+   "at": "2026-09-12T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 114,
-   "index": "moderate"
+   "gco2_kwh": 45,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49668386,
-   "title": "Google no longer provides direct URLs in search results"
+   "id": 49670032,
+   "title": "Retrospectively Reverse-Engineering Apple's Neural Engine"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.205"
+     "yes_price": "0.195"
     },
     {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.795"
+     "yes_price": "0.785"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "1f0c9ea6f1cf1f6fd6f75c960b0de224a34db7a0309382c7b889ef4623a87ca9",
- "spine_head": "1808ac1899fdfe14476446adf0eace2dbf35d69d4f3f4a5596af86a97e20edd2",
- "built_utc": "2026-09-12T09:11:42Z"
+ "frame_hash": "1517e0e77c8a8477ca6659f7d8dc90a024519eb4a02342848ed913ea6540c23c",
+ "spine_head": "d41d9cfcbdb56a41fc4c32993063fa01fcf6af3445c293eccae9e3a1034525e4",
+ "built_utc": "2026-09-12T13:03:53Z"
 }
