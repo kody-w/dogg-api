@@ -1,12 +1,12 @@
 {
- "tick": 898,
- "utc": "2026-09-12T16:30:56.998Z",
+ "tick": 900,
+ "utc": "2026-09-12T21:08:12.965Z",
  "world": {
   "btc_block_height": {
-   "height": 966693
+   "height": 966719
   },
   "btc_usd": {
-   "spot": "77368.265"
+   "spot": "77200.855"
   },
   "fx_usd": {
    "EUR": "0.8620",
@@ -15,7 +15,7 @@
    "CNY": "6.7253"
   },
   "crypto_market": {
-   "total_mcap_usd": "2664538953571",
+   "total_mcap_usd": "2656941690373",
    "btc_dominance_pct": "58.2"
   },
   "btc_fees": {
@@ -23,37 +23,37 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80621
+   "tx_count": 78923
   },
   "earthquakes_past_hour": {
-   "count": 9,
-   "max_mag": "4.7"
+   "count": 11,
+   "max_mag": "5.1"
   },
   "iss": {
-   "lat": "15.443",
-   "lon": "155.042"
+   "lat": "19.654",
+   "lon": "80.814"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-09-12T12:00:00"
+   "kp": "1.0",
+   "at": "2026-09-12T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 51,
+   "gco2_kwh": 81,
    "index": "low"
   },
   "hn_top": {
-   "id": 49673098,
-   "title": "Nvidia is the central bank of AI"
+   "id": 49674050,
+   "title": "Make your first edit to OpenStreetMap"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.195"
+     "question": "Will Arsenal FC win on 2026-09-12?",
+     "yes_price": "0.9995"
     },
     {
-     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.795"
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.205"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "8f100fce50ef8906ff89225fded70801d1a8b91511965baa748ac680de4d6ef4",
- "spine_head": "7f6c84664a5aef22651640977cfc3f57c498e667285276efd2ed6fdcc0938e96",
- "built_utc": "2026-09-12T18:40:30Z"
+ "frame_hash": "24523a012a562f5ca55839a23d9d50605b2b74fbd5cffa950a7f4b243668dbbb",
+ "spine_head": "9f8c8cce2c82bb58812dbb5bf55b619453ae282c392fc6dfbab2e118465313ba",
+ "built_utc": "2026-09-12T21:23:21Z"
 }
