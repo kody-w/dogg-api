@@ -1,44 +1,44 @@
 {
- "tick": 893,
- "utc": "2026-09-11T23:25:17.429Z",
+ "tick": 894,
+ "utc": "2026-09-12T01:19:38.981Z",
  "world": {
   "btc_block_height": {
-   "height": 966575
+   "height": 966588
   },
   "btc_usd": {
-   "spot": "77138.175"
+   "spot": "77364.445"
   },
   "fx_usd": {
-   "EUR": "0.8607",
-   "GBP": "0.7397",
-   "JPY": "154.2501",
-   "CNY": "6.7280"
+   "EUR": "0.8620",
+   "GBP": "0.7395",
+   "JPY": "153.7596",
+   "CNY": "6.7253"
   },
   "crypto_market": {
-   "total_mcap_usd": "2652611969498",
+   "total_mcap_usd": "2660702084317",
    "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 74513
+   "tx_count": 74760
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "2.4"
+   "count": 14,
+   "max_mag": "5.1"
   },
   "iss": {
-   "lat": "26.457",
-   "lon": "45.176"
+   "lat": "-36.267",
+   "lon": "74.470"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-09-11T18:00:00"
+   "kp": "2.0",
+   "at": "2026-09-11T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 157,
+   "gco2_kwh": 116,
    "index": "moderate"
   },
   "hn_top": {
@@ -49,11 +49,11 @@
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.195"
+     "yes_price": "0.205"
     },
     {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.805"
+     "yes_price": "0.795"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "445b7367e6aab2284a5e7b18489bb300e4a853d7304acdb99b2d93fe434b3ed1",
- "spine_head": "7033c2a979e8d0a1b99d4b6c3e20e30d477de8c514a0b40c4bde64578cddff78",
- "built_utc": "2026-09-12T00:33:45Z"
+ "frame_hash": "84756e4e0d10efc2918c09612c1df2efe7f7607eb06b9e50f560b63059292e95",
+ "spine_head": "6b80218fd64dd05a9a6d1c0051dab4701537f402f1cfbbf55c8f88ff311a210e",
+ "built_utc": "2026-09-12T04:57:06Z"
 }
