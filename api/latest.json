@@ -1,12 +1,12 @@
 {
- "tick": 894,
- "utc": "2026-09-12T01:19:38.981Z",
+ "tick": 895,
+ "utc": "2026-09-12T06:05:10.256Z",
  "world": {
   "btc_block_height": {
-   "height": 966588
+   "height": 966624
   },
   "btc_usd": {
-   "spot": "77364.445"
+   "spot": "77190.575"
   },
   "fx_usd": {
    "EUR": "0.8620",
@@ -15,35 +15,35 @@
    "CNY": "6.7253"
   },
   "crypto_market": {
-   "total_mcap_usd": "2660702084317",
-   "btc_dominance_pct": "58.3"
+   "total_mcap_usd": "2658587495168",
+   "btc_dominance_pct": "58.2"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 74760
+   "tx_count": 74623
   },
   "earthquakes_past_hour": {
-   "count": 14,
-   "max_mag": "5.1"
+   "count": 8,
+   "max_mag": "4.7"
   },
   "iss": {
-   "lat": "-36.267",
-   "lon": "74.470"
+   "lat": "-49.449",
+   "lon": "33.579"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-09-11T21:00:00"
+   "kp": "2.33",
+   "at": "2026-09-12T03:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 116,
+   "gco2_kwh": 114,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49662371,
-   "title": "A misalignment of AI in mathematics"
+   "id": 49668386,
+   "title": "Google no longer provides direct URLs in search results"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "84756e4e0d10efc2918c09612c1df2efe7f7607eb06b9e50f560b63059292e95",
- "spine_head": "6b80218fd64dd05a9a6d1c0051dab4701537f402f1cfbbf55c8f88ff311a210e",
- "built_utc": "2026-09-12T04:57:06Z"
+ "frame_hash": "1f0c9ea6f1cf1f6fd6f75c960b0de224a34db7a0309382c7b889ef4623a87ca9",
+ "spine_head": "1808ac1899fdfe14476446adf0eace2dbf35d69d4f3f4a5596af86a97e20edd2",
+ "built_utc": "2026-09-12T09:11:42Z"
 }
