@@ -1,12 +1,12 @@
 {
- "tick": 903,
- "utc": "2026-09-13T05:45:05.029Z",
+ "tick": 904,
+ "utc": "2026-09-13T10:38:23.760Z",
  "world": {
   "btc_block_height": {
-   "height": 966781
+   "height": 966806
   },
   "btc_usd": {
-   "spot": "77286.985"
+   "spot": "76751.275"
   },
   "fx_usd": {
    "EUR": "0.8618",
@@ -15,54 +15,54 @@
    "CNY": "6.7309"
   },
   "crypto_market": {
-   "total_mcap_usd": "2636784320337",
-   "btc_dominance_pct": "58.7"
+   "total_mcap_usd": "2612695775437",
+   "btc_dominance_pct": "58.8"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 77195
+   "tx_count": 79548
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "1.8"
+   "count": 5,
+   "max_mag": "3.4"
   },
   "iss": {
-   "lat": "-1.962",
-   "lon": "144.252"
+   "lat": "39.667",
+   "lon": "112.020"
   },
   "space_weather": {
-   "kp": "2.33",
-   "at": "2026-09-13T00:00:00"
+   "kp": "2.0",
+   "at": "2026-09-13T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 150,
+   "gco2_kwh": 167,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49679459,
-   "title": "The Interim Computer Museum"
+   "id": 49681152,
+   "title": "JetKVM Mini"
   },
   "prediction_markets": {
    "top_by_volume": [
+    {
+     "question": "Will Brighton & Hove Albion FC win on 2026-09-13?",
+     "yes_price": "0.515"
+    },
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
      "yes_price": "0.205"
     },
     {
-     "question": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
-     "yes_price": "0.595"
-    },
-    {
-     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.795"
+     "question": "Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs",
+     "yes_price": "0.235"
     }
    ]
   }
  },
- "frame_hash": "6b1b52bd7d70ac41426bbec55f60687cbbe61cc5abcb8d7cb0ac30896d435fd8",
- "spine_head": "5bac2944004d8d781aa3a00b3404bafcdcee570aaa5dd1fedb345c56a60cbedd",
- "built_utc": "2026-09-13T06:43:10Z"
+ "frame_hash": "11dda799db5232ef3ea391d8aa35756524e82421a772085b12fb2f027994037f",
+ "spine_head": "37b65b1d80d42ac8b33717235ee83c8f60983d9d1810ac5e0bb1dd9b1884247c",
+ "built_utc": "2026-09-13T12:40:53Z"
 }
