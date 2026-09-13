@@ -1,12 +1,12 @@
 {
- "tick": 905,
- "utc": "2026-09-13T14:41:10.629Z",
+ "tick": 906,
+ "utc": "2026-09-13T17:40:51.292Z",
  "world": {
   "btc_block_height": {
-   "height": 966830
+   "height": 966853
   },
   "btc_usd": {
-   "spot": "77135.105"
+   "spot": "77248.985"
   },
   "fx_usd": {
    "EUR": "0.8618",
@@ -15,54 +15,54 @@
    "CNY": "6.7309"
   },
   "crypto_market": {
-   "total_mcap_usd": "2627136910606",
-   "btc_dominance_pct": "58.9"
+   "total_mcap_usd": "2632950034853",
+   "btc_dominance_pct": "58.8"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 77060
+   "tx_count": 73903
   },
   "earthquakes_past_hour": {
-   "count": 9,
-   "max_mag": "3.2"
+   "count": 6,
+   "max_mag": "2.5"
   },
   "iss": {
-   "lat": "-51.494",
-   "lon": "-72.154"
+   "lat": "-48.211",
+   "lon": "-154.339"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-09-13T09:00:00"
+   "kp": "1.33",
+   "at": "2026-09-13T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 165,
-   "index": "moderate"
+   "gco2_kwh": 194,
+   "index": "high"
   },
   "hn_top": {
-   "id": 49683853,
-   "title": "Flock worker calls police on reporter filming public camera installation"
+   "id": 49684393,
+   "title": "Astra and Fable still hack on simple variants of alignment evals from 2025"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Brighton & Hove Albion FC win on 2026-09-13?",
+     "question": "Will Manchester City FC win on 2026-09-13?",
      "yes_price": "0.9995"
-    },
-    {
-     "question": "LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs",
-     "yes_price": "0.0005"
     },
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
      "yes_price": "0.205"
+    },
+    {
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0035"
     }
    ]
   }
  },
- "frame_hash": "4c0dfb89f66b6c4d29ab0fcf0c286250b8bb6a9fdbc078caaef229288157b2b8",
- "spine_head": "ee52710f6f521876c241bf63c00021b698e689fcd52b860b8a443614a0ee33b8",
- "built_utc": "2026-09-13T16:56:25Z"
+ "frame_hash": "2dbaf93132eab885dbd0228501d22d30eca7deef59911a59794962b4fa19e2ad",
+ "spine_head": "5a7caf0fa62239ea552de4b05a3b05b6ada09751ef491f5d685af72042c3a64e",
+ "built_utc": "2026-09-13T19:20:20Z"
 }
