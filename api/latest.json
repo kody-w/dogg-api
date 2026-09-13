@@ -1,12 +1,12 @@
 {
- "tick": 902,
- "utc": "2026-09-13T00:58:35.710Z",
+ "tick": 903,
+ "utc": "2026-09-13T05:45:05.029Z",
  "world": {
   "btc_block_height": {
-   "height": 966746
+   "height": 966781
   },
   "btc_usd": {
-   "spot": "77254.525"
+   "spot": "77286.985"
   },
   "fx_usd": {
    "EUR": "0.8618",
@@ -15,35 +15,35 @@
    "CNY": "6.7309"
   },
   "crypto_market": {
-   "total_mcap_usd": "2659139244951",
-   "btc_dominance_pct": "58.2"
+   "total_mcap_usd": "2636784320337",
+   "btc_dominance_pct": "58.7"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 74727
+   "tx_count": 77195
   },
   "earthquakes_past_hour": {
-   "count": 4,
-   "max_mag": "1.9"
+   "count": 3,
+   "max_mag": "1.8"
   },
   "iss": {
-   "lat": "-25.162",
-   "lon": "-163.107"
+   "lat": "-1.962",
+   "lon": "144.252"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-09-12T21:00:00"
+   "kp": "2.33",
+   "at": "2026-09-13T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 98,
+   "gco2_kwh": 150,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49674050,
-   "title": "Make your first edit to OpenStreetMap"
+   "id": 49679459,
+   "title": "The Interim Computer Museum"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -52,17 +52,17 @@
      "yes_price": "0.205"
     },
     {
-     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.795"
+     "question": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
+     "yes_price": "0.595"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0035"
+     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.795"
     }
    ]
   }
  },
- "frame_hash": "0824f04dfae134659aa94b797401f53fd80e0fe5b505ffd8b93305b5081e038b",
- "spine_head": "1500fd035caf221481815ea530a4f778989aca1963bd9b350f1de267b49f70ac",
- "built_utc": "2026-09-13T01:21:57Z"
+ "frame_hash": "6b1b52bd7d70ac41426bbec55f60687cbbe61cc5abcb8d7cb0ac30896d435fd8",
+ "spine_head": "5bac2944004d8d781aa3a00b3404bafcdcee570aaa5dd1fedb345c56a60cbedd",
+ "built_utc": "2026-09-13T06:43:10Z"
 }
