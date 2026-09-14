@@ -1,12 +1,12 @@
 {
- "tick": 908,
- "utc": "2026-09-13T22:00:41.209Z",
+ "tick": 909,
+ "utc": "2026-09-14T00:09:34.830Z",
  "world": {
   "btc_block_height": {
-   "height": 966878
+   "height": 966888
   },
   "btc_usd": {
-   "spot": "77246.465"
+   "spot": "76943.795"
   },
   "fx_usd": {
    "EUR": "0.8618",
@@ -15,54 +15,54 @@
    "CNY": "6.7309"
   },
   "crypto_market": {
-   "total_mcap_usd": "2632859630962",
-   "btc_dominance_pct": "58.8"
+   "total_mcap_usd": "2613606984962",
+   "btc_dominance_pct": "58.9"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 78579
+   "tx_count": 79669
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "2.3"
+   "count": 7,
+   "max_mag": "2.4"
   },
   "iss": {
-   "lat": "1.102",
-   "lon": "77.006"
+   "lat": "-31.893",
+   "lon": "-164.215"
   },
   "space_weather": {
-   "kp": "0.33",
-   "at": "2026-09-13T18:00:00"
+   "kp": "0.67",
+   "at": "2026-09-13T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 197,
+   "gco2_kwh": 177,
    "index": "high"
   },
   "hn_top": {
    "id": 49688695,
-   "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
+   "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "US Open ATP: Alexander Zverev vs Ben Shelton",
-     "yes_price": "0.9995"
-    },
-    {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.215"
+     "yes_price": "0.205"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0035"
+    },
+    {
+     "question": "Packers vs. Vikings",
+     "yes_price": "0.0005"
     }
    ]
   }
  },
- "frame_hash": "7bffee4f40f07e21ae32dec275185aac81fd593ed1461faa4fd4de502d8a7073",
- "spine_head": "77721d6de87ae441d3650aafdd6a86c7ed68e00d9753a0f6b193a899edddd1d0",
- "built_utc": "2026-09-13T23:28:26Z"
+ "frame_hash": "9afa51416dcf6f3de97043fa9333063fdcdb9b3111dba57e4d2803260d11ec8e",
+ "spine_head": "67cf3b90bd5df2685b9524ac884410cc00a364b31abb632fb5efc7925d929fb8",
+ "built_utc": "2026-09-14T01:32:35Z"
 }
