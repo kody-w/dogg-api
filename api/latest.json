@@ -1,12 +1,12 @@
 {
- "tick": 912,
- "utc": "2026-09-14T16:23:23.531Z",
+ "tick": 913,
+ "utc": "2026-09-14T20:22:15.245Z",
  "world": {
   "btc_block_height": {
-   "height": 966990
+   "height": 967019
   },
   "btc_usd": {
-   "spot": "78853.105"
+   "spot": "79411.655"
   },
   "fx_usd": {
    "EUR": "0.8622",
@@ -15,41 +15,41 @@
    "CNY": "6.7156"
   },
   "crypto_market": {
-   "total_mcap_usd": "2702719429845",
-   "btc_dominance_pct": "58.6"
+   "total_mcap_usd": "2723839285622",
+   "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 76910
+   "tx_count": 81801
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "1.8"
+   "count": 10,
+   "max_mag": "3.2"
   },
   "iss": {
-   "lat": "35.892",
-   "lon": "122.922"
+   "lat": "-17.745",
+   "lon": "-97.631"
   },
   "space_weather": {
-   "kp": "2.67",
-   "at": "2026-09-14T12:00:00"
+   "kp": "4.0",
+   "at": "2026-09-14T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 128,
+   "gco2_kwh": 145,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49697014,
-   "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama"
+   "id": 49703003,
+   "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.155"
+     "yes_price": "0.125"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
@@ -57,12 +57,12 @@
     },
     {
      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.835"
+     "yes_price": "0.865"
     }
    ]
   }
  },
- "frame_hash": "b744892d8ac06a05a879023a912acd6d563f6851e7d344b14ab87c786f078388",
- "spine_head": "8914a77cdcc2205af94866ae7a7c636fb30d07271515f2649ed36b2cb4da8257",
- "built_utc": "2026-09-14T19:15:23Z"
+ "frame_hash": "8c249a13fb96566ea5ff9e7f0fcd9b8690f5a87c2a11658d03b3a7dc38009bba",
+ "spine_head": "b6d5bf914b246e054c7d479b2b436cbfc38104e7f72a99661fcfdb3fa3e407d4",
+ "built_utc": "2026-09-14T22:42:43Z"
 }
