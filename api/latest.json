@@ -1,12 +1,12 @@
 {
- "tick": 918,
- "utc": "2026-09-15T16:56:29.903Z",
+ "tick": 919,
+ "utc": "2026-09-15T19:58:59.230Z",
  "world": {
   "btc_block_height": {
-   "height": 967158
+   "height": 967178
   },
   "btc_usd": {
-   "spot": "76438.115"
+   "spot": "76089.715"
   },
   "fx_usd": {
    "EUR": "0.8657",
@@ -15,30 +15,30 @@
    "CNY": "6.7252"
   },
   "crypto_market": {
-   "total_mcap_usd": "2623395401008",
-   "btc_dominance_pct": "58.4"
+   "total_mcap_usd": "2603707944905",
+   "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
-   "hour_sat_vb": 1
+   "fastest_sat_vb": 6,
+   "hour_sat_vb": 4
   },
   "btc_mempool": {
-   "tx_count": 77160
+   "tx_count": 82769
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "3.6"
+   "count": 6,
+   "max_mag": "2.6"
   },
   "iss": {
-   "lat": "50.812",
-   "lon": "38.269"
+   "lat": "46.663",
+   "lon": "-26.511"
   },
   "space_weather": {
-   "kp": "2.33",
-   "at": "2026-09-15T12:00:00"
+   "kp": "0.67",
+   "at": "2026-09-15T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 123,
+   "gco2_kwh": 148,
    "index": "moderate"
   },
   "hn_top": {
@@ -49,20 +49,20 @@
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.125"
+     "yes_price": "0.095"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0015"
+     "question": "Will Deportivo Alavés win on 2026-09-15?",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0095"
+     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.895"
     }
    ]
   }
  },
- "frame_hash": "386322fcb85038e001754c54d4719a25999eb9e158609c09106f74acda136947",
- "spine_head": "f7f3dd7122dbcfee3faab4093fcf76c4dd48794d447e526c4a782c7369be3ed3",
- "built_utc": "2026-09-15T17:38:17Z"
+ "frame_hash": "f3c0dd5f7f33b536a03a03fdef6549854f49a5bfcc6a10ff85d9b55cb9d85cb2",
+ "spine_head": "714c2656d2b30f180c856b02058eb4a15558031859037a70bd26dfbf74da1bc0",
+ "built_utc": "2026-09-15T21:13:34Z"
 }
