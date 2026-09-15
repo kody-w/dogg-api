@@ -1,12 +1,12 @@
 {
- "tick": 917,
- "utc": "2026-09-15T12:08:47.044Z",
+ "tick": 918,
+ "utc": "2026-09-15T16:56:29.903Z",
  "world": {
   "btc_block_height": {
-   "height": 967121
+   "height": 967158
   },
   "btc_usd": {
-   "spot": "76890.435"
+   "spot": "76438.115"
   },
   "fx_usd": {
    "EUR": "0.8657",
@@ -15,54 +15,54 @@
    "CNY": "6.7252"
   },
   "crypto_market": {
-   "total_mcap_usd": "2640607338893",
-   "btc_dominance_pct": "58.3"
+   "total_mcap_usd": "2623395401008",
+   "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 77226
+   "tx_count": 77160
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "0.8"
+   "count": 5,
+   "max_mag": "3.6"
   },
   "iss": {
-   "lat": "34.132",
-   "lon": "68.679"
+   "lat": "50.812",
+   "lon": "38.269"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-09-15T09:00:00"
+   "kp": "2.33",
+   "at": "2026-09-15T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 35,
-   "index": "low"
+   "gco2_kwh": 123,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49708431,
-   "title": "I can't stop thinking about Papua New Guinea"
+   "id": 49711544,
+   "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.105"
+     "yes_price": "0.125"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0025"
+     "yes_price": "0.0015"
     },
     {
      "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0105"
+     "yes_price": "0.0095"
     }
    ]
   }
  },
- "frame_hash": "dcbb2a4b3af4e233411a496eab3cd447059f8b905cbe566a8f89ac6235ef7e31",
- "spine_head": "be3e5fe04331c07d0cb0176a92045a483dd3ea13d6f5bd2dfc1abd8cc53d1e54",
- "built_utc": "2026-09-15T12:37:52Z"
+ "frame_hash": "386322fcb85038e001754c54d4719a25999eb9e158609c09106f74acda136947",
+ "spine_head": "f7f3dd7122dbcfee3faab4093fcf76c4dd48794d447e526c4a782c7369be3ed3",
+ "built_utc": "2026-09-15T17:38:17Z"
 }
