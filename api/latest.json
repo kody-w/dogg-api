@@ -1,12 +1,12 @@
 {
- "tick": 913,
- "utc": "2026-09-14T20:22:15.245Z",
+ "tick": 914,
+ "utc": "2026-09-14T23:15:41.626Z",
  "world": {
   "btc_block_height": {
-   "height": 967019
+   "height": 967034
   },
   "btc_usd": {
-   "spot": "79411.655"
+   "spot": "78454.405"
   },
   "fx_usd": {
    "EUR": "0.8622",
@@ -15,54 +15,54 @@
    "CNY": "6.7156"
   },
   "crypto_market": {
-   "total_mcap_usd": "2723839285622",
-   "btc_dominance_pct": "58.4"
+   "total_mcap_usd": "2686234358592",
+   "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
    "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81801
+   "tx_count": 80074
   },
   "earthquakes_past_hour": {
-   "count": 10,
-   "max_mag": "3.2"
+   "count": 8,
+   "max_mag": "4.9"
   },
   "iss": {
-   "lat": "-17.745",
-   "lon": "-97.631"
+   "lat": "-47.773",
+   "lon": "172.715"
   },
   "space_weather": {
-   "kp": "4.0",
-   "at": "2026-09-14T15:00:00"
+   "kp": "2.67",
+   "at": "2026-09-14T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 145,
-   "index": "moderate"
+   "gco2_kwh": 87,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49703003,
-   "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?"
+   "id": 49700477,
+   "title": "Pion, an agent designed to run any company autonomously"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.125"
+     "question": "Broncos vs. Chiefs",
+     "yes_price": "0.455"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0025"
     },
     {
-     "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.865"
+     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+     "yes_price": "0.125"
     }
    ]
   }
  },
- "frame_hash": "8c249a13fb96566ea5ff9e7f0fcd9b8690f5a87c2a11658d03b3a7dc38009bba",
- "spine_head": "b6d5bf914b246e054c7d479b2b436cbfc38104e7f72a99661fcfdb3fa3e407d4",
- "built_utc": "2026-09-14T22:42:43Z"
+ "frame_hash": "59f95685947bef60b75ae1bb5de0649d6bc59c5d03d8afd581865fb95a1aa840",
+ "spine_head": "dc7435b6330b538cc03b19b5a92f50a288c0006c6b792f19a8132458c56b7d04",
+ "built_utc": "2026-09-15T01:22:06Z"
 }
