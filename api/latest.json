@@ -1,21 +1,21 @@
 {
- "tick": 920,
- "utc": "2026-09-15T22:46:12.741Z",
+ "tick": 921,
+ "utc": "2026-09-16T00:57:52.141Z",
  "world": {
   "btc_block_height": {
-   "height": 967193
+   "height": 967208
   },
   "btc_usd": {
-   "spot": "75580.645"
+   "spot": "75678.89"
   },
   "fx_usd": {
-   "EUR": "0.8657",
-   "GBP": "0.7410",
-   "JPY": "154.3890",
-   "CNY": "6.7252"
+   "EUR": "0.8667",
+   "GBP": "0.7420",
+   "JPY": "155.0760",
+   "CNY": "6.7268"
   },
   "crypto_market": {
-   "total_mcap_usd": "2587235510888",
+   "total_mcap_usd": "2592045231028",
    "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
@@ -23,22 +23,22 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 73342
+   "tx_count": 73158
   },
   "earthquakes_past_hour": {
-   "count": 1,
-   "max_mag": "1.1"
+   "count": 6,
+   "max_mag": "3.3"
   },
   "iss": {
-   "lat": "-3.349",
-   "lon": "-128.202"
+   "lat": "25.980",
+   "lon": "-1.581"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-09-15T18:00:00"
+   "kp": "3.33",
+   "at": "2026-09-15T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 66,
+   "gco2_kwh": 70,
    "index": "low"
   },
   "hn_top": {
@@ -56,13 +56,13 @@
      "yes_price": "0.875"
     },
     {
-     "question": "Clarity Act (H.R.3633) signed into law in 2026?",
-     "yes_price": "0.0465"
+     "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
+     "yes_price": "0.0085"
     }
    ]
   }
  },
- "frame_hash": "e8366c2ff05ec300070878d3fc28769f653f7ae776b3c7a91ee3dc0df1ed59cc",
- "spine_head": "616aad5afc56af005d33edb762f3e48e99dafcacdbb0e385fad2f2015ff86ab4",
- "built_utc": "2026-09-15T23:38:48Z"
+ "frame_hash": "a821685b03503fca6bd5ccfd564c4010a6d058751871b867213a0a809466e4c3",
+ "spine_head": "aed41ef52b934f85fc4f5ac5c07ac972371df3e8e12ca4a42ba4993c508e4705",
+ "built_utc": "2026-09-16T04:39:58Z"
 }
