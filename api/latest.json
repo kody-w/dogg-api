@@ -1,12 +1,12 @@
 {
- "tick": 924,
- "utc": "2026-09-16T15:06:20.000Z",
+ "tick": 926,
+ "utc": "2026-09-16T21:50:26.114Z",
  "world": {
   "btc_block_height": {
-   "height": 967292
+   "height": 967327
   },
   "btc_usd": {
-   "spot": "75532.615"
+   "spot": "75901.375"
   },
   "fx_usd": {
    "EUR": "0.8667",
@@ -15,54 +15,54 @@
    "CNY": "6.7268"
   },
   "crypto_market": {
-   "total_mcap_usd": "2593676590857",
-   "btc_dominance_pct": "58.5"
+   "total_mcap_usd": "2599005534871",
+   "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
-   "fastest_sat_vb": 4,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80884
+   "tx_count": 81304
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "3.6"
+   "count": 7,
+   "max_mag": "2.0"
   },
   "iss": {
-   "lat": "-11.266",
-   "lon": "174.394"
+   "lat": "-30.281",
+   "lon": "-144.688"
   },
   "space_weather": {
-   "kp": "2.33",
-   "at": "2026-09-16T12:00:00"
+   "kp": "0.67",
+   "at": "2026-09-16T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 106,
+   "gco2_kwh": 103,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49727627,
-   "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\""
+   "id": 49731285,
+   "title": "Training a 4B model to produce 81% faster query plans than Postgres"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.115"
+     "question": "Will AC Milan win on 2026-09-16?",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-     "yes_price": "0.0015"
+     "question": "Will FC Barcelona win on 2026-09-16?",
+     "yes_price": "0.9995"
     },
     {
-     "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0085"
+     "question": "New York Yankees vs. Minnesota Twins",
+     "yes_price": "0.0005"
     }
    ]
   }
  },
- "frame_hash": "c2f9dc82151d087c4db49033956fb924e7ef101308c799a97632cf195cabb1e4",
- "spine_head": "71c116d8020fbb1a2dbc862cda8aa560a4282d6690bde7634127187115c0b840",
- "built_utc": "2026-09-16T18:49:42Z"
+ "frame_hash": "5a57dcf9d7c1b0587964dea1741d8f4f05bfe0b9343ca4d7f96fc91527ae08a1",
+ "spine_head": "33c051965f8bfed08fd13940740fc4662e20fff89dd87b8cc469fe6e1bff195f",
+ "built_utc": "2026-09-16T22:03:33Z"
 }
