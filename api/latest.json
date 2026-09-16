@@ -1,12 +1,12 @@
 {
- "tick": 923,
- "utc": "2026-09-16T10:18:02.620Z",
+ "tick": 924,
+ "utc": "2026-09-16T15:06:20.000Z",
  "world": {
   "btc_block_height": {
-   "height": 967266
+   "height": 967292
   },
   "btc_usd": {
-   "spot": "75918.075"
+   "spot": "75532.615"
   },
   "fx_usd": {
    "EUR": "0.8667",
@@ -15,54 +15,54 @@
    "CNY": "6.7268"
   },
   "crypto_market": {
-   "total_mcap_usd": "2596406646858",
+   "total_mcap_usd": "2593676590857",
    "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 4,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80000
+   "tx_count": 80884
   },
   "earthquakes_past_hour": {
    "count": 8,
-   "max_mag": "4.7"
+   "max_mag": "3.6"
   },
   "iss": {
-   "lat": "17.872",
-   "lon": "-136.076"
+   "lat": "-11.266",
+   "lon": "174.394"
   },
   "space_weather": {
    "kp": "2.33",
-   "at": "2026-09-16T06:00:00"
+   "at": "2026-09-16T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 110,
+   "gco2_kwh": 106,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49717558,
-   "title": "Introducing System One Models and Jev"
+   "id": 49727627,
+   "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\""
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-     "yes_price": "0.125"
-    },
-    {
-     "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0075"
+     "yes_price": "0.115"
     },
     {
      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
      "yes_price": "0.0015"
+    },
+    {
+     "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
+     "yes_price": "0.0085"
     }
    ]
   }
  },
- "frame_hash": "e86e4ccd8f98d7005af545a659938a27fe100e46dd3a1045b83e517ce184a02c",
- "spine_head": "2b603287e8f2bcec9048f254220847d8bbab4f242c12f22e62477ba128c18078",
- "built_utc": "2026-09-16T14:49:17Z"
+ "frame_hash": "c2f9dc82151d087c4db49033956fb924e7ef101308c799a97632cf195cabb1e4",
+ "spine_head": "71c116d8020fbb1a2dbc862cda8aa560a4282d6690bde7634127187115c0b840",
+ "built_utc": "2026-09-16T18:49:42Z"
 }
