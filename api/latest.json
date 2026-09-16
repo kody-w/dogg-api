@@ -1,12 +1,12 @@
 {
- "tick": 921,
- "utc": "2026-09-16T00:57:52.141Z",
+ "tick": 922,
+ "utc": "2026-09-16T05:41:44.354Z",
  "world": {
   "btc_block_height": {
-   "height": 967208
+   "height": 967235
   },
   "btc_usd": {
-   "spot": "75678.89"
+   "spot": "75862.925"
   },
   "fx_usd": {
    "EUR": "0.8667",
@@ -15,7 +15,7 @@
    "CNY": "6.7268"
   },
   "crypto_market": {
-   "total_mcap_usd": "2592045231028",
+   "total_mcap_usd": "2596095500967",
    "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
@@ -23,23 +23,23 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 73158
+   "tx_count": 77357
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "3.3"
+   "count": 5,
+   "max_mag": "1.7"
   },
   "iss": {
-   "lat": "25.980",
-   "lon": "-1.581"
+   "lat": "10.726",
+   "lon": "-59.735"
   },
   "space_weather": {
-   "kp": "3.33",
-   "at": "2026-09-15T21:00:00"
+   "kp": "3.67",
+   "at": "2026-09-16T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 70,
-   "index": "low"
+   "gco2_kwh": 113,
+   "index": "moderate"
   },
   "hn_top": {
    "id": 49717558,
@@ -56,13 +56,13 @@
      "yes_price": "0.875"
     },
     {
-     "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
-     "yes_price": "0.0085"
+     "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+     "yes_price": "0.0015"
     }
    ]
   }
  },
- "frame_hash": "a821685b03503fca6bd5ccfd564c4010a6d058751871b867213a0a809466e4c3",
- "spine_head": "aed41ef52b934f85fc4f5ac5c07ac972371df3e8e12ca4a42ba4993c508e4705",
- "built_utc": "2026-09-16T04:39:58Z"
+ "frame_hash": "a3cfc76d6737ca4698ca159b7f488e3a9d18192879885cc4dc65e4f60e3bb140",
+ "spine_head": "8a14a3f137297e7a84d1d0f1d576293ec8f58b236d98fe3706d2d2e9b9ce10c9",
+ "built_utc": "2026-09-16T09:50:46Z"
 }
