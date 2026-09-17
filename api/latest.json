@@ -1,12 +1,12 @@
 {
- "tick": 929,
- "utc": "2026-09-17T09:46:30.577Z",
+ "tick": 930,
+ "utc": "2026-09-17T14:35:21.132Z",
  "world": {
   "btc_block_height": {
-   "height": 967391
+   "height": 967421
   },
   "btc_usd": {
-   "spot": "76546.215"
+   "spot": "76781.705"
   },
   "fx_usd": {
    "EUR": "0.8693",
@@ -15,54 +15,54 @@
    "CNY": "6.7223"
   },
   "crypto_market": {
-   "total_mcap_usd": "2632974238230",
-   "btc_dominance_pct": "58.3"
+   "total_mcap_usd": "2646399005643",
+   "btc_dominance_pct": "58.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79594
+   "tx_count": 80261
   },
   "earthquakes_past_hour": {
-   "count": 9,
-   "max_mag": "2.8"
+   "count": 11,
+   "max_mag": "6.4"
   },
   "iss": {
-   "lat": "-27.238",
-   "lon": "-95.385"
+   "lat": "-49.335",
+   "lon": "-126.276"
   },
   "space_weather": {
    "kp": "1.67",
-   "at": "2026-09-17T06:00:00"
+   "at": "2026-09-17T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 38,
+   "gco2_kwh": 49,
    "index": "low"
   },
   "hn_top": {
-   "id": 49737849,
-   "title": "One Year of Sponsored Servo Development"
+   "id": 49715813,
+   "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs",
-     "yes_price": "0.41"
-    },
-    {
-     "question": "LoL: Top Esports vs Invictus Gaming - Game 1 Winner",
-     "yes_price": "0.405"
-    },
-    {
      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-     "yes_price": "0.545"
+     "yes_price": "0.525"
+    },
+    {
+     "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+     "yes_price": "0.465"
+    },
+    {
+     "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+     "yes_price": "0.745"
     }
    ]
   }
  },
- "frame_hash": "bf7714923dd218ef196c9da5702c6ff9c5a44e4da1120e95de877c1e499df04d",
- "spine_head": "37e46b1f1ce214dadd52aff37e213e0c9537d4120ea1f08ea7bb3421d51bfb85",
- "built_utc": "2026-09-17T10:21:17Z"
+ "frame_hash": "702e406f72dcd51e2a3e931ae74eba6ef3ceb2a170234f481ead2a5063613053",
+ "spine_head": "29d96112f41a61afb19c25b7dd43c8d2d41f89626e1936a6c808c894d87eb6e4",
+ "built_utc": "2026-09-17T15:16:33Z"
 }
