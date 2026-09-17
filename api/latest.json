@@ -1,52 +1,56 @@
 {
- "tick": 927,
- "utc": "2026-09-17T00:00:21.684Z",
+ "tick": 928,
+ "utc": "2026-09-17T04:49:33.961Z",
  "world": {
   "btc_block_height": {
-   "height": 967337
+   "height": 967370
   },
   "btc_usd": {
-   "spot": "76121.375"
+   "spot": "76396.385"
   },
   "fx_usd": {
-   "EUR": "0.8667",
-   "GBP": "0.7420",
-   "JPY": "155.0760",
-   "CNY": "6.7268"
+   "EUR": "0.8693",
+   "GBP": "0.7449",
+   "JPY": "155.5791",
+   "CNY": "6.7223"
   },
   "crypto_market": {
-   "total_mcap_usd": "2616969986451",
-   "btc_dominance_pct": "58.4"
+   "total_mcap_usd": "2620109884575",
+   "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 4,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81295
+   "tx_count": 75925
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "2.2"
+   "count": 6,
+   "max_mag": "5.3"
   },
   "iss": {
-   "lat": "49.751",
-   "lon": "-38.779"
+   "lat": "27.068",
+   "lon": "-67.559"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-09-16T18:00:00"
+   "kp": "3.0",
+   "at": "2026-09-17T00:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 85,
+   "gco2_kwh": 63,
    "index": "low"
   },
   "hn_top": {
-   "id": 49731285,
-   "title": "Training a 4B model to produce 81% faster query plans than Postgres"
+   "id": 49735930,
+   "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes"
   },
   "prediction_markets": {
    "top_by_volume": [
+    {
+     "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+     "yes_price": "0.545"
+    },
     {
      "question": "Will Elon Musk win the 2028 Republican presidential nomination?",
      "yes_price": "0.0015"
@@ -54,15 +58,11 @@
     {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
      "yes_price": "0.735"
-    },
-    {
-     "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-     "yes_price": "0.535"
     }
    ]
   }
  },
- "frame_hash": "3ec8af9f388747e13b5ff0935be1f373e78b56607e5bf5d7be0d34485575d069",
- "spine_head": "bec87e57420a49cc91b61ae799739b3d33a534e4f4d48246c135da097ef42612",
- "built_utc": "2026-09-17T00:21:49Z"
+ "frame_hash": "d38ef761279d3b560bae98bba5a2e67bba901be7c235c308b50d9631ca06ed15",
+ "spine_head": "79982435ba93f8749af984b397461a29e2fcedcbd17d922bea12cbb951a0729f",
+ "built_utc": "2026-09-17T05:15:08Z"
 }
