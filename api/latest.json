@@ -1,12 +1,12 @@
 {
- "tick": 926,
- "utc": "2026-09-16T21:50:26.114Z",
+ "tick": 927,
+ "utc": "2026-09-17T00:00:21.684Z",
  "world": {
   "btc_block_height": {
-   "height": 967327
+   "height": 967337
   },
   "btc_usd": {
-   "spot": "75901.375"
+   "spot": "76121.375"
   },
   "fx_usd": {
    "EUR": "0.8667",
@@ -15,31 +15,31 @@
    "CNY": "6.7268"
   },
   "crypto_market": {
-   "total_mcap_usd": "2599005534871",
+   "total_mcap_usd": "2616969986451",
    "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 4,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81304
+   "tx_count": 81295
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "2.0"
+   "count": 5,
+   "max_mag": "2.2"
   },
   "iss": {
-   "lat": "-30.281",
-   "lon": "-144.688"
+   "lat": "49.751",
+   "lon": "-38.779"
   },
   "space_weather": {
    "kp": "0.67",
    "at": "2026-09-16T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 103,
-   "index": "moderate"
+   "gco2_kwh": 85,
+   "index": "low"
   },
   "hn_top": {
    "id": 49731285,
@@ -48,21 +48,21 @@
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will AC Milan win on 2026-09-16?",
-     "yes_price": "0.0005"
+     "question": "Will Elon Musk win the 2028 Republican presidential nomination?",
+     "yes_price": "0.0015"
     },
     {
-     "question": "Will FC Barcelona win on 2026-09-16?",
-     "yes_price": "0.9995"
+     "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+     "yes_price": "0.735"
     },
     {
-     "question": "New York Yankees vs. Minnesota Twins",
-     "yes_price": "0.0005"
+     "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+     "yes_price": "0.535"
     }
    ]
   }
  },
- "frame_hash": "5a57dcf9d7c1b0587964dea1741d8f4f05bfe0b9343ca4d7f96fc91527ae08a1",
- "spine_head": "33c051965f8bfed08fd13940740fc4662e20fff89dd87b8cc469fe6e1bff195f",
- "built_utc": "2026-09-16T22:03:33Z"
+ "frame_hash": "3ec8af9f388747e13b5ff0935be1f373e78b56607e5bf5d7be0d34485575d069",
+ "spine_head": "bec87e57420a49cc91b61ae799739b3d33a534e4f4d48246c135da097ef42612",
+ "built_utc": "2026-09-17T00:21:49Z"
 }
