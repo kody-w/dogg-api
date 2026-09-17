@@ -1,12 +1,12 @@
 {
- "tick": 931,
- "utc": "2026-09-17T18:33:09.295Z",
+ "tick": 932,
+ "utc": "2026-09-17T21:44:52.204Z",
  "world": {
   "btc_block_height": {
-   "height": 967450
+   "height": 967471
   },
   "btc_usd": {
-   "spot": "76672.505"
+   "spot": "76465.595"
   },
   "fx_usd": {
    "EUR": "0.8693",
@@ -15,54 +15,54 @@
    "CNY": "6.7223"
   },
   "crypto_market": {
-   "total_mcap_usd": "2638625479935",
+   "total_mcap_usd": "2634800739565",
    "btc_dominance_pct": "58.2"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82306
+   "tx_count": 78712
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "2.6"
+   "count": 6,
+   "max_mag": "2.7"
   },
   "iss": {
-   "lat": "51.344",
-   "lon": "27.051"
+   "lat": "43.248",
+   "lon": "10.376"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-09-17T15:00:00"
+   "kp": "1.67",
+   "at": "2026-09-17T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 95,
-   "index": "moderate"
+   "gco2_kwh": 79,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49743097,
-   "title": "Hister: A private search engine for the pages you visit and the files you keep"
+   "id": 49745940,
+   "title": "Astra for Law"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Real Betis Balompié win on 2026-09-17?",
-     "yes_price": "0.855"
+     "question": "Lions vs. Bills",
+     "yes_price": "0.305"
     },
     {
      "question": "Will Manchester City FC win on 2026-09-17?",
-     "yes_price": "0.83"
+     "yes_price": "0.9995"
     },
     {
-     "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-     "yes_price": "0.505"
+     "question": "Will AFC Bournemouth win on 2026-09-17?",
+     "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "fc0c27214d70e1b570f636b51853121331ac70be5f620cb3705e955b199c2b4b",
- "spine_head": "59cd5850868c390662f506b0d27e21eba2f9123789c269e6e687424a3f8561e3",
- "built_utc": "2026-09-17T19:13:24Z"
+ "frame_hash": "cb3754f2c5e1fc05a8b7f510581ed9114ba0eded4c04ed6cfa7c0842457628af",
+ "spine_head": "c3979c0c049e7d7240b00a358d2b55f2811e7558bf440aeded219edea784561c",
+ "built_utc": "2026-09-17T22:24:00Z"
 }
