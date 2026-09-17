@@ -1,12 +1,12 @@
 {
- "tick": 928,
- "utc": "2026-09-17T04:49:33.961Z",
+ "tick": 929,
+ "utc": "2026-09-17T09:46:30.577Z",
  "world": {
   "btc_block_height": {
-   "height": 967370
+   "height": 967391
   },
   "btc_usd": {
-   "spot": "76396.385"
+   "spot": "76546.215"
   },
   "fx_usd": {
    "EUR": "0.8693",
@@ -15,54 +15,54 @@
    "CNY": "6.7223"
   },
   "crypto_market": {
-   "total_mcap_usd": "2620109884575",
+   "total_mcap_usd": "2632974238230",
    "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 75925
+   "tx_count": 79594
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "5.3"
+   "count": 9,
+   "max_mag": "2.8"
   },
   "iss": {
-   "lat": "27.068",
-   "lon": "-67.559"
+   "lat": "-27.238",
+   "lon": "-95.385"
   },
   "space_weather": {
-   "kp": "3.0",
-   "at": "2026-09-17T00:00:00"
+   "kp": "1.67",
+   "at": "2026-09-17T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 63,
+   "gco2_kwh": 38,
    "index": "low"
   },
   "hn_top": {
-   "id": 49735930,
-   "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes"
+   "id": 49737849,
+   "title": "One Year of Sponsored Servo Development"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
+     "question": "LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs",
+     "yes_price": "0.41"
+    },
+    {
+     "question": "LoL: Top Esports vs Invictus Gaming - Game 1 Winner",
+     "yes_price": "0.405"
+    },
+    {
      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
      "yes_price": "0.545"
-    },
-    {
-     "question": "Will Elon Musk win the 2028 Republican presidential nomination?",
-     "yes_price": "0.0015"
-    },
-    {
-     "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.735"
     }
    ]
   }
  },
- "frame_hash": "d38ef761279d3b560bae98bba5a2e67bba901be7c235c308b50d9631ca06ed15",
- "spine_head": "79982435ba93f8749af984b397461a29e2fcedcbd17d922bea12cbb951a0729f",
- "built_utc": "2026-09-17T05:15:08Z"
+ "frame_hash": "bf7714923dd218ef196c9da5702c6ff9c5a44e4da1120e95de877c1e499df04d",
+ "spine_head": "37e46b1f1ce214dadd52aff37e213e0c9537d4120ea1f08ea7bb3421d51bfb85",
+ "built_utc": "2026-09-17T10:21:17Z"
 }
