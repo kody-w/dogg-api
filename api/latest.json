@@ -1,68 +1,165 @@
 {
- "tick": 933,
- "utc": "2026-09-17T23:42:42.236Z",
+ "authority": "non-authoritative convenience projection; verify native DOGG provenance",
+ "built_utc": "2026-09-18T01:32:17Z",
+ "deprecated_fields": {
+  "spine_head": "Deprecated alias of tick_source.native_frame_hash for the world payload's actual tick; it is not the independently newer ticks HEAD."
+ },
+ "frame_hash": "42ef23050f49255921c9c97eec29c5e03a228ac041006242f22d11de0c03965c",
+ "input_fingerprint": "fe42cb13e0a1e84826887509e9eae1840affae59650eebf4c528df5b4c7cb9a4",
+ "native_source": {
+  "chain_path": "world",
+  "commit": "55f65208b8d940693c54fe795f0390e6c79521cc",
+  "native_frame_hash": "42ef23050f49255921c9c97eec29c5e03a228ac041006242f22d11de0c03965c",
+  "native_genesis_frame_hash": "1510266e3a8f0b29633f9721d3364cbb008db7384338e7060f813da38b81c57f",
+  "native_seq": 838,
+  "native_stream_id": "world:@kody-w/dogg",
+  "native_utc": "2026-09-18T01:32:17.221Z",
+  "raw_bytes": 1947,
+  "raw_sha256": "9ff85e838ec375ce13fd51850194eb26d5f4fb349ad681665dae6dacf45823a1",
+  "repository": "https://github.com/kody-w/dogg.git",
+  "storage_line": null,
+  "storage_path": "world/838.json"
+ },
+ "profile": "dogg/0-static-api-provenance/1",
+ "schema": "dogg/0-static-api",
+ "schema_version": 1,
+ "spine_head": "2a7e7ae1bf9b0d12bf97942203d634e8ac5e1167888b1914f4067b0a48aa337f",
+ "tick": 934,
+ "tick_frame": "2a7e7ae1bf9b0d12bf97942203d634e8ac5e1167888b1914f4067b0a48aa337f",
+ "tick_source": {
+  "chain_path": "ticks",
+  "commit": "55f65208b8d940693c54fe795f0390e6c79521cc",
+  "native_frame_hash": "2a7e7ae1bf9b0d12bf97942203d634e8ac5e1167888b1914f4067b0a48aa337f",
+  "native_genesis_frame_hash": "739ed3691dec436e0afb73b2e335c71e2464c3daaff81bb20f6f6c4042748f4e",
+  "native_seq": 934,
+  "native_stream_id": "tick:@kody-w/global",
+  "native_utc": "2026-09-18T01:32:12.791Z",
+  "raw_bytes": 551,
+  "raw_sha256": "60276b067f3bcf6df22a28fbfc8174931f0967c21b4f27c6887fd3b6e5072ad4",
+  "repository": "https://github.com/kody-w/dogg.git",
+  "storage_line": null,
+  "storage_path": "ticks/934.json"
+ },
+ "utc": "2026-09-18T01:32:17.220Z",
+ "verified_inputs": {
+  "chains": {
+   "ticks": {
+    "commit": "55f65208b8d940693c54fe795f0390e6c79521cc",
+    "count": 935,
+    "genesis_frame_hash": "739ed3691dec436e0afb73b2e335c71e2464c3daaff81bb20f6f6c4042748f4e",
+    "head_frame_hash": "2a7e7ae1bf9b0d12bf97942203d634e8ac5e1167888b1914f4067b0a48aa337f",
+    "head_raw_bytes": 225,
+    "head_raw_sha256": "0a74b3fe8591741861d74544e31a1efb3264e401409e084b1a745f621d736108",
+    "records_fingerprint": "40a4e0b6e6d2ec58859aeea2884f53175ffcf98c21642beada86a8f55a7be4d4",
+    "stream_id": "tick:@kody-w/global"
+   },
+   "world": {
+    "commit": "55f65208b8d940693c54fe795f0390e6c79521cc",
+    "count": 839,
+    "genesis_frame_hash": "1510266e3a8f0b29633f9721d3364cbb008db7384338e7060f813da38b81c57f",
+    "head_frame_hash": "42ef23050f49255921c9c97eec29c5e03a228ac041006242f22d11de0c03965c",
+    "head_raw_bytes": 224,
+    "head_raw_sha256": "dacaff49d759a62e4469f0d4a4d0b31ca1b4dc855c7136b4a9c54075719f8899",
+    "records_fingerprint": "3e0f69aa1cf6080f3c57ec7c49d65ba94609b395c08b9ad32ae001b67b0f3b17",
+    "stream_id": "world:@kody-w/dogg"
+   }
+  },
+  "native_verifier": {
+   "commit": "55f65208b8d940693c54fe795f0390e6c79521cc",
+   "files": {
+    "LICENSE": {
+     "bytes": 1087,
+     "sha256": "472f5334a3a25473b3ccc1c5f97eac4183d05fd726f9a116cfdd3dfdd4d5dc11",
+     "source_path": "LICENSE"
+    },
+    "chainio.py": {
+     "bytes": 4013,
+     "sha256": "9f9aec689112fcf0408dcd564ac0af4f974b0f6ce8aca18b0df3ec3ffd41e46d",
+     "source_path": "tools/chainio.py"
+    },
+    "rapp.py": {
+     "bytes": 12819,
+     "sha256": "c945ee85f01af5cd374490b40721d07f2aca7c8bd6d209e0d2933420f55db284",
+     "source_path": "tools/rapp.py"
+    },
+    "verify_thread.py": {
+     "bytes": 1359,
+     "sha256": "4894ad22fb6df5fe98c6417155368ef7fd3b97bd5f224768b73d442b8e59f513",
+     "source_path": "tools/verify_thread.py"
+    }
+   },
+   "repository": "https://github.com/kody-w/dogg.git",
+   "schema": "dogg-native-verifier-vendor/1",
+   "tree": "4f9c2281b7b3a33da1a19530e53bfa84eb51f405"
+  },
+  "schema": "dogg/0-static-api-inputs/1",
+  "source": {
+   "canonical_main_commit": "55f65208b8d940693c54fe795f0390e6c79521cc",
+   "canonical_ref": "refs/remotes/origin/main",
+   "commit": "55f65208b8d940693c54fe795f0390e6c79521cc",
+   "repository": "https://github.com/kody-w/dogg.git",
+   "tree": "4f9c2281b7b3a33da1a19530e53bfa84eb51f405"
+  }
+ },
  "world": {
   "btc_block_height": {
-   "height": 967479
-  },
-  "btc_usd": {
-   "spot": "76346.945"
-  },
-  "fx_usd": {
-   "EUR": "0.8693",
-   "GBP": "0.7449",
-   "JPY": "155.5791",
-   "CNY": "6.7223"
-  },
-  "crypto_market": {
-   "total_mcap_usd": "2630310767394",
-   "btc_dominance_pct": "58.1"
+   "height": 967484
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 78882
+   "tx_count": 82674
+  },
+  "btc_usd": {
+   "spot": "76551.205"
+  },
+  "crypto_market": {
+   "btc_dominance_pct": "58.1",
+   "total_mcap_usd": "2637967357356"
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "2.8"
+   "count": 4,
+   "max_mag": "4.6"
   },
-  "iss": {
-   "lat": "-27.661",
-   "lon": "52.589"
-  },
-  "space_weather": {
-   "kp": "1.67",
-   "at": "2026-09-17T18:00:00"
+  "fx_usd": {
+   "CNY": "6.7218",
+   "EUR": "0.8706",
+   "GBP": "0.7482",
+   "JPY": "155.8362"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 65,
+   "gco2_kwh": 66,
    "index": "low"
   },
   "hn_top": {
    "id": 49745940,
    "title": "Astra for Law"
   },
+  "iss": {
+   "lat": "-50.550",
+   "lon": "107.274"
+  },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Lions vs. Bills",
-     "yes_price": "0.305"
+     "yes_price": "0.065"
     },
     {
-     "question": "Will China invade Taiwan by end of 2026?",
-     "yes_price": "0.0405"
+     "question": "Spread: Bills (-6.5)",
+     "yes_price": "0.825"
     },
     {
-     "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-     "yes_price": "0.495"
+     "question": "Spread: Bills (-5.5)",
+     "yes_price": "0.885"
     }
    ]
+  },
+  "space_weather": {
+   "at": "2026-09-17T21:00:00",
+   "kp": "2.33"
   }
- },
- "frame_hash": "b14acac3daf657e56d610f7f240af544f41dca9542adf7916cc53ae0ad7ee039",
- "spine_head": "4f0ee9a489f506e7957673cdd9dcadf3d75830652b3156e0aac20a18eb7e1431",
- "built_utc": "2026-09-18T00:43:57Z"
+ }
 }
