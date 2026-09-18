@@ -1,12 +1,12 @@
 {
- "tick": 932,
- "utc": "2026-09-17T21:44:52.204Z",
+ "tick": 933,
+ "utc": "2026-09-17T23:42:42.236Z",
  "world": {
   "btc_block_height": {
-   "height": 967471
+   "height": 967479
   },
   "btc_usd": {
-   "spot": "76465.595"
+   "spot": "76346.945"
   },
   "fx_usd": {
    "EUR": "0.8693",
@@ -15,30 +15,30 @@
    "CNY": "6.7223"
   },
   "crypto_market": {
-   "total_mcap_usd": "2634800739565",
-   "btc_dominance_pct": "58.2"
+   "total_mcap_usd": "2630310767394",
+   "btc_dominance_pct": "58.1"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 78712
+   "tx_count": 78882
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "2.7"
+   "count": 5,
+   "max_mag": "2.8"
   },
   "iss": {
-   "lat": "43.248",
-   "lon": "10.376"
+   "lat": "-27.661",
+   "lon": "52.589"
   },
   "space_weather": {
    "kp": "1.67",
    "at": "2026-09-17T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 79,
+   "gco2_kwh": 65,
    "index": "low"
   },
   "hn_top": {
@@ -52,17 +52,17 @@
      "yes_price": "0.305"
     },
     {
-     "question": "Will Manchester City FC win on 2026-09-17?",
-     "yes_price": "0.9995"
+     "question": "Will China invade Taiwan by end of 2026?",
+     "yes_price": "0.0405"
     },
     {
-     "question": "Will AFC Bournemouth win on 2026-09-17?",
-     "yes_price": "0.9995"
+     "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+     "yes_price": "0.495"
     }
    ]
   }
  },
- "frame_hash": "cb3754f2c5e1fc05a8b7f510581ed9114ba0eded4c04ed6cfa7c0842457628af",
- "spine_head": "c3979c0c049e7d7240b00a358d2b55f2811e7558bf440aeded219edea784561c",
- "built_utc": "2026-09-17T22:24:00Z"
+ "frame_hash": "b14acac3daf657e56d610f7f240af544f41dca9542adf7916cc53ae0ad7ee039",
+ "spine_head": "4f0ee9a489f506e7957673cdd9dcadf3d75830652b3156e0aac20a18eb7e1431",
+ "built_utc": "2026-09-18T00:43:57Z"
 }
