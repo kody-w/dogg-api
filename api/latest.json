@@ -1,44 +1,44 @@
 {
- "tick": 933,
- "utc": "2026-09-17T23:42:42.236Z",
+ "tick": 934,
+ "utc": "2026-09-18T01:32:17.220Z",
  "world": {
   "btc_block_height": {
-   "height": 967479
+   "height": 967484
   },
   "btc_usd": {
-   "spot": "76346.945"
+   "spot": "76551.205"
   },
   "fx_usd": {
-   "EUR": "0.8693",
-   "GBP": "0.7449",
-   "JPY": "155.5791",
-   "CNY": "6.7223"
+   "EUR": "0.8706",
+   "GBP": "0.7482",
+   "JPY": "155.8362",
+   "CNY": "6.7218"
   },
   "crypto_market": {
-   "total_mcap_usd": "2630310767394",
+   "total_mcap_usd": "2637967357356",
    "btc_dominance_pct": "58.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 78882
+   "tx_count": 82674
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "2.8"
+   "count": 4,
+   "max_mag": "4.6"
   },
   "iss": {
-   "lat": "-27.661",
-   "lon": "52.589"
+   "lat": "-50.550",
+   "lon": "107.274"
   },
   "space_weather": {
-   "kp": "1.67",
-   "at": "2026-09-17T18:00:00"
+   "kp": "2.33",
+   "at": "2026-09-17T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 65,
+   "gco2_kwh": 66,
    "index": "low"
   },
   "hn_top": {
@@ -49,20 +49,20 @@
    "top_by_volume": [
     {
      "question": "Lions vs. Bills",
-     "yes_price": "0.305"
+     "yes_price": "0.065"
     },
     {
-     "question": "Will China invade Taiwan by end of 2026?",
-     "yes_price": "0.0405"
+     "question": "Spread: Bills (-6.5)",
+     "yes_price": "0.825"
     },
     {
-     "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-     "yes_price": "0.495"
+     "question": "Spread: Bills (-5.5)",
+     "yes_price": "0.885"
     }
    ]
   }
  },
- "frame_hash": "b14acac3daf657e56d610f7f240af544f41dca9542adf7916cc53ae0ad7ee039",
- "spine_head": "4f0ee9a489f506e7957673cdd9dcadf3d75830652b3156e0aac20a18eb7e1431",
- "built_utc": "2026-09-18T00:43:57Z"
+ "frame_hash": "42ef23050f49255921c9c97eec29c5e03a228ac041006242f22d11de0c03965c",
+ "spine_head": "2a7e7ae1bf9b0d12bf97942203d634e8ac5e1167888b1914f4067b0a48aa337f",
+ "built_utc": "2026-09-18T05:48:21Z"
 }
