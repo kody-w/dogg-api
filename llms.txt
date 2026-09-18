@@ -1,3 +1,19 @@
-# dogg-api
+# dogg-api — bounded static JSON over native DOGG
 
-> Free static JSON over the DOGG global tick network. Latest: https://raw.githubusercontent.com/kody-w/dogg-api/main/api/latest.json · Directory: https://raw.githubusercontent.com/kody-w/dogg-api/main/api/index.json · Every row carries its source frame hash; verify against https://github.com/kody-w/dogg
+The native chains at https://github.com/kody-w/dogg are the record. This
+repository is a non-authoritative `dogg/0-static-api` convenience projection,
+not RAPP/1.
+
+- Latest world state: `api/latest.json`
+- Bounded rolling series: `api/series/<source>.json`
+- Directory and coverage: `api/index.json`
+- Raw base: `https://raw.githubusercontent.com/kody-w/dogg-api/main/`
+
+Profile `dogg/0-static-api-provenance/1` binds every row to its full native
+world tuple, immutable source commit/path/line/raw bytes, and the exact verified
+tick tuple referenced by the world payload. `spine_head` is a deprecated alias
+of that referenced tick hash, never an independently newer head.
+
+Verify provenance against the immutable commit named in each document. Series
+coverage states the rolling limit, returned range, total matching rows, and
+omitted count; complete history remains in the native DOGG chain.
