@@ -1,12 +1,12 @@
 {
- "tick": 934,
- "utc": "2026-09-18T01:32:17.220Z",
+ "tick": 935,
+ "utc": "2026-09-18T06:39:11.613Z",
  "world": {
   "btc_block_height": {
-   "height": 967484
+   "height": 967522
   },
   "btc_usd": {
-   "spot": "76551.205"
+   "spot": "77464.105"
   },
   "fx_usd": {
    "EUR": "0.8706",
@@ -15,54 +15,54 @@
    "CNY": "6.7218"
   },
   "crypto_market": {
-   "total_mcap_usd": "2637967357356",
+   "total_mcap_usd": "2674574988036",
    "btc_dominance_pct": "58.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82674
+   "tx_count": 79959
   },
   "earthquakes_past_hour": {
-   "count": 4,
-   "max_mag": "4.6"
+   "count": 6,
+   "max_mag": "4.7"
   },
   "iss": {
-   "lat": "-50.550",
-   "lon": "107.274"
+   "lat": "23.190",
+   "lon": "122.085"
   },
   "space_weather": {
-   "kp": "2.33",
-   "at": "2026-09-17T21:00:00"
+   "kp": "2.0",
+   "at": "2026-09-18T03:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 66,
+   "gco2_kwh": 84,
    "index": "low"
   },
   "hn_top": {
-   "id": 49745940,
-   "title": "Astra for Law"
+   "id": 49749656,
+   "title": "Hacking OpenAI"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Lions vs. Bills",
-     "yes_price": "0.065"
+     "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+     "yes_price": "0.765"
     },
     {
-     "question": "Spread: Bills (-6.5)",
-     "yes_price": "0.825"
+     "question": "Will China invade Taiwan by end of 2026?",
+     "yes_price": "0.0425"
     },
     {
-     "question": "Spread: Bills (-5.5)",
-     "yes_price": "0.885"
+     "question": "Putin out as President of Russia by December 31, 2026?",
+     "yes_price": "0.045"
     }
    ]
   }
  },
- "frame_hash": "42ef23050f49255921c9c97eec29c5e03a228ac041006242f22d11de0c03965c",
- "spine_head": "2a7e7ae1bf9b0d12bf97942203d634e8ac5e1167888b1914f4067b0a48aa337f",
- "built_utc": "2026-09-18T05:48:21Z"
+ "frame_hash": "5a106f4e53265269bb8a26a4036189f1efe363d07d69844bc4ac89faad244ed9",
+ "spine_head": "9cf09e6864361fe7f9918cd7bd65b421d4a570e629e6051ae46bf4905a40091a",
+ "built_utc": "2026-09-18T11:04:21Z"
 }
