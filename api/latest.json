@@ -1,12 +1,12 @@
 {
- "tick": 936,
- "utc": "2026-09-18T11:49:04.267Z",
+ "tick": 937,
+ "utc": "2026-09-18T15:37:59.235Z",
  "world": {
   "btc_block_height": {
-   "height": 967548
+   "height": 967573
   },
   "btc_usd": {
-   "spot": "77982.545"
+   "spot": "80798.735"
   },
   "fx_usd": {
    "EUR": "0.8706",
@@ -15,54 +15,54 @@
    "CNY": "6.7218"
   },
   "crypto_market": {
-   "total_mcap_usd": "2665560150423",
+   "total_mcap_usd": "2766119804898",
    "btc_dominance_pct": "58.6"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 81674
+   "tx_count": 76845
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "2.8"
+   "count": 5,
+   "max_mag": "2.2"
   },
   "iss": {
-   "lat": "22.412",
-   "lon": "-175.315"
+   "lat": "-31.736",
+   "lon": "-63.681"
   },
   "space_weather": {
-   "kp": "2.0",
-   "at": "2026-09-18T06:00:00"
+   "kp": "0.67",
+   "at": "2026-09-18T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 44,
+   "gco2_kwh": 40,
    "index": "low"
   },
   "hn_top": {
-   "id": 49752041,
-   "title": "OpenJev"
+   "id": 49753878,
+   "title": "An Empirical Study of Harness Design for Coding Agents"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "LoL: Team WE vs JD Gaming - Game 1 Winner",
-     "yes_price": "0.9995"
+     "question": "Will FC Bayern München win on 2026-09-18?",
+     "yes_price": "0.935"
     },
     {
-     "question": "LoL: Team WE vs JD Gaming - Game 3 Winner",
+     "question": "Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs",
+     "yes_price": "0.435"
+    },
+    {
+     "question": "Caldas da Rainha: Malaika Rapolu vs Gabriela Knutson",
      "yes_price": "0.0005"
-    },
-    {
-     "question": "LoL: Team WE vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
-     "yes_price": "0.185"
     }
    ]
   }
  },
- "frame_hash": "62afa44815fee0f257d9dc8e3f2174aee00cb2860e1b065d7d5a7be73b4eed3b",
- "spine_head": "e954ec19c33bed5eef1d9c178bb63e3225c445eb7050d996e63277712aedacb1",
- "built_utc": "2026-09-18T14:56:05Z"
+ "frame_hash": "4fdab57c74d2682e489f320a75b3172584a11d610d2d45397021800a7fd1d8d1",
+ "spine_head": "187a62e429f494d298604f093527f3971c8463289884d0eaa26a592c5d0ecb84",
+ "built_utc": "2026-09-18T18:18:51Z"
 }
