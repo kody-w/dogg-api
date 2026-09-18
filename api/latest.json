@@ -1,12 +1,12 @@
 {
- "tick": 935,
- "utc": "2026-09-18T06:39:11.613Z",
+ "tick": 936,
+ "utc": "2026-09-18T11:49:04.267Z",
  "world": {
   "btc_block_height": {
-   "height": 967522
+   "height": 967548
   },
   "btc_usd": {
-   "spot": "77464.105"
+   "spot": "77982.545"
   },
   "fx_usd": {
    "EUR": "0.8706",
@@ -15,54 +15,54 @@
    "CNY": "6.7218"
   },
   "crypto_market": {
-   "total_mcap_usd": "2674574988036",
-   "btc_dominance_pct": "58.1"
+   "total_mcap_usd": "2665560150423",
+   "btc_dominance_pct": "58.6"
   },
   "btc_fees": {
    "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79959
+   "tx_count": 81674
   },
   "earthquakes_past_hour": {
    "count": 6,
-   "max_mag": "4.7"
+   "max_mag": "2.8"
   },
   "iss": {
-   "lat": "23.190",
-   "lon": "122.085"
+   "lat": "22.412",
+   "lon": "-175.315"
   },
   "space_weather": {
    "kp": "2.0",
-   "at": "2026-09-18T03:00:00"
+   "at": "2026-09-18T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 84,
+   "gco2_kwh": 44,
    "index": "low"
   },
   "hn_top": {
-   "id": 49749656,
-   "title": "Hacking OpenAI"
+   "id": 49752041,
+   "title": "OpenJev"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.765"
+     "question": "LoL: Team WE vs JD Gaming - Game 1 Winner",
+     "yes_price": "0.9995"
     },
     {
-     "question": "Will China invade Taiwan by end of 2026?",
-     "yes_price": "0.0425"
+     "question": "LoL: Team WE vs JD Gaming - Game 3 Winner",
+     "yes_price": "0.0005"
     },
     {
-     "question": "Putin out as President of Russia by December 31, 2026?",
-     "yes_price": "0.045"
+     "question": "LoL: Team WE vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
+     "yes_price": "0.185"
     }
    ]
   }
  },
- "frame_hash": "5a106f4e53265269bb8a26a4036189f1efe363d07d69844bc4ac89faad244ed9",
- "spine_head": "9cf09e6864361fe7f9918cd7bd65b421d4a570e629e6051ae46bf4905a40091a",
- "built_utc": "2026-09-18T11:04:21Z"
+ "frame_hash": "62afa44815fee0f257d9dc8e3f2174aee00cb2860e1b065d7d5a7be73b4eed3b",
+ "spine_head": "e954ec19c33bed5eef1d9c178bb63e3225c445eb7050d996e63277712aedacb1",
+ "built_utc": "2026-09-18T14:56:05Z"
 }
