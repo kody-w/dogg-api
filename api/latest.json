@@ -1,12 +1,12 @@
 {
- "tick": 938,
- "utc": "2026-09-18T18:38:16.136Z",
+ "tick": 940,
+ "utc": "2026-09-18T23:20:04.046Z",
  "world": {
   "btc_block_height": {
-   "height": 967589
+   "height": 967626
   },
   "btc_usd": {
-   "spot": "81068.435"
+   "spot": "81118.195"
   },
   "fx_usd": {
    "EUR": "0.8706",
@@ -15,54 +15,54 @@
    "CNY": "6.7218"
   },
   "crypto_market": {
-   "total_mcap_usd": "2775186609775",
-   "btc_dominance_pct": "58.5"
+   "total_mcap_usd": "2784650434048",
+   "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80229
+   "tx_count": 77759
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "4.4"
+   "count": 8,
+   "max_mag": "2.6"
   },
   "iss": {
-   "lat": "-44.568",
-   "lon": "-131.208"
+   "lat": "-37.762",
+   "lon": "170.453"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-09-18T15:00:00"
+   "kp": "0.67",
+   "at": "2026-09-18T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 75,
+   "gco2_kwh": 63,
    "index": "low"
   },
   "hn_top": {
-   "id": 49754785,
-   "title": "Cloudflare Quick Tunnels"
+   "id": 49760187,
+   "title": "Claude Code now reads AGENTS.md if there is no Claude.md"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will FC Bayern München win on 2026-09-18?",
-     "yes_price": "0.955"
-    },
-    {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.805"
+     "yes_price": "0.815"
     },
     {
-     "question": "LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs",
-     "yes_price": "0.235"
+     "question": "LoL: Shopify Rebellion vs Sentinels - Game 2 Winner",
+     "yes_price": "0.0005"
+    },
+    {
+     "question": "Will François Ruffin win the 2027 French presidential election?",
+     "yes_price": "0.0025"
     }
    ]
   }
  },
- "frame_hash": "4c4f91ae0ba036ddd331dd1892e9b837295f813f12f29b3fab4e0bc455e070c2",
- "spine_head": "5fc7747e9e4e47940cd2fe0717e487abffcd8f7ed520b938d72ab94c48fc6e8e",
- "built_utc": "2026-09-18T21:11:01Z"
+ "frame_hash": "53d8f676e16d7b403ce079fb3f8771df7f7f7e6f95c6f6c95103dffab1e45c3a",
+ "spine_head": "0427647b2b9a7cd655ef69c118dc61ceb5db1bb2a89c28b4855a6cd694536f42",
+ "built_utc": "2026-09-18T23:32:38Z"
 }
