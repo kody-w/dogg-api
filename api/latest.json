@@ -1,12 +1,12 @@
 {
- "tick": 937,
- "utc": "2026-09-18T15:37:59.235Z",
+ "tick": 938,
+ "utc": "2026-09-18T18:38:16.136Z",
  "world": {
   "btc_block_height": {
-   "height": 967573
+   "height": 967589
   },
   "btc_usd": {
-   "spot": "80798.735"
+   "spot": "81068.435"
   },
   "fx_usd": {
    "EUR": "0.8706",
@@ -15,54 +15,54 @@
    "CNY": "6.7218"
   },
   "crypto_market": {
-   "total_mcap_usd": "2766119804898",
-   "btc_dominance_pct": "58.6"
+   "total_mcap_usd": "2775186609775",
+   "btc_dominance_pct": "58.5"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 76845
+   "tx_count": 80229
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "2.2"
+   "count": 7,
+   "max_mag": "4.4"
   },
   "iss": {
-   "lat": "-31.736",
-   "lon": "-63.681"
+   "lat": "-44.568",
+   "lon": "-131.208"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-09-18T12:00:00"
+   "kp": "1.0",
+   "at": "2026-09-18T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 40,
+   "gco2_kwh": 75,
    "index": "low"
   },
   "hn_top": {
-   "id": 49753878,
-   "title": "An Empirical Study of Harness Design for Coding Agents"
+   "id": 49754785,
+   "title": "Cloudflare Quick Tunnels"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will FC Bayern München win on 2026-09-18?",
-     "yes_price": "0.935"
+     "yes_price": "0.955"
     },
     {
-     "question": "Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs",
-     "yes_price": "0.435"
+     "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+     "yes_price": "0.805"
     },
     {
-     "question": "Caldas da Rainha: Malaika Rapolu vs Gabriela Knutson",
-     "yes_price": "0.0005"
+     "question": "LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs",
+     "yes_price": "0.235"
     }
    ]
   }
  },
- "frame_hash": "4fdab57c74d2682e489f320a75b3172584a11d610d2d45397021800a7fd1d8d1",
- "spine_head": "187a62e429f494d298604f093527f3971c8463289884d0eaa26a592c5d0ecb84",
- "built_utc": "2026-09-18T18:18:51Z"
+ "frame_hash": "4c4f91ae0ba036ddd331dd1892e9b837295f813f12f29b3fab4e0bc455e070c2",
+ "spine_head": "5fc7747e9e4e47940cd2fe0717e487abffcd8f7ed520b938d72ab94c48fc6e8e",
+ "built_utc": "2026-09-18T21:11:01Z"
 }
