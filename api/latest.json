@@ -1,12 +1,12 @@
 {
- "tick": 946,
- "utc": "2026-09-19T19:26:47.086Z",
+ "tick": 947,
+ "utc": "2026-09-19T21:36:04.820Z",
  "world": {
   "btc_block_height": {
-   "height": 967733
+   "height": 967747
   },
   "btc_usd": {
-   "spot": "81403.495"
+   "spot": "80966.415"
   },
   "fx_usd": {
    "EUR": "0.8713",
@@ -15,30 +15,30 @@
    "CNY": "6.7141"
   },
   "crypto_market": {
-   "total_mcap_usd": "2796769382309",
+   "total_mcap_usd": "2781344007409",
    "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 84147
+   "tx_count": 79769
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "2.0"
+   "count": 8,
+   "max_mag": "4.3"
   },
   "iss": {
-   "lat": "-39.769",
-   "lon": "-139.562"
+   "lat": "51.660",
+   "lon": "-46.922"
   },
   "space_weather": {
    "kp": "1.67",
-   "at": "2026-09-19T15:00:00"
+   "at": "2026-09-19T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 95,
+   "gco2_kwh": 90,
    "index": "moderate"
   },
   "hn_top": {
@@ -49,20 +49,20 @@
    "top_by_volume": [
     {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.82"
+     "yes_price": "0.805"
     },
     {
-     "question": "Will FC Barcelona win on 2026-09-19?",
-     "yes_price": "0.71"
+     "question": "SMU vs. Louisville",
+     "yes_price": "0.505"
     },
     {
-     "question": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs",
-     "yes_price": "0.9995"
+     "question": "North Carolina vs. Clemson",
+     "yes_price": "0.485"
     }
    ]
   }
  },
- "frame_hash": "c4c0886b907c2b17c34fdb6907c4db4341abc2e4a4bcd3af0c47b76efbe3ae04",
- "spine_head": "082ef058e443ecccb09cd88a44e37c1d6daf3a12398c22e061f781d8cb30e78b",
- "built_utc": "2026-09-19T20:31:18Z"
+ "frame_hash": "eef0dde9776fdf1dfcb88b993b28ed8a9a70b73de5b05300ac23fd961e42feb0",
+ "spine_head": "0d3f3847d83132f7aa6a274b30099fa18f0e265a37c3d2dc9ae1a504a50ee3dd",
+ "built_utc": "2026-09-19T22:27:02Z"
 }
