@@ -1,12 +1,12 @@
 {
- "tick": 941,
- "utc": "2026-09-19T01:21:20.965Z",
+ "tick": 942,
+ "utc": "2026-09-19T06:11:54.990Z",
  "world": {
   "btc_block_height": {
-   "height": 967642
+   "height": 967671
   },
   "btc_usd": {
-   "spot": "81131.145"
+   "spot": "80992.435"
   },
   "fx_usd": {
    "EUR": "0.8713",
@@ -15,54 +15,54 @@
    "CNY": "6.7141"
   },
   "crypto_market": {
-   "total_mcap_usd": "2787905282056",
-   "btc_dominance_pct": "58.4"
+   "total_mcap_usd": "2785723165306",
+   "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 77052
+   "tx_count": 80285
   },
   "earthquakes_past_hour": {
-   "count": 4,
-   "max_mag": "1.7"
+   "count": 5,
+   "max_mag": "1.4"
   },
   "iss": {
-   "lat": "42.322",
-   "lon": "-136.985"
+   "lat": "49.373",
+   "lon": "-143.219"
   },
   "space_weather": {
-   "kp": "1.67",
-   "at": "2026-09-18T21:00:00"
+   "kp": "2.67",
+   "at": "2026-09-19T03:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 56,
+   "gco2_kwh": 57,
    "index": "low"
   },
   "hn_top": {
-   "id": 49758736,
-   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP"
+   "id": 49763296,
+   "title": "San Francisco Onion Futures Company"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.755"
-    },
-    {
-     "question": "Chicago Cubs vs. Cincinnati Reds",
-     "yes_price": "0.075"
+     "yes_price": "0.745"
     },
     {
      "question": "Will François Ruffin win the 2027 French presidential election?",
      "yes_price": "0.0025"
+    },
+    {
+     "question": "Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5",
+     "yes_price": "0.555"
     }
    ]
   }
  },
- "frame_hash": "1b5d5fe7c70070d53f12d91b7b62f291f96c2bbe9ec777b06cc5cf9c0cba73b5",
- "spine_head": "9b74ba112c687d86c049cb707a5fe3962ad72bba4333a1bbabe702028c0035a9",
- "built_utc": "2026-09-19T01:30:22Z"
+ "frame_hash": "efd5c59a2bc3d954123c353ef11477ab5af7ed9f6229017e084be7a9645f20f1",
+ "spine_head": "2c31efccfb2bbbb6915a993d625f1b9d435b4085fd96d88ffe91cd0fcf56d23a",
+ "built_utc": "2026-09-19T06:31:13Z"
 }
