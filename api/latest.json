@@ -1,12 +1,12 @@
 {
- "tick": 943,
- "utc": "2026-09-19T10:58:35.469Z",
+ "tick": 944,
+ "utc": "2026-09-19T14:13:26.727Z",
  "world": {
   "btc_block_height": {
-   "height": 967695
+   "height": 967713
   },
   "btc_usd": {
-   "spot": "81267.495"
+   "spot": "81355.7"
   },
   "fx_usd": {
    "EUR": "0.8713",
@@ -15,54 +15,54 @@
    "CNY": "6.7141"
   },
   "crypto_market": {
-   "total_mcap_usd": "2793844607021",
+   "total_mcap_usd": "2798609107999",
    "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80248
+   "tx_count": 80842
   },
   "earthquakes_past_hour": {
-   "count": 10,
-   "max_mag": "5.0"
+   "count": 8,
+   "max_mag": "2.2"
   },
   "iss": {
-   "lat": "33.049",
-   "lon": "179.707"
+   "lat": "6.813",
+   "lon": "155.609"
   },
   "space_weather": {
-   "kp": "1.67",
-   "at": "2026-09-19T06:00:00"
+   "kp": "1.33",
+   "at": "2026-09-19T09:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 39,
+   "gco2_kwh": 46,
    "index": "low"
   },
   "hn_top": {
-   "id": 49764791,
-   "title": "AI-generated posters don’t have to be horrible"
+   "id": 49765348,
+   "title": "Laya the open source version of Jev"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.755"
+     "yes_price": "0.735"
     },
     {
-     "question": "LoL: Invictus Gaming vs JD Gaming - Game 2 Winner",
-     "yes_price": "0.9995"
+     "question": "LoL: Invictus Gaming vs JD Gaming - Game 3 Winner",
+     "yes_price": "0.0005"
     },
     {
-     "question": "LoL: Invictus Gaming vs JD Gaming - Game 1 Winner",
+     "question": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
      "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "edafabd30fa07703d7b5079bb2cb4dfc136d6b121b6caa3db0bcb07eba1699bf",
- "spine_head": "9d5aafdd23d9175824ae41614810963b34aa96b62951b680db8990840f4a960c",
- "built_utc": "2026-09-19T11:25:37Z"
+ "frame_hash": "d448705bff92ae33ec44fa043cfa5809154c84e6192054bbc31d5050e81dfac9",
+ "spine_head": "082ce4be64a179c6457b3e9d504704248f9afc47307ca7c7cb1ea848b5fafcff",
+ "built_utc": "2026-09-19T14:44:15Z"
 }
