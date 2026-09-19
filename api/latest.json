@@ -1,12 +1,12 @@
 {
- "tick": 944,
- "utc": "2026-09-19T14:13:26.727Z",
+ "tick": 945,
+ "utc": "2026-09-19T17:17:33.035Z",
  "world": {
   "btc_block_height": {
-   "height": 967713
+   "height": 967724
   },
   "btc_usd": {
-   "spot": "81355.7"
+   "spot": "81669.055"
   },
   "fx_usd": {
    "EUR": "0.8713",
@@ -15,30 +15,30 @@
    "CNY": "6.7141"
   },
   "crypto_market": {
-   "total_mcap_usd": "2798609107999",
+   "total_mcap_usd": "2808457341192",
    "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
-   "fastest_sat_vb": 2,
-   "hour_sat_vb": 1
+   "fastest_sat_vb": 5,
+   "hour_sat_vb": 3
   },
   "btc_mempool": {
-   "tx_count": 80842
+   "tx_count": 86898
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "2.2"
+   "count": 6,
+   "max_mag": "2.8"
   },
   "iss": {
-   "lat": "6.813",
-   "lon": "155.609"
+   "lat": "11.916",
+   "lon": "104.659"
   },
   "space_weather": {
-   "kp": "1.33",
-   "at": "2026-09-19T09:00:00"
+   "kp": "1.67",
+   "at": "2026-09-19T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 46,
+   "gco2_kwh": 87,
    "index": "low"
   },
   "hn_top": {
@@ -52,17 +52,17 @@
      "yes_price": "0.735"
     },
     {
-     "question": "LoL: Invictus Gaming vs JD Gaming - Game 3 Winner",
+     "question": "LoL: Karmine Corp vs Movistar KOI - Game 1 Winner",
      "yes_price": "0.0005"
     },
     {
-     "question": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
-     "yes_price": "0.9995"
+     "question": "Will FC Barcelona win on 2026-09-19?",
+     "yes_price": "0.765"
     }
    ]
   }
  },
- "frame_hash": "d448705bff92ae33ec44fa043cfa5809154c84e6192054bbc31d5050e81dfac9",
- "spine_head": "082ce4be64a179c6457b3e9d504704248f9afc47307ca7c7cb1ea848b5fafcff",
- "built_utc": "2026-09-19T14:44:15Z"
+ "frame_hash": "c6d394c7322b36f7b1ffa7fcf9a5c923c747e29fb3ac716f85617779670846f2",
+ "spine_head": "db4f7e31029bb949b7bf04912c400bdc9864eec9c61adbb56804679e80da84f3",
+ "built_utc": "2026-09-19T17:56:09Z"
 }
