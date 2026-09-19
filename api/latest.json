@@ -1,12 +1,12 @@
 {
- "tick": 942,
- "utc": "2026-09-19T06:11:54.990Z",
+ "tick": 943,
+ "utc": "2026-09-19T10:58:35.469Z",
  "world": {
   "btc_block_height": {
-   "height": 967671
+   "height": 967695
   },
   "btc_usd": {
-   "spot": "80992.435"
+   "spot": "81267.495"
   },
   "fx_usd": {
    "EUR": "0.8713",
@@ -15,7 +15,7 @@
    "CNY": "6.7141"
   },
   "crypto_market": {
-   "total_mcap_usd": "2785723165306",
+   "total_mcap_usd": "2793844607021",
    "btc_dominance_pct": "58.3"
   },
   "btc_fees": {
@@ -23,46 +23,46 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 80285
+   "tx_count": 80248
   },
   "earthquakes_past_hour": {
-   "count": 5,
-   "max_mag": "1.4"
+   "count": 10,
+   "max_mag": "5.0"
   },
   "iss": {
-   "lat": "49.373",
-   "lon": "-143.219"
+   "lat": "33.049",
+   "lon": "179.707"
   },
   "space_weather": {
-   "kp": "2.67",
-   "at": "2026-09-19T03:00:00"
+   "kp": "1.67",
+   "at": "2026-09-19T06:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 57,
+   "gco2_kwh": 39,
    "index": "low"
   },
   "hn_top": {
-   "id": 49763296,
-   "title": "San Francisco Onion Futures Company"
+   "id": 49764791,
+   "title": "AI-generated posters don’t have to be horrible"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.745"
+     "yes_price": "0.755"
     },
     {
-     "question": "Will François Ruffin win the 2027 French presidential election?",
-     "yes_price": "0.0025"
+     "question": "LoL: Invictus Gaming vs JD Gaming - Game 2 Winner",
+     "yes_price": "0.9995"
     },
     {
-     "question": "Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5",
-     "yes_price": "0.555"
+     "question": "LoL: Invictus Gaming vs JD Gaming - Game 1 Winner",
+     "yes_price": "0.9995"
     }
    ]
   }
  },
- "frame_hash": "efd5c59a2bc3d954123c353ef11477ab5af7ed9f6229017e084be7a9645f20f1",
- "spine_head": "2c31efccfb2bbbb6915a993d625f1b9d435b4085fd96d88ffe91cd0fcf56d23a",
- "built_utc": "2026-09-19T06:31:13Z"
+ "frame_hash": "edafabd30fa07703d7b5079bb2cb4dfc136d6b121b6caa3db0bcb07eba1699bf",
+ "spine_head": "9d5aafdd23d9175824ae41614810963b34aa96b62951b680db8990840f4a960c",
+ "built_utc": "2026-09-19T11:25:37Z"
 }
