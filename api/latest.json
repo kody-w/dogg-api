@@ -1,21 +1,21 @@
 {
- "tick": 940,
- "utc": "2026-09-18T23:20:04.046Z",
+ "tick": 941,
+ "utc": "2026-09-19T01:21:20.965Z",
  "world": {
   "btc_block_height": {
-   "height": 967626
+   "height": 967642
   },
   "btc_usd": {
-   "spot": "81118.195"
+   "spot": "81131.145"
   },
   "fx_usd": {
-   "EUR": "0.8706",
-   "GBP": "0.7482",
-   "JPY": "155.8362",
-   "CNY": "6.7218"
+   "EUR": "0.8713",
+   "GBP": "0.7481",
+   "JPY": "157.0551",
+   "CNY": "6.7141"
   },
   "crypto_market": {
-   "total_mcap_usd": "2784650434048",
+   "total_mcap_usd": "2787905282056",
    "btc_dominance_pct": "58.4"
   },
   "btc_fees": {
@@ -23,37 +23,37 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 77759
+   "tx_count": 77052
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "2.6"
+   "count": 4,
+   "max_mag": "1.7"
   },
   "iss": {
-   "lat": "-37.762",
-   "lon": "170.453"
+   "lat": "42.322",
+   "lon": "-136.985"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-09-18T18:00:00"
+   "kp": "1.67",
+   "at": "2026-09-18T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 63,
+   "gco2_kwh": 56,
    "index": "low"
   },
   "hn_top": {
-   "id": 49760187,
-   "title": "Claude Code now reads AGENTS.md if there is no Claude.md"
+   "id": 49758736,
+   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.815"
+     "yes_price": "0.755"
     },
     {
-     "question": "LoL: Shopify Rebellion vs Sentinels - Game 2 Winner",
-     "yes_price": "0.0005"
+     "question": "Chicago Cubs vs. Cincinnati Reds",
+     "yes_price": "0.075"
     },
     {
      "question": "Will François Ruffin win the 2027 French presidential election?",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "53d8f676e16d7b403ce079fb3f8771df7f7f7e6f95c6f6c95103dffab1e45c3a",
- "spine_head": "0427647b2b9a7cd655ef69c118dc61ceb5db1bb2a89c28b4855a6cd694536f42",
- "built_utc": "2026-09-18T23:32:38Z"
+ "frame_hash": "1b5d5fe7c70070d53f12d91b7b62f291f96c2bbe9ec777b06cc5cf9c0cba73b5",
+ "spine_head": "9b74ba112c687d86c049cb707a5fe3962ad72bba4333a1bbabe702028c0035a9",
+ "built_utc": "2026-09-19T01:30:22Z"
 }
