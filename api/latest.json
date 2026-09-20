@@ -1,12 +1,12 @@
 {
- "tick": 953,
- "utc": "2026-09-20T18:56:27.930Z",
+ "tick": 954,
+ "utc": "2026-09-20T21:09:48.123Z",
  "world": {
   "btc_block_height": {
-   "height": 967879
+   "height": 967896
   },
   "btc_usd": {
-   "spot": "81059.995"
+   "spot": "80839.495"
   },
   "fx_usd": {
    "EUR": "0.8713",
@@ -15,30 +15,30 @@
    "CNY": "6.7184"
   },
   "crypto_market": {
-   "total_mcap_usd": "2761797163182",
-   "btc_dominance_pct": "58.8"
+   "total_mcap_usd": "2752868831502",
+   "btc_dominance_pct": "58.7"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 75944
+   "tx_count": 82620
   },
   "earthquakes_past_hour": {
-   "count": 3,
-   "max_mag": "3.4"
+   "count": 6,
+   "max_mag": "3.0"
   },
   "iss": {
-   "lat": "6.870",
-   "lon": "-91.406"
+   "lat": "11.247",
+   "lon": "40.260"
   },
   "space_weather": {
    "kp": "0.33",
-   "at": "2026-09-20T15:00:00"
+   "at": "2026-09-20T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 163,
+   "gco2_kwh": 144,
    "index": "moderate"
   },
   "hn_top": {
@@ -49,20 +49,20 @@
    "top_by_volume": [
     {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.935"
+     "yes_price": "0.9795"
     },
     {
-     "question": "Panthers vs. Falcons",
-     "yes_price": "0.955"
+     "question": "Packers vs. Jets",
+     "yes_price": "0.9995"
     },
     {
-     "question": "Vikings vs. Bears",
-     "yes_price": "0.515"
+     "question": "Commanders vs. Cowboys",
+     "yes_price": "0.175"
     }
    ]
   }
  },
- "frame_hash": "d2226d6cd8be2eef267f7141e186e3be9b0e0f332a832005c3d8afec9c07a3fd",
- "spine_head": "96d74b0b1479f4778a37a3b982fe8c7f1e6a1387a7216a5248ed7e3f14589360",
- "built_utc": "2026-09-20T20:43:20Z"
+ "frame_hash": "0d712301c4fee1acac178a8354a8a4248050ce9af62cf20becd18847e20bf6a5",
+ "spine_head": "44a16802ece69e7c38f7d09ad6c39b4377af73570c5b2ee06d7b90f73b0da806",
+ "built_utc": "2026-09-20T23:09:56Z"
 }
