@@ -1,12 +1,12 @@
 {
- "tick": 952,
- "utc": "2026-09-20T16:20:52.484Z",
+ "tick": 953,
+ "utc": "2026-09-20T18:56:27.930Z",
  "world": {
   "btc_block_height": {
-   "height": 967857
+   "height": 967879
   },
   "btc_usd": {
-   "spot": "81028.505"
+   "spot": "81059.995"
   },
   "fx_usd": {
    "EUR": "0.8713",
@@ -15,54 +15,54 @@
    "CNY": "6.7184"
   },
   "crypto_market": {
-   "total_mcap_usd": "2766928858041",
-   "btc_dominance_pct": "58.9"
+   "total_mcap_usd": "2761797163182",
+   "btc_dominance_pct": "58.8"
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 76004
+   "tx_count": 75944
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "4.4"
+   "count": 3,
+   "max_mag": "3.4"
   },
   "iss": {
-   "lat": "39.595",
-   "lon": "82.056"
+   "lat": "6.870",
+   "lon": "-91.406"
   },
   "space_weather": {
-   "kp": "1.0",
-   "at": "2026-09-20T12:00:00"
+   "kp": "0.33",
+   "at": "2026-09-20T15:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 81,
-   "index": "low"
+   "gco2_kwh": 163,
+   "index": "moderate"
   },
   "hn_top": {
-   "id": 49775499,
-   "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation"
+   "id": 49778029,
+   "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.895"
+     "yes_price": "0.935"
     },
     {
-     "question": "Will Real Madrid CF win on 2026-09-20?",
-     "yes_price": "0.0005"
+     "question": "Panthers vs. Falcons",
+     "yes_price": "0.955"
     },
     {
      "question": "Vikings vs. Bears",
-     "yes_price": "0.345"
+     "yes_price": "0.515"
     }
    ]
   }
  },
- "frame_hash": "b0501a4dc96100d276489a7e237e012a4accd76820d319f5e1669b967630035f",
- "spine_head": "4499afc933a1ab571f89fc6a2bfdb34f7c574b79bac4487869b0ec23d0214aec",
- "built_utc": "2026-09-20T17:37:49Z"
+ "frame_hash": "d2226d6cd8be2eef267f7141e186e3be9b0e0f332a832005c3d8afec9c07a3fd",
+ "spine_head": "96d74b0b1479f4778a37a3b982fe8c7f1e6a1387a7216a5248ed7e3f14589360",
+ "built_utc": "2026-09-20T20:43:20Z"
 }
