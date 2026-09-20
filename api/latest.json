@@ -1,12 +1,12 @@
 {
- "tick": 947,
- "utc": "2026-09-19T21:36:04.820Z",
+ "tick": 948,
+ "utc": "2026-09-19T23:32:36.622Z",
  "world": {
   "btc_block_height": {
-   "height": 967747
+   "height": 967756
   },
   "btc_usd": {
-   "spot": "80966.415"
+   "spot": "81279.175"
   },
   "fx_usd": {
    "EUR": "0.8713",
@@ -15,35 +15,35 @@
    "CNY": "6.7141"
   },
   "crypto_market": {
-   "total_mcap_usd": "2781344007409",
-   "btc_dominance_pct": "58.4"
+   "total_mcap_usd": "2766311535890",
+   "btc_dominance_pct": "58.9"
   },
   "btc_fees": {
-   "fastest_sat_vb": 1,
+   "fastest_sat_vb": 3,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79769
+   "tx_count": 82528
   },
   "earthquakes_past_hour": {
-   "count": 8,
-   "max_mag": "4.3"
+   "count": 9,
+   "max_mag": "2.7"
   },
   "iss": {
-   "lat": "51.660",
-   "lon": "-46.922"
+   "lat": "1.251",
+   "lon": "17.924"
   },
   "space_weather": {
    "kp": "1.67",
    "at": "2026-09-19T18:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 90,
-   "index": "moderate"
+   "gco2_kwh": 63,
+   "index": "low"
   },
   "hn_top": {
-   "id": 49765348,
-   "title": "I built non-autoregressive decision models with RL a year ago"
+   "id": 49770293,
+   "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -53,16 +53,16 @@
     },
     {
      "question": "SMU vs. Louisville",
-     "yes_price": "0.505"
+     "yes_price": "0.0005"
     },
     {
-     "question": "North Carolina vs. Clemson",
-     "yes_price": "0.485"
+     "question": "Florida State vs. Alabama",
+     "yes_price": "0.095"
     }
    ]
   }
  },
- "frame_hash": "eef0dde9776fdf1dfcb88b993b28ed8a9a70b73de5b05300ac23fd961e42feb0",
- "spine_head": "0d3f3847d83132f7aa6a274b30099fa18f0e265a37c3d2dc9ae1a504a50ee3dd",
- "built_utc": "2026-09-19T22:27:02Z"
+ "frame_hash": "e08621096c973bf721edc856ac8439022b4cebfb56a5746bda1416263b238729",
+ "spine_head": "18a9151d5f7c22c17e17fce6d76a97dea43e4764db6830870e1cf1cd92aefcc7",
+ "built_utc": "2026-09-20T00:19:16Z"
 }
