@@ -1,12 +1,12 @@
 {
- "tick": 951,
- "utc": "2026-09-20T12:19:56.676Z",
+ "tick": 952,
+ "utc": "2026-09-20T16:20:52.484Z",
  "world": {
   "btc_block_height": {
-   "height": 967825
+   "height": 967857
   },
   "btc_usd": {
-   "spot": "80395.765"
+   "spot": "81028.505"
   },
   "fx_usd": {
    "EUR": "0.8713",
@@ -15,7 +15,7 @@
    "CNY": "6.7184"
   },
   "crypto_market": {
-   "total_mcap_usd": "2736533578053",
+   "total_mcap_usd": "2766928858041",
    "btc_dominance_pct": "58.9"
   },
   "btc_fees": {
@@ -23,37 +23,37 @@
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 70806
+   "tx_count": 76004
   },
   "earthquakes_past_hour": {
-   "count": 9,
+   "count": 7,
    "max_mag": "4.4"
   },
   "iss": {
-   "lat": "-51.734",
-   "lon": "-82.590"
+   "lat": "39.595",
+   "lon": "82.056"
   },
   "space_weather": {
-   "kp": "0.67",
-   "at": "2026-09-20T09:00:00"
+   "kp": "1.0",
+   "at": "2026-09-20T12:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 40,
+   "gco2_kwh": 81,
    "index": "low"
   },
   "hn_top": {
-   "id": 49774329,
-   "title": "AI and the Destruction of the Creative Commons"
+   "id": 49775499,
+   "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.825"
+     "yes_price": "0.895"
     },
     {
-     "question": "Will Hakeem Jeffries win the 2028 Democratic presidential nomination?",
-     "yes_price": "0.0015"
+     "question": "Will Real Madrid CF win on 2026-09-20?",
+     "yes_price": "0.0005"
     },
     {
      "question": "Vikings vs. Bears",
@@ -62,7 +62,7 @@
    ]
   }
  },
- "frame_hash": "304a59c7006b38fcf5ea3094d3161d1da0850053d85df468e1f67cac47c0a83a",
- "spine_head": "ff3a72d2e826adea90eb9d480e4cea0f7136a2bc6c81c96413c5e49900b5903a",
- "built_utc": "2026-09-20T14:07:32Z"
+ "frame_hash": "b0501a4dc96100d276489a7e237e012a4accd76820d319f5e1669b967630035f",
+ "spine_head": "4499afc933a1ab571f89fc6a2bfdb34f7c574b79bac4487869b0ec23d0214aec",
+ "built_utc": "2026-09-20T17:37:49Z"
 }
