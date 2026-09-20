@@ -1,49 +1,49 @@
 {
- "tick": 948,
- "utc": "2026-09-19T23:32:36.622Z",
+ "tick": 949,
+ "utc": "2026-09-20T01:38:50.308Z",
  "world": {
   "btc_block_height": {
-   "height": 967756
+   "height": 967776
   },
   "btc_usd": {
-   "spot": "81279.175"
+   "spot": "81042.305"
   },
   "fx_usd": {
    "EUR": "0.8713",
-   "GBP": "0.7481",
-   "JPY": "157.0551",
-   "CNY": "6.7141"
+   "GBP": "0.7479",
+   "JPY": "157.1409",
+   "CNY": "6.7184"
   },
   "crypto_market": {
-   "total_mcap_usd": "2766311535890",
+   "total_mcap_usd": "2757922431702",
    "btc_dominance_pct": "58.9"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82528
+   "tx_count": 79697
   },
   "earthquakes_past_hour": {
-   "count": 9,
-   "max_mag": "2.7"
+   "count": 10,
+   "max_mag": "5.3"
   },
   "iss": {
-   "lat": "1.251",
-   "lon": "17.924"
+   "lat": "-38.637",
+   "lon": "127.830"
   },
   "space_weather": {
    "kp": "1.67",
-   "at": "2026-09-19T18:00:00"
+   "at": "2026-09-19T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 63,
+   "gco2_kwh": 68,
    "index": "low"
   },
   "hn_top": {
-   "id": 49770293,
-   "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)"
+   "id": 49771110,
+   "title": "Exfiltrate Your Weights"
   },
   "prediction_markets": {
    "top_by_volume": [
@@ -52,17 +52,17 @@
      "yes_price": "0.805"
     },
     {
-     "question": "SMU vs. Louisville",
+     "question": "Florida State vs. Alabama",
      "yes_price": "0.0005"
     },
     {
-     "question": "Florida State vs. Alabama",
-     "yes_price": "0.095"
+     "question": "LSU vs. Ole Miss",
+     "yes_price": "0.135"
     }
    ]
   }
  },
- "frame_hash": "e08621096c973bf721edc856ac8439022b4cebfb56a5746bda1416263b238729",
- "spine_head": "18a9151d5f7c22c17e17fce6d76a97dea43e4764db6830870e1cf1cd92aefcc7",
- "built_utc": "2026-09-20T00:19:16Z"
+ "frame_hash": "13f841af59937bdd5f6869dd73d8286cb74836e53e469b74763e38a71ef3b5d1",
+ "spine_head": "ea91acee883f59f0914c5d5c26b7a2529eac001860cfb829dc92b11258c6bc4f",
+ "built_utc": "2026-09-20T05:19:38Z"
 }
