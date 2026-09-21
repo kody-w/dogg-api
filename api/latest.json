@@ -1,68 +1,68 @@
 {
- "tick": 954,
- "utc": "2026-09-20T21:09:48.123Z",
+ "tick": 956,
+ "utc": "2026-09-21T01:08:29.184Z",
  "world": {
   "btc_block_height": {
-   "height": 967896
+   "height": 967916
   },
   "btc_usd": {
-   "spot": "80839.495"
+   "spot": "81654.055"
   },
   "fx_usd": {
    "EUR": "0.8713",
-   "GBP": "0.7479",
-   "JPY": "157.1409",
-   "CNY": "6.7184"
+   "GBP": "0.7474",
+   "JPY": "156.9187",
+   "CNY": "6.7047"
   },
   "crypto_market": {
-   "total_mcap_usd": "2752868831502",
-   "btc_dominance_pct": "58.7"
+   "total_mcap_usd": "2812580843154",
+   "btc_dominance_pct": "58.1"
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 2,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 82620
+   "tx_count": 81070
   },
   "earthquakes_past_hour": {
-   "count": 6,
-   "max_mag": "3.0"
+   "count": 10,
+   "max_mag": "2.9"
   },
   "iss": {
-   "lat": "11.247",
-   "lon": "40.260"
+   "lat": "8.310",
+   "lon": "175.212"
   },
   "space_weather": {
-   "kp": "0.33",
-   "at": "2026-09-20T18:00:00"
+   "kp": "1.0",
+   "at": "2026-09-20T21:00:00"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 144,
+   "gco2_kwh": 136,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49778029,
-   "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM"
+   "id": 49780797,
+   "title": "Google's Open Agentic Orchestrator"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
      "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-     "yes_price": "0.9795"
+     "yes_price": "0.9825"
     },
     {
-     "question": "Packers vs. Jets",
-     "yes_price": "0.9995"
+     "question": "Colts vs. Chiefs",
+     "yes_price": "0.275"
     },
     {
-     "question": "Commanders vs. Cowboys",
-     "yes_price": "0.175"
+     "question": "Spread: Chiefs (-6.5)",
+     "yes_price": "0.485"
     }
    ]
   }
  },
- "frame_hash": "0d712301c4fee1acac178a8354a8a4248050ce9af62cf20becd18847e20bf6a5",
- "spine_head": "44a16802ece69e7c38f7d09ad6c39b4377af73570c5b2ee06d7b90f73b0da806",
- "built_utc": "2026-09-20T23:09:56Z"
+ "frame_hash": "e6276bd6c2b96c144cef8e3746452ff40cb1dd34988451ae5fbbe57ac7a2ccdd",
+ "spine_head": "9045781552dd91082bd5640c53b6cb1d67fd0361517a9aed7f8d2ce0617910c4",
+ "built_utc": "2026-09-21T01:32:16Z"
 }
