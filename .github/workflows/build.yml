@@ -9,13 +9,35 @@ concurrency: { group: build, cancel-in-progress: false }
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - run: |
-          set -e
-          python3 tools/build_api.py
+      - name: Test projection contracts
+        run: python3 -B -m unittest discover -s tests -v
+      - name: Select and verify immutable DOGG source
+        env:
+          DOGG_ORIGIN: https://github.com/kody-w/dogg.git
+        run: |
+          set -euo pipefail
+          export GIT_NO_REPLACE_OBJECTS=1
+          mkdir -p _work/dogg
+          git -C _work/dogg init -q
+          git -C _work/dogg remote add origin "$DOGG_ORIGIN"
+          git -C _work/dogg fetch --no-tags origin \
+            +refs/heads/main:refs/remotes/origin/main
+          SOURCE_COMMIT="$(git -C _work/dogg --no-replace-objects rev-parse refs/remotes/origin/main^{commit})"
+          SOURCE_TREE="$(git -C _work/dogg --no-replace-objects rev-parse "$SOURCE_COMMIT^{tree}")"
+          python3 -B tools/build_api.py \
+            --source-repo _work/dogg \
+            --source-commit "$SOURCE_COMMIT" \
+            --source-tree "$SOURCE_TREE" \
+            --source-main-commit "$SOURCE_COMMIT"
+      - name: Publish changed projection
+        run: |
+          set -euo pipefail
+          git diff --check
           git config user.name "dogg-api"
           git config user.email "actions@users.noreply.github.com"
           git add api
