@@ -1,66 +1,66 @@
 {
  "authority": "non-authoritative convenience projection; verify native DOGG provenance",
- "built_utc": "2026-09-25T00:42:07Z",
+ "built_utc": "2026-09-25T06:04:00Z",
  "deprecated_fields": {
   "spine_head": "Deprecated alias of tick_source.native_frame_hash for the world payload's actual tick; it is not the independently newer ticks HEAD."
  },
- "frame_hash": "d827781331fcb69a24106fb8fcbf91aaf12919642a4c64f20d61ac212bb2978d",
- "input_fingerprint": "0cb56e630092fa5460fbc94f4af152a474ae24d4b2b4b88245c0775c8aa7efde",
+ "frame_hash": "592b036e2eb5e4e6686c951642e8199640c3c8c32f381115618ea191443501d8",
+ "input_fingerprint": "636fb6ff7eea52d69712e4539fcf528b6858527caa9084ca403e4004f3f4bb71",
  "native_source": {
   "chain_path": "world",
-  "commit": "2fd864af6e24a5e9c0aa6bf3f00a2415c72ca4e5",
-  "native_frame_hash": "d827781331fcb69a24106fb8fcbf91aaf12919642a4c64f20d61ac212bb2978d",
+  "commit": "d94b7bd1c2cdc36fd07cb2a295a31a01a5f8053f",
+  "native_frame_hash": "592b036e2eb5e4e6686c951642e8199640c3c8c32f381115618ea191443501d8",
   "native_genesis_frame_hash": "1510266e3a8f0b29633f9721d3364cbb008db7384338e7060f813da38b81c57f",
-  "native_seq": 1053,
+  "native_seq": 1084,
   "native_stream_id": "world:@kody-w/dogg",
-  "native_utc": "2026-09-25T00:42:07.311Z",
-  "raw_bytes": 1966,
-  "raw_sha256": "d7560ee79f17034db50e5c5bbf9da0d90782f7a1f21cce670e5d1eabb997b114",
+  "native_utc": "2026-09-25T06:04:00.258Z",
+  "raw_bytes": 2093,
+  "raw_sha256": "52aaed8e1a18a90398d6c1e22a3f1249df637e496860532e8e7229c7fe7156fa",
   "repository": "https://github.com/kody-w/dogg.git",
   "storage_line": null,
-  "storage_path": "world/1053.json"
+  "storage_path": "world/1084.json"
  },
  "profile": "dogg/0-static-api-provenance/1",
  "schema": "dogg/0-static-api",
  "schema_version": 1,
- "spine_head": "3a06d89a13165aba83926e3cc91142e0bd0973ec41acda3be996d5f673ea0809",
- "tick": 1149,
- "tick_frame": "3a06d89a13165aba83926e3cc91142e0bd0973ec41acda3be996d5f673ea0809",
+ "spine_head": "fc6a9e6f49b4631768617d5fc65b1b4227d9b20bb75ab7cccffa40fced76dcf7",
+ "tick": 1180,
+ "tick_frame": "fc6a9e6f49b4631768617d5fc65b1b4227d9b20bb75ab7cccffa40fced76dcf7",
  "tick_source": {
   "chain_path": "ticks",
-  "commit": "2fd864af6e24a5e9c0aa6bf3f00a2415c72ca4e5",
-  "native_frame_hash": "3a06d89a13165aba83926e3cc91142e0bd0973ec41acda3be996d5f673ea0809",
+  "commit": "d94b7bd1c2cdc36fd07cb2a295a31a01a5f8053f",
+  "native_frame_hash": "fc6a9e6f49b4631768617d5fc65b1b4227d9b20bb75ab7cccffa40fced76dcf7",
   "native_genesis_frame_hash": "739ed3691dec436e0afb73b2e335c71e2464c3daaff81bb20f6f6c4042748f4e",
-  "native_seq": 1149,
+  "native_seq": 1180,
   "native_stream_id": "tick:@kody-w/global",
-  "native_utc": "2026-09-25T00:42:05.413Z",
+  "native_utc": "2026-09-25T06:03:58.322Z",
   "raw_bytes": 558,
-  "raw_sha256": "4034f966f827f683b6cc8ddb2c5f00a845ac5d9a1c835cbd5aa4370dc421c2ef",
+  "raw_sha256": "acd95604fc6d85d59d1f879ba9ccdb1c142fc53aac80caa635697d6af8d02b3a",
   "repository": "https://github.com/kody-w/dogg.git",
   "storage_line": null,
-  "storage_path": "ticks/1149.json"
+  "storage_path": "ticks/1180.json"
  },
- "utc": "2026-09-25T00:42:07.311Z",
+ "utc": "2026-09-25T06:04:00.257Z",
  "verified_inputs": {
   "chains": {
    "ticks": {
-    "commit": "2fd864af6e24a5e9c0aa6bf3f00a2415c72ca4e5",
-    "count": 1150,
+    "commit": "d94b7bd1c2cdc36fd07cb2a295a31a01a5f8053f",
+    "count": 1181,
     "genesis_frame_hash": "739ed3691dec436e0afb73b2e335c71e2464c3daaff81bb20f6f6c4042748f4e",
-    "head_frame_hash": "3a06d89a13165aba83926e3cc91142e0bd0973ec41acda3be996d5f673ea0809",
+    "head_frame_hash": "fc6a9e6f49b4631768617d5fc65b1b4227d9b20bb75ab7cccffa40fced76dcf7",
     "head_raw_bytes": 226,
-    "head_raw_sha256": "86c77b23ebe4d60d7d8db269ae92fe7b6896240e241d95b269a5e0fd4869974a",
-    "records_fingerprint": "0636acb3c999d51d834b904365a7bdb667110f6a8f39478c25c4d9bcf5439bf8",
+    "head_raw_sha256": "2a7fb977ad62c6f738d359152b0a6560cfbc57bc1b2bb5a6f1870b9d9a2e48a0",
+    "records_fingerprint": "e8048bd30bcb75f08baa0a754a8d4adf7353243f711581a01e9d58ab7d927351",
     "stream_id": "tick:@kody-w/global"
    },
    "world": {
-    "commit": "2fd864af6e24a5e9c0aa6bf3f00a2415c72ca4e5",
-    "count": 1054,
+    "commit": "d94b7bd1c2cdc36fd07cb2a295a31a01a5f8053f",
+    "count": 1085,
     "genesis_frame_hash": "1510266e3a8f0b29633f9721d3364cbb008db7384338e7060f813da38b81c57f",
-    "head_frame_hash": "d827781331fcb69a24106fb8fcbf91aaf12919642a4c64f20d61ac212bb2978d",
+    "head_frame_hash": "592b036e2eb5e4e6686c951642e8199640c3c8c32f381115618ea191443501d8",
     "head_raw_bytes": 225,
-    "head_raw_sha256": "7f054b0fe264b5e5d0e11fc858edf8fe5ab6c53b14dc2bb9eff67c3e33d03c65",
-    "records_fingerprint": "1ceed0919fd2a5562cc008aee32e9b6b775a168484a79e9d34abfc38556a94a3",
+    "head_raw_sha256": "2260efa59185e3c65629d5967a123187c18995478c48e70833a8c85f1227bf79",
+    "records_fingerprint": "75d4818da1facc839bae92141ee771d0154722681127abe064e30395193ad960",
     "stream_id": "world:@kody-w/dogg"
    }
   },
@@ -94,34 +94,34 @@
   },
   "schema": "dogg/0-static-api-inputs/1",
   "source": {
-   "canonical_main_commit": "2fd864af6e24a5e9c0aa6bf3f00a2415c72ca4e5",
+   "canonical_main_commit": "d94b7bd1c2cdc36fd07cb2a295a31a01a5f8053f",
    "canonical_ref": "refs/remotes/origin/main",
-   "commit": "2fd864af6e24a5e9c0aa6bf3f00a2415c72ca4e5",
+   "commit": "d94b7bd1c2cdc36fd07cb2a295a31a01a5f8053f",
    "repository": "https://github.com/kody-w/dogg.git",
-   "tree": "d642f9238479ca5fcca121b0dc05c86dd8dd2c7c"
+   "tree": "727973bbfa4730ff6bdc1bc8a40665b570805303"
   }
  },
  "world": {
   "btc_block_height": {
-   "height": 968474
+   "height": 968513
   },
   "btc_fees": {
    "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 75362
+   "tx_count": 72108
   },
   "btc_usd": {
-   "spot": "84646.375"
+   "spot": "84180.075"
   },
   "crypto_market": {
    "btc_dominance_pct": "58.6",
-   "total_mcap_usd": "2895213499457"
+   "total_mcap_usd": "2882872493286"
   },
   "earthquakes_past_hour": {
-   "count": 2,
-   "max_mag": "2.3"
+   "count": 6,
+   "max_mag": "4.3"
   },
   "fx_usd": {
    "CNY": "6.7173",
@@ -130,36 +130,36 @@
    "JPY": "158.6866"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 106,
+   "gco2_kwh": 163,
    "index": "moderate"
   },
   "hn_top": {
-   "id": 49831968,
-   "title": "F-Droid 2.0"
+   "id": 49840314,
+   "title": "Goodbye Google"
   },
   "iss": {
-   "lat": "-51.727",
-   "lon": "65.331"
+   "lat": "50.651",
+   "lon": "143.551"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Spread: Packers (-4.5)",
-     "yes_price": "0.635"
+     "question": "Will Mitch Landrieu win the 2028 Democratic presidential nomination?",
+     "yes_price": "0.0015"
     },
     {
-     "question": "Falcons vs. Packers: O/U 43.5",
-     "yes_price": "0.42"
+     "question": "Korea Open: Katie Volynets vs Kimberly Birrell",
+     "yes_price": "0.315"
     },
     {
-     "question": "Falcons vs. Packers",
-     "yes_price": "0.225"
+     "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+     "yes_price": "0.665"
     }
    ]
   },
   "space_weather": {
-   "at": "2026-09-24T21:00:00",
-   "kp": "2.67"
+   "at": "2026-09-25T03:00:00",
+   "kp": "3.67"
   }
  }
 }
