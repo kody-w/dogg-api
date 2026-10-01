@@ -1,263 +1,263 @@
 {
  "authority": "non-authoritative convenience projection; verify native DOGG provenance",
- "built_utc": "2026-10-01T01:21:46Z",
+ "built_utc": "2026-10-01T07:40:55Z",
  "coverage": {
   "series": {
    "btc_block_height": {
     "first": {
-     "frame_hash": "2d6bc16ee74e033198521c8c0c8b1dc9a7df1ed0356601dbc17e1c0bbc0b9d6d",
-     "native_seq": 394,
-     "tick": 488,
-     "tick_frame": "b2580433d87c10c5439c27776d6f36b975101aa4cb4ecc8afe26b5dc434b2daa",
-     "utc": "2026-08-28T21:34:12.643Z"
+     "frame_hash": "2856fbf4dddbb835fc4ffc32c0bcddb5855eeae7af25070f2040ec0f42bec31a",
+     "native_seq": 419,
+     "tick": 513,
+     "tick_frame": "f79c27a7abafb43d9ee08765577e047df631e21cf24ce6fe1cae332a824b2f37",
+     "utc": "2026-08-29T01:48:52.755Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 390,
+    "omitted_rows": 415,
     "returned_rows": 1440,
-    "total_matching_rows": 1830,
+    "total_matching_rows": 1855,
     "window_limit": 1440
    },
    "btc_fees": {
     "first": {
-     "frame_hash": "8d379218a3da4bac2121652ae975c3a47e20b15a4bc726a107622a83cb07fc7f",
-     "native_seq": 395,
-     "tick": 489,
-     "tick_frame": "433707e9d108b77c4cd7b08e73edab4d9a8bc5a16f10338fdc033066540d3a0d",
-     "utc": "2026-08-28T21:44:21.181Z"
+     "frame_hash": "661d3597858d1988942955057dd069cc899ff401fc2d39835d64a15b1a454fbf",
+     "native_seq": 420,
+     "tick": 514,
+     "tick_frame": "39bcd273afb5b856950498412a6519aee289e890d6a8dde57af3f2745d17ad8e",
+     "utc": "2026-08-29T01:59:21.982Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 393,
+    "omitted_rows": 418,
     "returned_rows": 1440,
-    "total_matching_rows": 1833,
+    "total_matching_rows": 1858,
     "window_limit": 1440
    },
    "btc_mempool": {
     "first": {
-     "frame_hash": "8d379218a3da4bac2121652ae975c3a47e20b15a4bc726a107622a83cb07fc7f",
-     "native_seq": 395,
-     "tick": 489,
-     "tick_frame": "433707e9d108b77c4cd7b08e73edab4d9a8bc5a16f10338fdc033066540d3a0d",
-     "utc": "2026-08-28T21:44:21.181Z"
+     "frame_hash": "661d3597858d1988942955057dd069cc899ff401fc2d39835d64a15b1a454fbf",
+     "native_seq": 420,
+     "tick": 514,
+     "tick_frame": "39bcd273afb5b856950498412a6519aee289e890d6a8dde57af3f2745d17ad8e",
+     "utc": "2026-08-29T01:59:21.982Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 393,
+    "omitted_rows": 418,
     "returned_rows": 1440,
-    "total_matching_rows": 1833,
+    "total_matching_rows": 1858,
     "window_limit": 1440
    },
    "btc_usd": {
     "first": {
-     "frame_hash": "2d6bc16ee74e033198521c8c0c8b1dc9a7df1ed0356601dbc17e1c0bbc0b9d6d",
-     "native_seq": 394,
-     "tick": 488,
-     "tick_frame": "b2580433d87c10c5439c27776d6f36b975101aa4cb4ecc8afe26b5dc434b2daa",
-     "utc": "2026-08-28T21:34:12.643Z"
+     "frame_hash": "2856fbf4dddbb835fc4ffc32c0bcddb5855eeae7af25070f2040ec0f42bec31a",
+     "native_seq": 419,
+     "tick": 513,
+     "tick_frame": "f79c27a7abafb43d9ee08765577e047df631e21cf24ce6fe1cae332a824b2f37",
+     "utc": "2026-08-29T01:48:52.755Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 393,
+    "omitted_rows": 418,
     "returned_rows": 1440,
-    "total_matching_rows": 1833,
+    "total_matching_rows": 1858,
     "window_limit": 1440
    },
    "crypto_market": {
     "first": {
-     "frame_hash": "0813e70d1ff74f8a8f9fadd54e3cb380ce2cc3170242ac9dd732a28c56de0e0b",
-     "native_seq": 385,
-     "tick": 479,
-     "tick_frame": "268896285050d4ece20bedd1f5921068a4b1aeeed30582bda3d600cb1aecd7d9",
-     "utc": "2026-08-28T20:02:27.646Z"
+     "frame_hash": "d9cbbb2b5bbd1f292209b2beb09272c794a8cfe01c57e8a9cead5eebe2bd2d54",
+     "native_seq": 411,
+     "tick": 505,
+     "tick_frame": "2104e0e4f21d9a44213d595e6da1a5c3d8cd76798ffd863f32b85a1efde6c745",
+     "utc": "2026-08-29T00:27:49.729Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 376,
+    "omitted_rows": 401,
     "returned_rows": 1440,
-    "total_matching_rows": 1816,
+    "total_matching_rows": 1841,
     "window_limit": 1440
    },
    "earthquakes_past_hour": {
     "first": {
-     "frame_hash": "8d379218a3da4bac2121652ae975c3a47e20b15a4bc726a107622a83cb07fc7f",
-     "native_seq": 395,
-     "tick": 489,
-     "tick_frame": "433707e9d108b77c4cd7b08e73edab4d9a8bc5a16f10338fdc033066540d3a0d",
-     "utc": "2026-08-28T21:44:21.181Z"
+     "frame_hash": "661d3597858d1988942955057dd069cc899ff401fc2d39835d64a15b1a454fbf",
+     "native_seq": 420,
+     "tick": 514,
+     "tick_frame": "39bcd273afb5b856950498412a6519aee289e890d6a8dde57af3f2745d17ad8e",
+     "utc": "2026-08-29T01:59:21.982Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 395,
+    "omitted_rows": 420,
     "returned_rows": 1440,
-    "total_matching_rows": 1835,
+    "total_matching_rows": 1860,
     "window_limit": 1440
    },
    "fx_usd": {
     "first": {
-     "frame_hash": "2d6bc16ee74e033198521c8c0c8b1dc9a7df1ed0356601dbc17e1c0bbc0b9d6d",
-     "native_seq": 394,
-     "tick": 488,
-     "tick_frame": "b2580433d87c10c5439c27776d6f36b975101aa4cb4ecc8afe26b5dc434b2daa",
-     "utc": "2026-08-28T21:34:12.643Z"
+     "frame_hash": "2856fbf4dddbb835fc4ffc32c0bcddb5855eeae7af25070f2040ec0f42bec31a",
+     "native_seq": 419,
+     "tick": 513,
+     "tick_frame": "f79c27a7abafb43d9ee08765577e047df631e21cf24ce6fe1cae332a824b2f37",
+     "utc": "2026-08-29T01:48:52.755Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 394,
+    "omitted_rows": 419,
     "returned_rows": 1440,
-    "total_matching_rows": 1834,
+    "total_matching_rows": 1859,
     "window_limit": 1440
    },
    "grid_carbon_gb": {
     "first": {
-     "frame_hash": "8d379218a3da4bac2121652ae975c3a47e20b15a4bc726a107622a83cb07fc7f",
-     "native_seq": 395,
-     "tick": 489,
-     "tick_frame": "433707e9d108b77c4cd7b08e73edab4d9a8bc5a16f10338fdc033066540d3a0d",
-     "utc": "2026-08-28T21:44:21.181Z"
+     "frame_hash": "661d3597858d1988942955057dd069cc899ff401fc2d39835d64a15b1a454fbf",
+     "native_seq": 420,
+     "tick": 514,
+     "tick_frame": "39bcd273afb5b856950498412a6519aee289e890d6a8dde57af3f2745d17ad8e",
+     "utc": "2026-08-29T01:59:21.982Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 392,
+    "omitted_rows": 417,
     "returned_rows": 1440,
-    "total_matching_rows": 1832,
+    "total_matching_rows": 1857,
     "window_limit": 1440
    },
    "hn_top": {
     "first": {
-     "frame_hash": "8d379218a3da4bac2121652ae975c3a47e20b15a4bc726a107622a83cb07fc7f",
-     "native_seq": 395,
-     "tick": 489,
-     "tick_frame": "433707e9d108b77c4cd7b08e73edab4d9a8bc5a16f10338fdc033066540d3a0d",
-     "utc": "2026-08-28T21:44:21.181Z"
+     "frame_hash": "661d3597858d1988942955057dd069cc899ff401fc2d39835d64a15b1a454fbf",
+     "native_seq": 420,
+     "tick": 514,
+     "tick_frame": "39bcd273afb5b856950498412a6519aee289e890d6a8dde57af3f2745d17ad8e",
+     "utc": "2026-08-29T01:59:21.982Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 395,
+    "omitted_rows": 420,
     "returned_rows": 1440,
-    "total_matching_rows": 1835,
+    "total_matching_rows": 1860,
     "window_limit": 1440
    },
    "iss": {
     "first": {
-     "frame_hash": "815f107d07b13b3684f46415a8ba749b1bc04818b9bcb8c86c868686a9c2a970",
-     "native_seq": 371,
-     "tick": 465,
-     "tick_frame": "cb1bb7f89de1efbfced38889c067e30e3d74817f71173ab51ca7f9c32f877e93",
-     "utc": "2026-08-28T17:39:35.721Z"
+     "frame_hash": "45125d098c30b10dbcd59bd7a5a163ed94062e9ab61483c81e203090c4b92cc5",
+     "native_seq": 396,
+     "tick": 490,
+     "tick_frame": "0b4093448dcae846944dafe7591b1e5fdbe7a6881c675624468b95b443b2aaf1",
+     "utc": "2026-08-28T21:54:29.868Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 371,
+    "omitted_rows": 396,
     "returned_rows": 1440,
-    "total_matching_rows": 1811,
+    "total_matching_rows": 1836,
     "window_limit": 1440
    },
    "prediction_markets": {
     "first": {
-     "frame_hash": "2d6bc16ee74e033198521c8c0c8b1dc9a7df1ed0356601dbc17e1c0bbc0b9d6d",
-     "native_seq": 394,
-     "tick": 488,
-     "tick_frame": "b2580433d87c10c5439c27776d6f36b975101aa4cb4ecc8afe26b5dc434b2daa",
-     "utc": "2026-08-28T21:34:12.643Z"
+     "frame_hash": "2856fbf4dddbb835fc4ffc32c0bcddb5855eeae7af25070f2040ec0f42bec31a",
+     "native_seq": 419,
+     "tick": 513,
+     "tick_frame": "f79c27a7abafb43d9ee08765577e047df631e21cf24ce6fe1cae332a824b2f37",
+     "utc": "2026-08-29T01:48:52.755Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 392,
+    "omitted_rows": 417,
     "returned_rows": 1440,
-    "total_matching_rows": 1832,
+    "total_matching_rows": 1857,
     "window_limit": 1440
    },
    "space_weather": {
     "first": {
-     "frame_hash": "8d379218a3da4bac2121652ae975c3a47e20b15a4bc726a107622a83cb07fc7f",
-     "native_seq": 395,
-     "tick": 489,
-     "tick_frame": "433707e9d108b77c4cd7b08e73edab4d9a8bc5a16f10338fdc033066540d3a0d",
-     "utc": "2026-08-28T21:44:21.181Z"
+     "frame_hash": "661d3597858d1988942955057dd069cc899ff401fc2d39835d64a15b1a454fbf",
+     "native_seq": 420,
+     "tick": 514,
+     "tick_frame": "39bcd273afb5b856950498412a6519aee289e890d6a8dde57af3f2745d17ad8e",
+     "utc": "2026-08-29T01:59:21.982Z"
     },
     "kind": "rolling-world-frames-containing-source",
     "last": {
-     "frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
-     "native_seq": 1834,
-     "tick": 1930,
-     "tick_frame": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
-     "utc": "2026-10-01T01:21:46.165Z"
+     "frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
+     "native_seq": 1859,
+     "tick": 1955,
+     "tick_frame": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
+     "utc": "2026-10-01T07:40:55.049Z"
     },
-    "omitted_rows": 393,
+    "omitted_rows": 418,
     "returned_rows": 1440,
-    "total_matching_rows": 1833,
+    "total_matching_rows": 1858,
     "window_limit": 1440
    }
   },
-  "tick_frames_verified": 1931,
-  "world_frames_verified": 1835
+  "tick_frames_verified": 1956,
+  "world_frames_verified": 1860
  },
  "endpoints": {
   "latest": "api/latest.json",
@@ -276,31 +276,31 @@
    "space_weather": "api/series/space_weather.json"
   }
  },
- "input_fingerprint": "39052125fa711c411fbccdde504ab8f47d2437a25ebaf0aa72947440d062e7e6",
+ "input_fingerprint": "1c178dda29f839f09afbfc9a34b0e50170cc188c561fc6f7f44654a416b50e1e",
  "profile": "dogg/0-static-api-provenance/1",
- "protocol": "https://github.com/kody-w/dogg/blob/d54e6b4c7187513b3ca790115854c7a3ba1ce067/PROTOCOL.md",
+ "protocol": "https://github.com/kody-w/dogg/blob/cf32df8d54b934398f76f3221078efb0c92e84b3/PROTOCOL.md",
  "schema": "dogg/0-static-api",
  "schema_version": 1,
  "verified_inputs": {
   "chains": {
    "ticks": {
-    "commit": "d54e6b4c7187513b3ca790115854c7a3ba1ce067",
-    "count": 1931,
+    "commit": "cf32df8d54b934398f76f3221078efb0c92e84b3",
+    "count": 1956,
     "genesis_frame_hash": "739ed3691dec436e0afb73b2e335c71e2464c3daaff81bb20f6f6c4042748f4e",
-    "head_frame_hash": "af9a3bc2b5299b4ec3abb5ff93d31550ef340cfefe9373de6d3486be5e6cf2e9",
+    "head_frame_hash": "fe58fdea651cb4d5212f8a4ccb87d5fbdbd830578471e0a35efc40d0065fd95e",
     "head_raw_bytes": 226,
-    "head_raw_sha256": "b213b3e66f5d507a544c279e5027bb66383b81058bba66de118a8ad90bc5f71f",
-    "records_fingerprint": "0eb894a251e9a4b1626f9a2bc121a5e9c2a84068fc88c75a88bd95b9cf347423",
+    "head_raw_sha256": "c00afd93b1b3e0eea162c1fc95362545420d36317a3c004658da3ef5455326e2",
+    "records_fingerprint": "ba97d36231fb0e89f34a892f4b8bdfe6f71a8799365753863d50efe3d5024161",
     "stream_id": "tick:@kody-w/global"
    },
    "world": {
-    "commit": "d54e6b4c7187513b3ca790115854c7a3ba1ce067",
-    "count": 1835,
+    "commit": "cf32df8d54b934398f76f3221078efb0c92e84b3",
+    "count": 1860,
     "genesis_frame_hash": "1510266e3a8f0b29633f9721d3364cbb008db7384338e7060f813da38b81c57f",
-    "head_frame_hash": "e9c71eb37f357344acd1a40f5f26a91354c063fbe3a84c8376c90675bb7d64bb",
+    "head_frame_hash": "ee0e8325b378f9871b9402af0eeffca9889e63df6f03be40c44692daad504c24",
     "head_raw_bytes": 225,
-    "head_raw_sha256": "58a7caa4308a34e11459be950253af1cc7aae833f1d44cabc74b9b8721c69c4b",
-    "records_fingerprint": "f8c6a86a8a04f76569087b97ae079a7ecbc7c8dc7efbd64cfa1913702b6a2989",
+    "head_raw_sha256": "e6b821c3f6b84370f4eaa6cdbd69090486570e4ea52674a9bb9a2893a16e7909",
+    "records_fingerprint": "1eea277a744a13ea2bc08e7a50d7d1f6d0e4ab8f24598c2d4256844cbdb7b7dd",
     "stream_id": "world:@kody-w/dogg"
    }
   },
@@ -334,11 +334,11 @@
   },
   "schema": "dogg/0-static-api-inputs/1",
   "source": {
-   "canonical_main_commit": "d54e6b4c7187513b3ca790115854c7a3ba1ce067",
+   "canonical_main_commit": "cf32df8d54b934398f76f3221078efb0c92e84b3",
    "canonical_ref": "refs/remotes/origin/main",
-   "commit": "d54e6b4c7187513b3ca790115854c7a3ba1ce067",
+   "commit": "cf32df8d54b934398f76f3221078efb0c92e84b3",
    "repository": "https://github.com/kody-w/dogg.git",
-   "tree": "99d292ff29ca9d09cacd8821e4bd4738afd84142"
+   "tree": "ec3bf5d57e93c8db4ca349e3e4806fab9dbceb2b"
   }
  },
  "verify": "Every row binds full native world and exact referenced tick tuples from one verified immutable commit."
