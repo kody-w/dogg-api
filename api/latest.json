@@ -1,66 +1,66 @@
 {
  "authority": "non-authoritative convenience projection; verify native DOGG provenance",
- "built_utc": "2026-10-05T22:22:57Z",
+ "built_utc": "2026-10-06T02:20:31Z",
  "deprecated_fields": {
   "spine_head": "Deprecated alias of tick_source.native_frame_hash for the world payload's actual tick; it is not the independently newer ticks HEAD."
  },
- "frame_hash": "4afbfda1e071f775bcad0aa4bfddbf1e8cb69ef4b00f0fdf2aa86931ee03bb72",
- "input_fingerprint": "d8c451ba7ec1e65f90b91d49112841de3a545bf4ab9ec4e3ecc22ad3146e25ba",
+ "frame_hash": "7a46bb22b6e6e848b77848183a30a273eddd37b0b0bd3503f6ac3eadbe312856",
+ "input_fingerprint": "02db2085fdf13311af10c501dbc8fdfebe5352821cbb95362fba9a4d4d5bc5be",
  "native_source": {
   "chain_path": "world",
-  "commit": "668932b5a9cad6534987295dc0ad6055c2b85c9d",
-  "native_frame_hash": "4afbfda1e071f775bcad0aa4bfddbf1e8cb69ef4b00f0fdf2aa86931ee03bb72",
+  "commit": "90a64456ea5763dbb0da7ae70fca59cb83d36e6b",
+  "native_frame_hash": "7a46bb22b6e6e848b77848183a30a273eddd37b0b0bd3503f6ac3eadbe312856",
   "native_genesis_frame_hash": "1510266e3a8f0b29633f9721d3364cbb008db7384338e7060f813da38b81c57f",
-  "native_seq": 2493,
+  "native_seq": 2516,
   "native_stream_id": "world:@kody-w/dogg",
-  "native_utc": "2026-10-05T22:22:53.350Z",
-  "raw_bytes": 2049,
-  "raw_sha256": "bf26fc93bdd17ec0cb8939fb6e56a25d77de0b10f8db01315498dbd807839bdc",
+  "native_utc": "2026-10-06T02:20:27.251Z",
+  "raw_bytes": 2083,
+  "raw_sha256": "3f6e8ad27e4f32230fa1eb59c26119478934ce5b5ac53c987285f0347c41afc8",
   "repository": "https://github.com/kody-w/dogg.git",
   "storage_line": null,
-  "storage_path": "world/2493.json"
+  "storage_path": "world/2516.json"
  },
  "profile": "dogg/0-static-api-provenance/1",
  "schema": "dogg/0-static-api",
  "schema_version": 1,
- "spine_head": "04cb267a819fdd4968b7008c3b8a51f359a43d768890e2514baf00a48d4aac8b",
- "tick": 2589,
- "tick_frame": "04cb267a819fdd4968b7008c3b8a51f359a43d768890e2514baf00a48d4aac8b",
+ "spine_head": "b151cc016f146572c1f70a9a981b5dc05181ff28741128e9876d577b6318de65",
+ "tick": 2612,
+ "tick_frame": "b151cc016f146572c1f70a9a981b5dc05181ff28741128e9876d577b6318de65",
  "tick_source": {
   "chain_path": "ticks",
-  "commit": "668932b5a9cad6534987295dc0ad6055c2b85c9d",
-  "native_frame_hash": "04cb267a819fdd4968b7008c3b8a51f359a43d768890e2514baf00a48d4aac8b",
+  "commit": "90a64456ea5763dbb0da7ae70fca59cb83d36e6b",
+  "native_frame_hash": "b151cc016f146572c1f70a9a981b5dc05181ff28741128e9876d577b6318de65",
   "native_genesis_frame_hash": "739ed3691dec436e0afb73b2e335c71e2464c3daaff81bb20f6f6c4042748f4e",
-  "native_seq": 2589,
+  "native_seq": 2612,
   "native_stream_id": "tick:@kody-w/global",
-  "native_utc": "2026-10-05T22:22:50.770Z",
+  "native_utc": "2026-10-06T02:20:24.502Z",
   "raw_bytes": 558,
-  "raw_sha256": "2cc4bc757e7067e13cdeed683cbbd030521e570ff86ce003e81fb07e9bc242e6",
+  "raw_sha256": "91fbf17c1eeb1dccfe7352880b95cc61e344fe8bad1f2f9e42092e0ba61a2809",
   "repository": "https://github.com/kody-w/dogg.git",
   "storage_line": null,
-  "storage_path": "ticks/2589.json"
+  "storage_path": "ticks/2612.json"
  },
- "utc": "2026-10-05T22:22:53.350Z",
+ "utc": "2026-10-06T02:20:27.251Z",
  "verified_inputs": {
   "chains": {
    "ticks": {
-    "commit": "668932b5a9cad6534987295dc0ad6055c2b85c9d",
-    "count": 2590,
+    "commit": "90a64456ea5763dbb0da7ae70fca59cb83d36e6b",
+    "count": 2613,
     "genesis_frame_hash": "739ed3691dec436e0afb73b2e335c71e2464c3daaff81bb20f6f6c4042748f4e",
-    "head_frame_hash": "04cb267a819fdd4968b7008c3b8a51f359a43d768890e2514baf00a48d4aac8b",
+    "head_frame_hash": "b151cc016f146572c1f70a9a981b5dc05181ff28741128e9876d577b6318de65",
     "head_raw_bytes": 226,
-    "head_raw_sha256": "999ca2056b575f08b0132d93a774b5917086f264e00a4bd1d7ae494e69eafc7d",
-    "records_fingerprint": "b8f0d5d28ec1947b656c57299468c83651542b5b70ea2419f57cd621eedbd19c",
+    "head_raw_sha256": "bfcf09abc5c4afd4032918091300d8ed48bcca6cb2393bc89fb6c5e68c3d9dd5",
+    "records_fingerprint": "e700dc8f722fe2c051b4d526a0e7f9d898241003367cfba49d80b347f2b4df4d",
     "stream_id": "tick:@kody-w/global"
    },
    "world": {
-    "commit": "668932b5a9cad6534987295dc0ad6055c2b85c9d",
-    "count": 2494,
+    "commit": "90a64456ea5763dbb0da7ae70fca59cb83d36e6b",
+    "count": 2517,
     "genesis_frame_hash": "1510266e3a8f0b29633f9721d3364cbb008db7384338e7060f813da38b81c57f",
-    "head_frame_hash": "4afbfda1e071f775bcad0aa4bfddbf1e8cb69ef4b00f0fdf2aa86931ee03bb72",
+    "head_frame_hash": "7a46bb22b6e6e848b77848183a30a273eddd37b0b0bd3503f6ac3eadbe312856",
     "head_raw_bytes": 225,
-    "head_raw_sha256": "87f0151db34e0b168d585d5f8822161663801f949f923bf2c6a10576698ad17d",
-    "records_fingerprint": "cbe9f2e7520bae50717e17046ba72fbdcc4426ac28b4ea7b0f044fcd1da0afc8",
+    "head_raw_sha256": "68a9e6ef1ccd1e881df4519e11dfe72e54696c836a2aac08828a7570126369d1",
+    "records_fingerprint": "d9d2af558e1dd4a062fadf7547807b3f01debd342e61e86832719c5b4201a9c1",
     "stream_id": "world:@kody-w/dogg"
    }
   },
@@ -94,72 +94,72 @@
   },
   "schema": "dogg/0-static-api-inputs/1",
   "source": {
-   "canonical_main_commit": "668932b5a9cad6534987295dc0ad6055c2b85c9d",
+   "canonical_main_commit": "90a64456ea5763dbb0da7ae70fca59cb83d36e6b",
    "canonical_ref": "refs/remotes/origin/main",
-   "commit": "668932b5a9cad6534987295dc0ad6055c2b85c9d",
+   "commit": "90a64456ea5763dbb0da7ae70fca59cb83d36e6b",
    "repository": "https://github.com/kody-w/dogg.git",
-   "tree": "b497bee3bcf2a668166f21cfb81a37abae5879de"
+   "tree": "cf17c14270829e605f1bb49f3af5e4e3e599afec"
   }
  },
  "world": {
   "btc_block_height": {
-   "height": 970086
+   "height": 970118
   },
   "btc_fees": {
-   "fastest_sat_vb": 3,
+   "fastest_sat_vb": 1,
    "hour_sat_vb": 1
   },
   "btc_mempool": {
-   "tx_count": 79153
+   "tx_count": 73160
   },
   "btc_usd": {
-   "spot": "85930.095"
+   "spot": "85520.695"
   },
   "crypto_market": {
    "btc_dominance_pct": "58.7",
-   "total_mcap_usd": "2940394027436"
+   "total_mcap_usd": "2923701489071"
   },
   "earthquakes_past_hour": {
-   "count": 7,
-   "max_mag": "2.3"
+   "count": 5,
+   "max_mag": "4.3"
   },
   "fx_usd": {
-   "CNY": "6.7104",
-   "EUR": "0.8889",
-   "GBP": "0.7557",
-   "JPY": "157.7303"
+   "CNY": "6.7145",
+   "EUR": "0.8921",
+   "GBP": "0.7565",
+   "JPY": "157.9821"
   },
   "grid_carbon_gb": {
-   "gco2_kwh": 180,
+   "gco2_kwh": 184,
    "index": "high"
   },
   "hn_top": {
-   "id": 49969183,
-   "title": "Beam: Reflection's 501B open-weight model"
+   "id": 49971846,
+   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons"
   },
   "iss": {
-   "lat": "-51.280",
-   "lon": "20.823"
+   "lat": "49.827",
+   "lon": "172.508"
   },
   "prediction_markets": {
    "top_by_volume": [
     {
-     "question": "Will Sweden win on 2026-10-05?",
-     "yes_price": "0.9995"
+     "question": "Falcons vs. Saints",
+     "yes_price": "0.885"
     },
     {
      "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
-     "yes_price": "0.165"
+     "yes_price": "0.155"
     },
     {
-     "question": "Falcons vs. Saints",
-     "yes_price": "0.475"
+     "question": "Bitcoin Up or Down on October 5?",
+     "yes_price": "0.9985"
     }
    ]
   },
   "space_weather": {
-   "at": "2026-10-05T18:00:00",
-   "kp": "3.67"
+   "at": "2026-10-05T21:00:00",
+   "kp": "4.0"
   }
  }
 }
